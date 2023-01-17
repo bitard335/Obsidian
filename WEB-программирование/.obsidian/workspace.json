@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19ce2c9ec5900226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Настройки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -149,15 +161,15 @@
   },
   "active": "ba8776d10e38710d",
   "lastOpenFiles": [
-    "Без названия.canvas",
+    "Настройки.md",
     "Советы.md",
+    "Без названия.canvas",
     "Примитивные типы данных/Типы данных.md",
     "2. JSCore/Строки.md",
     "2. JSCore/Советы по стилю кода.md",
     "2. JSCore/Регулярные выражения.md",
     "2. JSCore/Переменные.md",
     "img/Pasted image 20230108234119.png",
-    "Без названия 1.canvas",
-    "2. JSCore/Числа.md"
+    "Без названия 1.canvas"
   ]
 }
