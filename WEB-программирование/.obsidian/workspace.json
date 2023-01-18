@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "913fcc31e6a0479c",
+        "id": "2d1beb3449dbc10e",
         "type": "tabs",
         "children": [
           {
-            "id": "79af3c16a9a7ea79",
+            "id": "bbaf617a423b2588",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.1 Типы данных.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.1 Типы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.1 Типы данных.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.1 Типы данных.md"
+              }
             }
           },
           {
@@ -130,11 +138,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 454.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,17 +155,17 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "2b9eca97f11fd816",
+  "active": "bbaf617a423b2588",
   "lastOpenFiles": [
-    "202301181919.md",
-    "0.4 Notes/2023-01-18.md",
-    "Без названия 1.md",
+    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.2 Переменные.md",
+    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.2.1 Устаревшее ключевое слово var.md",
+    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.2.2 В чём разница между var, let и const в JavaScript.md",
+    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.2.3 Советы.md",
+    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.3 Требования к стилю кода.md",
+    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.4 Преобразование типов.md",
+    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.1 Типы данных.md",
     "Шаблоны/Стандартный.md",
-    "Без названия.md",
-    "1. WebCore/6 Таблицы, формы, чекбоксы/Таблицы.md",
-    "2. JSCore/2000 Интересные статьи/Регулярные выражения.md",
-    "2. JSCore/2 Прототипы и классы/1 Объекты/1 Методы объектов.md",
-    "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/5.1 REST API.md",
-    "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/7 Cookie.md"
+    "2. JSCore/0 Введение в JS/Var, let или const. Проблемы областей видимости переменных и ES6.md",
+    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.2.4 Советы по стилю кода.md"
   ]
 }
