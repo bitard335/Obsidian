@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. JSCore/Примитивные типы данных/1.1 Типы данных.md",
+                "file": "2. JSCore/1 Примитивные типы данных/1.1 Типы данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. JSCore/Примитивные типы данных/1.2.2 В чём разница между var, let и const в JavaScript.md",
+                "file": "2. JSCore/1 Примитивные типы данных/1.6 Строки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63f729926f69375e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. JSCore/1 Примитивные типы данных/1.2.2 В чём разница между var, let и const в JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "049393c2805f98f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. JSCore/2 Ссылочные типы данных/1.1 Объекты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3dab65e84d51aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. JSCore/2 Ссылочные типы данных/1.1 Объекты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b991d99c0b04943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. JSCore/2.1 Введение в JS/Объект события.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ae5f503085a4acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. JSCore/2 Ссылочные типы данных/1.4 Циклы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45b17e7762c729d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. JSCore/2 Ссылочные типы данных/1.5 Функции.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47cb73aaa70cb707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. JSCore/2 Ссылочные типы данных/1.6 Чистые функции.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e1c5ec9eae558b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. JSCore/2 Ссылочные типы данных/1.7 Методы массивов.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -98,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. JSCore/Примитивные типы данных/1.2.2 В чём разница между var, let и const в JavaScript.md",
+                "file": "2. JSCore/2 Ссылочные типы данных/1.7 Методы массивов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. JSCore/Примитивные типы данных/1.2.2 В чём разница между var, let и const в JavaScript.md",
+                "file": "2. JSCore/2 Ссылочные типы данных/1.7 Методы массивов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. JSCore/Примитивные типы данных/1.2.2 В чём разница между var, let и const в JavaScript.md"
+                "file": "2. JSCore/2 Ссылочные типы данных/1.7 Методы массивов.md"
               }
             }
           },
@@ -168,17 +264,17 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "537594c64eedd537",
+  "active": "7e1c5ec9eae558b1",
   "lastOpenFiles": [
-    "2. JSCore/Примитивные типы данных/1.2.1 Переменные.md",
-    "2. JSCore/Примитивные типы данных/1.1 Типы данных.md",
-    "2. JSCore/Примитивные типы данных/1.4 Преобразование типов.md",
-    "Настройки.md",
-    "2. JSCore/Числа.md",
-    "2. JSCore/Примитивные типы данных/1.2.2 В чём разница между var, let и const в JavaScript.md",
-    "2. JSCore/2.1 Введение в JS/Var, let или const. Проблемы областей видимости переменных и ES6.md",
+    "2. JSCore/Советы.md",
+    "2. JSCore/2 Ссылочные типы данных/1.7 Методы массивов.md",
+    "2. JSCore/2 Ссылочные типы данных/1.6 Чистые функции.md",
+    "2. JSCore/2 Ссылочные типы данных/1.5 Функции.md",
+    "2. JSCore/2.1 Введение в JS/Лексический синтаксис JS.md",
+    "2. JSCore/2 Ссылочные типы данных/1.4 Циклы.md",
+    "2. JSCore/2 Ссылочные типы данных/1.3 Тернарный оператор и конструкция SwitchCase.md",
+    "2. JSCore/2.1 Введение в JS/Объект события.md",
     "2. JSCore/2.1 Введение в JS/Введение.md",
-    "2. JSCore/Советы по стилю кода.md",
-    "2. JSCore/Строки.md"
+    "2. JSCore/2 Ссылочные типы данных/1.2 Условные операторы.md"
   ]
 }
