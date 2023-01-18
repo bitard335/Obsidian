@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. JSCore/2 Прототипы и классы/1 Объекты/1 Методы объектов.md",
+                "file": "1. WebCore/6 Таблицы, формы, чекбоксы/Таблицы.md",
                 "mode": "source",
                 "source": false
               }
@@ -603,8 +603,7 @@
               }
             }
           }
-        ],
-        "currentTab": 47
+        ]
       }
     ],
     "direction": "vertical"
@@ -670,7 +669,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. JSCore/2 Прототипы и классы/1 Объекты/1 Методы объектов.md",
+                "file": "1. WebCore/6 Таблицы, формы, чекбоксы/Таблицы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -687,7 +686,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. JSCore/2 Прототипы и классы/1 Объекты/1 Методы объектов.md",
+                "file": "1. WebCore/6 Таблицы, формы, чекбоксы/Таблицы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -710,7 +709,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. JSCore/2 Прототипы и классы/1 Объекты/1 Методы объектов.md"
+                "file": "1. WebCore/6 Таблицы, формы, чекбоксы/Таблицы.md"
               }
             }
           },
@@ -723,7 +722,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -740,8 +739,10 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "2b9eca97f11fd816",
+  "active": "74670d5ff67feb55",
   "lastOpenFiles": [
+    "2. JSCore/2000 Интересные статьи/Регулярные выражения.md",
+    "2. JSCore/2 Прототипы и классы/1 Объекты/1 Методы объектов.md",
     "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/5.1 REST API.md",
     "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/7 Cookie.md",
     "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/6 Postman.md",
@@ -749,8 +750,6 @@
     "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/5.3 Понимание REST.md",
     "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/5.2 RESTful API.md",
     "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/4 Тестирование API.md",
-    "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/3.2 Обзор протокола HTTP.md",
-    "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/3.1 HTTP простым языком.md",
-    "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/2 Что такое DNS.md"
+    "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/3.2 Обзор протокола HTTP.md"
   ]
 }
