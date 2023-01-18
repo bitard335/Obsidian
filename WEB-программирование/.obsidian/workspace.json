@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. JSCore/Примитивные типы данных/1.2.2 В чём разница между var, let и const в JavaScript.md",
+                "file": "2. JSCore/Примитивные типы данных/1.1 Типы данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. JSCore/Примитивные типы данных/1.2.2 В чём разница между var, let и const в JavaScript.md",
+                "file": "2. JSCore/Примитивные типы данных/1.1 Типы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. JSCore/Примитивные типы данных/1.2.2 В чём разница между var, let и const в JavaScript.md",
+                "file": "2. JSCore/Примитивные типы данных/1.1 Типы данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. JSCore/Примитивные типы данных/1.2.2 В чём разница между var, let и const в JavaScript.md"
+                "file": "2. JSCore/Примитивные типы данных/1.1 Типы данных.md"
               }
             }
           },
@@ -157,15 +157,15 @@
   },
   "active": "64ad742c0ef72a6c",
   "lastOpenFiles": [
+    "Настройки.md",
+    "2. JSCore/Примитивные типы данных/1.1 Типы данных.md",
+    "2. JSCore/Числа.md",
+    "2. JSCore/Примитивные типы данных/1.2.2 В чём разница между var, let и const в JavaScript.md",
     "2. JSCore/2.1 Введение в JS/Var, let или const. Проблемы областей видимости переменных и ES6.md",
     "2. JSCore/2.1 Введение в JS/Введение.md",
-    "2. JSCore/Числа.md",
     "2. JSCore/Советы по стилю кода.md",
     "2. JSCore/Строки.md",
     "2. JSCore/Советы.md",
-    "2. JSCore/Примитивные типы данных/1.4 Преобразование типов.md",
-    "2. JSCore/Примитивные типы данных/1.1 Типы данных.md",
-    "2. JSCore/Примитивные типы данных/1.2.1 Переменные.md",
-    "2. JSCore/Примитивные типы данных/1.2.2 В чём разница между var, let и const в JavaScript.md"
+    "2. JSCore/Примитивные типы данных/1.4 Преобразование типов.md"
   ]
 }
