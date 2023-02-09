@@ -8,10 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag: js",
+      "color": {
+        "a": 1,
+        "rgb": 14010352
+      }
+    },
+    {
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14725458
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 158,
-  "scale": 0.20863727860266762,
+  "scale": 0.31376610901378804,
   "close": true
 }
