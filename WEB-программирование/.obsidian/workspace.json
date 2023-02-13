@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "384f566f5447c280",
+        "id": "23df3cac99cd3b01",
         "type": "tabs",
         "children": [
           {
-            "id": "559e41649930f557",
+            "id": "18c22676f791bcf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Настройки.md",
+                "file": "0.3 Вопросы к ревью jsCore/js 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8866deb5e978ab4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. JSCore/2 Прототипы и классы/2 Прототипы и классы/2.5 Класс. базовый синтаксис.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bff406be35250a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. JSCore/2 Прототипы и классы/2 Прототипы и классы/2.5 Класс. базовый синтаксис.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#call",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 537.5110359191895
+    "width": 297.51103591918945
   },
   "right": {
     "id": "58407df49daf5547",
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Настройки.md",
+                "file": "0.3 Вопросы к ревью jsCore/js 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Настройки.md",
+                "file": "0.3 Вопросы к ревью jsCore/js 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Настройки.md"
+                "file": "0.3 Вопросы к ревью jsCore/js 2.md"
               }
             }
           },
@@ -142,12 +166,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 615.5
+    "width": 516.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
       "canvas:Create new canvas": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
@@ -155,17 +179,17 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "559e41649930f557",
+  "active": "18c22676f791bcf6",
   "lastOpenFiles": [
-    "2. JSCore/3 Обработка ошибок и Асинхронность/1 Обработка ошибок/1.2 Пользовательские ошибки, расширение Error.md",
-    "2. JSCore/3 Обработка ошибок и Асинхронность/1 Обработка ошибок/1.1 Методы try..catch.md",
-    "2. JSCore/2 Прототипы и классы/1 Объекты/1.1 Методы объектов.md",
-    "2. JSCore/2 Прототипы и классы/1 Объекты/1.3 Деструктуризация.md",
-    "2. JSCore/2 Прототипы и классы/1 Объекты/1.2 Остаточные параметры и оператор расширения.md",
-    "2. JSCore/2 Прототипы и классы/1 Объекты/1.5 Дата и время.md",
-    "2. JSCore/2 Прототипы и классы/2 Прототипы и классы/2.4 Методы прототипов, объекты без свойства __proto__.md",
+    "2. JSCore/2 Прототипы и классы/2 Прототипы и классы/2.5 Класс. базовый синтаксис.md",
+    "2. JSCore/2 Прототипы и классы/2 Прототипы и классы/Контекст (this) в JS.md",
+    "0.3 Вопросы к ревью jsCore/js 2.md",
+    "2. JSCore/2 Прототипы и классы/2 Прототипы и классы/2.1 Прототипы, наследования.md",
     "2. JSCore/2 Прототипы и классы/2 Прототипы и классы/2.2 Конструкторы, создание объектов через new.md",
-    "2. JSCore/2 Прототипы и классы/2 Прототипы и классы/2.3 Декораторы и переадресация вызова, сall и apply.md",
-    "2. JSCore/2 Прототипы и классы/2 Прототипы и классы/2.1 Прототипы, наследования.md"
+    "2. JSCore/2 Прототипы и классы/1 Объекты/1.4 Методы map и set.md",
+    "2. JSCore/2 Прототипы и классы/1 Объекты/1.3 Деструктуризация.md",
+    "2. JSCore/1 Основные концепции/2 Ссылочные типы данных/2.1 Объекты.md",
+    "2. JSCore/2 Прототипы и классы/1 Объекты/1.1 Методы объектов.md",
+    "2. JSCore/2 Прототипы и классы/1 Объекты/1.2 Остаточные параметры и оператор расширения.md"
   ]
 }
