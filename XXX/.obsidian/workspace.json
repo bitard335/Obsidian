@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "96b5b427a99c3b5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шаблоны/Шаблон для дневника.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Калушко В.А. 26.03.1997.md",
+                "file": "Шаблоны/Шаблон для дневника.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Калушко В.А. 26.03.1997.md",
+                "file": "Шаблоны/Шаблон для дневника.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Калушко В.А. 26.03.1997.md"
+                "file": "Шаблоны/Шаблон для дневника.md"
               }
             }
           }
@@ -142,8 +155,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0ffad3732ebf6c81",
+  "active": "96b5b427a99c3b5c",
   "lastOpenFiles": [
+    "1. Мой дневник/2023-02-14.md",
+    "Шаблоны/Шаблон для дневника.md",
+    "1. Мой дневник/Без названия.md",
+    "Калушко В.А. 26.03.1997.md",
     "Учёба/1. КубГТУ/Мостовой Д.Е. 20.02.1997.md",
     "Знакомства/Капустянов А.А. 13.02.1998.md"
   ]
