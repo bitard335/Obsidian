@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aa5c50fa7f8661c0",
+        "id": "fea94a17be567055",
         "type": "tabs",
         "children": [
           {
-            "id": "4381540332df2269",
+            "id": "efe8543bd1e8dd9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "96b5b427a99c3b5c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Мой дневник/2023-02-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Мой дневник/2023-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Мой дневник/2023-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Мой дневник/2023-02-26.md"
+              }
             }
           }
         ]
@@ -139,16 +138,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Создать новый холст": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "96b5b427a99c3b5c",
+  "active": "efe8543bd1e8dd9d",
   "lastOpenFiles": [
+    "1. Мой дневник/2023-02-24.md",
+    "1. Мой дневник/2023-02-26.md",
     "1. Мой дневник/2023-02-20.md",
     "1. Мой дневник/2023-02-14.md",
     "Шаблоны/Шаблон для дневника.md",
