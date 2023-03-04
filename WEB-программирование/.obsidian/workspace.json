@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/5.4 REST простыми словами.md",
+                "file": "2. JSCore/4 Browser API + HTTP/2 Сетевое взаимодействие/1.4 FETCH.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,8 +35,12 @@
             "id": "394788ae6077f353",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.3 Вопросы к ревью jsCore/JavaScript4. Browser API + HTTP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.3 Вопросы к ревью jsCore/JavaScript4. Browser API + HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.3 Вопросы к ревью jsCore/JavaScript4. Browser API + HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.3 Вопросы к ревью jsCore/JavaScript4. Browser API + HTTP.md"
+              }
             }
           },
           {
@@ -174,6 +182,7 @@
   },
   "active": "394788ae6077f353",
   "lastOpenFiles": [
+    "2. JSCore/4 Browser API + HTTP/2 Сетевое взаимодействие/1.4 FETCH.md",
     "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/5.4 REST простыми словами.md",
     "0.3 Вопросы к ревью jsCore/JavaScript4. Browser API + HTTP.md",
     "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/3.1 HTTP простым языком.md",
@@ -186,7 +195,6 @@
     "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/5.1 REST API.md",
     "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/7 Cookie.md",
     "2. JSCore/4 Browser API + HTTP/1 DOM/6 LocalStorage, sessionStorage.md",
-    "2. JSCore/4 Browser API + HTTP/2 Сетевое взаимодействие/1.4 FETCH.md",
     "2. JSCore/4 Browser API + HTTP/1 DOM/3 Изменение документа.md",
     "2. JSCore/4 Browser API + HTTP/1 DOM/2 Атрибуты и свойства.md",
     "2. JSCore/4 Browser API + HTTP/1 DOM/1.1 Браузерное окружение.md",
