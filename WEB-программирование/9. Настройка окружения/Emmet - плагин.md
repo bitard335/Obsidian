@@ -148,7 +148,11 @@ CSS3 крут, но вендорные префиксы — реальная б�
 ### Градиенты     
 
 Говоря о раздражающих особенностях CSS3, мы не можем забыть градиенты. Все те сложные выражения, что вы писали вручную, можно заменить на одну аббревиатуру.  
-К примеру **lg(left, #fff 50%, #000)** преобразуется в:    ``` background-image: -webkit-gradient(linear, 0 0, 100% 0, color-stop(0.5, #fff), to(#000)); background-image: -webkit-linear-gradient(left, #fff 50%, #000); background-image: -moz-linear-gradient(left, #fff 50%, #000); background-image: -o-linear-gradient(left, #fff 50%, #000); background-image: linear-gradient(left, #fff 50%, #000); ```     ![](https://habrastorage.org/storage2/10b/0ed/234/10b0ed23401674b521c96e0f9333fad5.gif)
+К примеру **lg(left, fff 50%, #000)** преобразуется в:    
+~~~
+``` background-image: -webkit-gradient(linear, 0 0, 100% 0, color-stop(0.5, #fff), to(#000)); background-image: -webkit-linear-gradient(left, #fff 50%, #000); background-image: -moz-linear-gradient(left, #fff 50%, #000); background-image: -o-linear-gradient(left, #fff 50%, #000); background-image: linear-gradient(left, #fff 50%, #000); ``` 
+~~~
+![](https://habrastorage.org/storage2/10b/0ed/234/10b0ed23401674b521c96e0f9333fad5.gif)
 
 ## Дополнительные возможности      
 ### Lorem ipsum     
