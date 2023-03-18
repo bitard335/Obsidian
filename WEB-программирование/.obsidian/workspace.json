@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. JSCore/IIFE.md",
+                "file": "3. ReactCore/1.4 Состояния и события/1.4.16 propTypes.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iife",
+                "query": "prevent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. JSCore/IIFE.md",
+                "file": "3. ReactCore/1.4 Состояния и события/1.4.16 propTypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. JSCore/IIFE.md",
+                "file": "3. ReactCore/1.4 Состояния и события/1.4.16 propTypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. JSCore/IIFE.md"
+                "file": "3. ReactCore/1.4 Состояния и события/1.4.16 propTypes.md"
               }
             }
           },
@@ -157,43 +157,44 @@
   },
   "active": "d19b65830fff8a51",
   "lastOpenFiles": [
-    "3. ReactCore/1.4 Состояния и события/1.4.19 Теория JSX - синтаксис . Передача контента.md",
-    "2. JSCore/IIFE.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.18 Библиотеки prop-types.md",
-    "2. JSCore/1 Основные концепции/3 Продвинутая работа с функциями/Подробнее про рекурсию.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.17 NPM , установка дополнительных пакетов.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.16 propTypes.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.15 defaultProps.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.13 Контролируемые компоненты.md",
     "3. ReactCore/1.4 Состояния и события/1.4.12 Работа с формами.md",
-    "0.4 Вопросы к ревью React/React 1.md",
     "3. ReactCore/1.4 Состояния и события/1.4.11 setState - обновление элемента.md",
-    "0.2 Вопросы к ревью webcore/WebCore3.md",
-    "0.2 Вопросы к ревью webcore/WebCore2.md",
-    "0.2 Вопросы к ревью webcore/WebCore1 Основы HTML & CSS.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.8 setState() - добавление элемента.md",
     "3. ReactCore/1.4 Состояния и события/1.4.10 Данные в React-приложении.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.7 setState() - удаление элемента.md",
+    "3. ReactCore/1.5 Инструменты проверки кода/1.5.1 Держи свой код чистым с помощью ESLint.md",
+    "3. ReactCore/1.5 Инструменты проверки кода",
+    "РАЗБОР СОДЕРЖИМОГО/202303161228.md",
     "3. ReactCore/1.4 Состояния и события/1.4.3 Обработка событий.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.2 Компоненты-классы.md",
-    "3. ReactCore/Модули/3. Динамические импорты.md",
-    "3. ReactCore/Модули/2. Экспорт и импорт.md",
-    "3. ReactCore/Модули/1. Модули, введение.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.3 State - состояние компонента.md",
-    "2. JSCore/1 Основные концепции/2 Ссылочные типы данных/2.3 Тернарный оператор и конструкция SwitchCase.md",
-    "2. JSCore/Область видимости.md",
+    "1. WebCore/6 Таблицы, формы, чекбоксы/Форма.md",
+    "1. WebCore/5 Псевдоклассы и псевдоэлементы/Псевдоэлементы.md",
+    "1. WebCore/6 Таблицы, формы, чекбоксы/Подробнее о чекбоксах/Чекбоксы, стилизация чекбоксов.md",
+    "1. WebCore/6 Таблицы, формы, чекбоксы/Подробнее о чекбоксах/Подробнее о чекбоксах.md",
+    "0.3 Вопросы к ревью jsCore/JavaScript4. Browser API + HTTP.md",
+    "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/5.2 RESTful API.md",
+    "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/4 Тестирование API.md",
+    "2. JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/5.1 REST API.md",
+    "2. JSCore/IIFE.md",
+    "РАЗБОР СОДЕРЖИМОГО/202303151706.md",
+    "Pasted image 20230315180217.png",
+    "Pasted image 20230315180202.png",
+    "Pasted image 20230315175147.png",
+    "Pasted image 20230315174936.png",
+    "Настройки.md",
+    "1. WebCore/2 Семантическая разметка SEO. Доступность/Особенности кроссбраузерной вёрстки.md",
+    "1. WebCore/2 Семантическая разметка SEO. Доступность/Используйте вендорные префиксы.md",
+    "1. WebCore/2 Семантическая разметка SEO. Доступность/Адаптивный дизайн сайта.md",
+    "1. WebCore/1 Основы HTML & CSS/HTML, XHTML и XML и их отличия.md",
+    "1. WebCore/1 Основы HTML & CSS/DOCTYPE.md",
+    "1. WebCore/1 Основы HTML & CSS/Язык HTML.md",
+    "1. WebCore/1 Основы HTML & CSS/Наследование и каскадирование CSS.md",
     "img/Pasted image 20230310182313.png",
     "РАЗБОР СОДЕРЖИМОГО/Область видимости.canvas",
-    "Настройки.md",
     "img/Pasted image 20230310165717.png",
-    "2. JSCore/1 Основные концепции/3 Продвинутая работа с функциями/3.3 Замыкания и области видимости.md",
     "img/Pasted image 20230310173334.png",
     "img/Pasted image 20230310172701.png",
     "img/Pasted image 20230310172620.png",
     "img/Pasted image 20230310172327.png",
-    "img/Pasted image 20230310172248.png",
-    "img/Pasted image 20230310172210.png",
-    "img/Pasted image 20230310172034.png",
-    "img/Pasted image 20230310171918.png",
-    "3. ReactCore/1.4 Состояния и события/1.4.4 Как работает setState.md",
     "3. ReactCore/1.2 Вступление",
     "3. ReactCore/1.3 Базовые концепции",
     "3. ReactCore/1.4 Состояния и события",
