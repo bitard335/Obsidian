@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0670b5f5152de4c3",
+        "id": "9ae9f99820807025",
         "type": "tabs",
         "children": [
           {
-            "id": "d513f3107a98208c",
+            "id": "ad0be0a422f422c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. ReactCore/1.4 Состояния и события/1.4.12 Работа с формами.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac4fb466ff1c908d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.4 Вопросы к ревью React/React 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d210fa717a1b38de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. ReactCore/1.3 Базовые концепции/1.3.3 Рендеринг элементов.md",
+                "file": "3. ReactCore/1.5 Инструменты проверки кода/1.5.1 Держи свой код чистым с помощью ESLint.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#children",
+                "query": "tag:#if-else",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4 Вопросы к ревью React/React 1.md",
+                "file": "3. ReactCore/1.5 Инструменты проверки кода/1.5.1 Держи свой код чистым с помощью ESLint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4 Вопросы к ревью React/React 1.md",
+                "file": "3. ReactCore/1.5 Инструменты проверки кода/1.5.1 Держи свой код чистым с помощью ESLint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4 Вопросы к ревью React/React 1.md"
+                "file": "3. ReactCore/1.5 Инструменты проверки кода/1.5.1 Держи свой код чистым с помощью ESLint.md"
               }
             }
           },
@@ -180,35 +155,35 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "ac4fb466ff1c908d",
+  "active": "ad0be0a422f422c7",
   "lastOpenFiles": [
-    "3. ReactCore/1.3 Базовые концепции/1.3.3 Рендеринг элементов.md",
-    "0.4 Вопросы к ревью React/React 1.md",
-    "3. ReactCore/1.3 Базовые концепции/1.3.5 Знакомство с JSX.md",
-    "3. ReactCore/1.3 Базовые концепции/1.3.11 Как подключить CSS.md",
-    "3. ReactCore/1.3 Базовые концепции/1.3.4 React - компоненты.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.12 Работа с формами.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.13 Контролируемые компоненты.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.19 Теория JSX - синтаксис . Передача контента.md",
+    "3. ReactCore/1.5 Инструменты проверки кода/1.5.1 Держи свой код чистым с помощью ESLint.md",
     "3. ReactCore/1.4 Состояния и события/1.4.18 Библиотеки prop-types.md",
-    "img/Pasted image 20230320183637.png",
+    "3. ReactCore/1.4 Состояния и события/1.4.17 NPM , установка дополнительных пакетов.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.16 propTypes.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.15 defaultProps.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.13 Контролируемые компоненты.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.12 Работа с формами.md",
     "3. ReactCore/1.4 Состояния и события/1.4.11 setState - обновление элемента.md",
     "3. ReactCore/1.4 Состояния и события/1.4.10 Данные в React-приложении.md",
     "3. ReactCore/1.4 Состояния и события/1.4.8 setState() - добавление элемента.md",
     "3. ReactCore/1.4 Состояния и события/1.4.7 setState() - удаление элемента.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.4 Как работает setState.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.6 Собственная система событий.md",
     "3. ReactCore/1.4 Состояния и события/1.4.5 Обновление состояния, которое зависит от предыдущего значения.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.4 Как работает setState (2).md",
+    "3. ReactCore/1.4 Состояния и события/1.4.4 Как работает setState.md",
     "3. ReactCore/1.4 Состояния и события/1.4.3 State - состояние компонента.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.19 Теория JSX - синтаксис . Передача контента.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.3 Обработка событий.md",
     "3. ReactCore/1.4 Состояния и события/1.4.2 Компоненты-классы.md",
-    "().md",
-    "3. ReactCore/1.4 Состояния и события/1.4.15 defaultProps.md",
-    "3. ReactCore/1.3 Базовые концепции/1.3.8.2 Компоненты и пропсы.md",
-    "2. JSCore/4 Browser API + HTTP/1 DOM/1.3 Навигация по DOM-элементам.md",
+    "3. ReactCore/1.3 Базовые концепции/1.3.11 Как подключить CSS.md",
     "3. ReactCore/1.3 Базовые концепции/1.3.10 Коллекция и ключи.md",
+    "3. ReactCore/1.3 Базовые концепции/1.3.9 Массивы, как свойства компонентов.md",
+    "3. ReactCore/1.3 Базовые концепции/1.3.8.2 Компоненты и пропсы.md",
     "3. ReactCore/1.3 Базовые концепции/1.3.8.1 Условный рендеринг.md",
     "3. ReactCore/1.3 Базовые концепции/1.3.7 Структура файлов.md",
-    "РАЗБОР СОДЕРЖИМОГО/202303151706.md",
+    "3. ReactCore/1.3 Базовые концепции/1.3.5 Знакомство с JSX.md",
+    "3. ReactCore/1.3 Базовые концепции/1.3.4 React - компоненты.md",
+    "img/Pasted image 20230320183637.png",
     "3. ReactCore/1.5 Инструменты проверки кода",
     "img/Pasted image 20230315180217.png",
     "img/Pasted image 20230315180202.png",

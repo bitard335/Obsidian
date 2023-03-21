@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "file: React",
+      "query": "file: ReactJSX",
       "color": {
         "a": 1,
         "rgb": 28415
@@ -67,6 +67,6 @@
   "repelStrength": 13.4895833333333,
   "linkStrength": 1,
   "linkDistance": 114,
-  "scale": 0.2492888735132467,
+  "scale": 0.12682867734253042,
   "close": false
 }
