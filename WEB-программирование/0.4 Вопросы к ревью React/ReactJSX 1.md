@@ -160,9 +160,13 @@ function GuestGreeting(props) {
 ```
 function Greeting(props) {
   const isLoggedIn = props.isLoggedIn;
-  if (isLoggedIn) {    return <UserGreeting />;  }  return <GuestGreeting />;}
+  if (isLoggedIn) {    
+		return <UserGreeting />;  }  
+	return <GuestGreeting />;}
+
 const root = ReactDOM.createRoot(document.getElementById('root')); 
 // Попробуйте заменить на isLoggedIn={true}:
+
 root.render(<Greeting isLoggedIn={false} />);
 ```
 
@@ -174,8 +178,13 @@ root.render(<Greeting isLoggedIn={false} />);
 Подробнее: [Работа с коллекциями](https://ru.hexlet.io/courses/js-react/lessons/jsx-collections/theory_unit)
 
 #### 6. Зачем нужен #key в циклах?  
+Подробнее: [Ключи](https://ru.react.js.org/docs/lists-and-keys.html#%D0%9A%D0%BB%D1%8E%D1%87%D0%B8)
 
 Каждому #JSX элементу в массиве нужно уникальное свойство #key 
+
+key нужен для того , чтобы реакт отрисовывал элменты лучше.
+
+
 
 #React использует #key , чтобы эффективно сравнивать элементы при обновлении
 Не стоит делать ключи из индексов массива. Ключ типа #key считается одним из самых идеальных ключей, потому что он уникален для #React обьекта.
@@ -281,7 +290,7 @@ render() {
 }
 ```
 
-`this.props.children` делает, заключается в том, что  он используется для отображения всего, что вы включаете между открывающим и закрывающим тегами при вызове компонента._
+`this.props.children` заключается в том, что  используется для отображения всего, что вы включаете между открывающим и закрывающим тегами при вызове компонента.
 
 Простой пример:
 
@@ -319,8 +328,8 @@ render () {
 
 > Это отделяет `<Picture>`компонент от его содержимого и делает его более пригодным для повторного использования.
 
-
-
+children является псевдомассивом !!!
+передается 2 строки и 2 числа
 
 #### 9. Что делает #setState? Функция setState первым аргументом может принять объект, а может функцию. Зачем нужна функция?  
 Подробнее: [[1.4.3 State - состояние компонента]] , 
@@ -417,6 +426,8 @@ this.setState((state) => {
 ##### Какая разница между `state` и `props`?
 
 [`props`](https://ru.reactjs.org/docs/components-and-props.html) (намеренно сокращённо от англ. «properties» — свойства) и [`state`](https://ru.reactjs.org/docs/state-and-lifecycle.html) — это обычные JavaScript-объекты. Несмотря на то, что оба содержат информацию, которая влияет на то, что увидим после рендера, есть существенное различие: `props` передаётся _в_ компонент (служат как параметры функции), в то время как `state` находится _внутри_ компонента (по аналогии с переменными, которые объявлены внутри функции).
+
+setState 1, 2, 3
 
 #### 11. Что такое контроллируемый компонент?  
 Подробнее: [Контролируемый и неконтролируемый компонент](https://habr.com/ru/post/502034/)
