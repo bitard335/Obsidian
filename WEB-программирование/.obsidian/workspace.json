@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcc3ec38fc07a1bb",
+            "id": "892312b6d21de3d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. JSCore/3 Обработка ошибок и Асинхронность/Управление памятью. JS101. Сильные и слабые ссылки, FinalizationRegistry.md",
+                "file": "0.4 Вопросы к ревью React/ReactJSX 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0bfdbfe0683cb02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. ReactCore/1.4 Состояния и события/1.4.19 Теория JSX - синтаксис . Передача контента.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "onkey",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 518.5
   },
   "right": {
     "id": "58407df49daf5547",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. JSCore/3 Обработка ошибок и Асинхронность/Управление памятью. JS101. Сильные и слабые ссылки, FinalizationRegistry.md",
+                "file": "0.4 Вопросы к ревью React/ReactJSX 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. JSCore/3 Обработка ошибок и Асинхронность/Управление памятью. JS101. Сильные и слабые ссылки, FinalizationRegistry.md",
+                "file": "0.4 Вопросы к ревью React/ReactJSX 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. JSCore/3 Обработка ошибок и Асинхронность/Управление памятью. JS101. Сильные и слабые ссылки, FinalizationRegistry.md"
+                "file": "0.4 Вопросы к ревью React/ReactJSX 1.md"
               }
             }
           },
@@ -142,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 598.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,11 +167,21 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "bcc3ec38fc07a1bb",
+  "active": "892312b6d21de3d4",
   "lastOpenFiles": [
+    "3. ReactCore/1.4 Состояния и события/1.4.19 Теория JSX - синтаксис . Передача контента.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.13 Контролируемые компоненты.md",
+    "0.4 Вопросы к ревью React/ReactJSX 1.md",
+    "3. ReactCore/1.3 Базовые концепции/1.3.3 Рендеринг элементов.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.4 Как работает setState.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.10 Данные в React-приложении.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.11 setState - обновление элемента.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.12 Работа с формами.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.16 propTypes.md",
+    "3. ReactCore/1.4 Состояния и события/1.4.15 defaultProps.md",
+    "2. JSCore/3 Обработка ошибок и Асинхронность/Управление памятью. JS101. Сильные и слабые ссылки, FinalizationRegistry.md",
     "2. JSCore/3 Обработка ошибок и Асинхронность/Всё о Promise и об асинхронности.md",
     "2. JSCore/3 Обработка ошибок и Асинхронность/Promises A+.md",
-    "2. JSCore/3 Обработка ошибок и Асинхронность/Управление памятью. JS101. Сильные и слабые ссылки, FinalizationRegistry.md",
     "2. JSCore/3 Обработка ошибок и Асинхронность/2 Работа с асинхронным кодом/1.3.1 Promise.md",
     "Pasted image 20230328100031.png",
     "Pasted image 20230328095934.png",
@@ -167,7 +189,7 @@
     "Pasted image 20230328094449.png",
     "Pasted image 20230328094207.png",
     "0.3 Вопросы к ревью jsCore/JavaScript4. Browser API + HTTP.md",
-    "РАЗБОР СОДЕРЖИМОГО/Обработка ошибок в Fetch API.md",
+    "3. ReactCore/2.2/Обработка ошибок в Fetch API.md",
     "3. ReactCore/2.2/Как работает Fetch API.md",
     "3. ReactCore/2.2/Выбор HTTP API для браузера.md",
     "3. ReactCore/2.2/Без названия.md",
@@ -177,17 +199,7 @@
     "РАЗБОР СОДЕРЖИМОГО/202303151706.md",
     "РАЗБОР СОДЕРЖИМОГО/202303231406.md",
     "РАЗБОР СОДЕРЖИМОГО/Замыкания.md",
-    "0.4 Вопросы к ревью React/ReactJSX 1.md",
     "3. ReactCore/1.5 Инструменты проверки кода/1.5.1 Держи свой код чистым с помощью ESLint.md",
-    "2. JSCore/1 Основные концепции/2 Ссылочные типы данных/2.3 Тернарный оператор и конструкция SwitchCase.md",
-    "2. JSCore/1 Основные концепции/2 Ссылочные типы данных/2.2 Условные операторы.md",
-    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/Операторы сравнения.md",
-    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/Логические операторы.md",
-    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/Регулярные выражения.md",
-    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1 Блок. Задачи.md",
-    "2. JSCore/1 Основные концепции/2 Ссылочные типы данных/2.4 Циклы.md",
-    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.1 Типы данных.md",
-    "2. JSCore/0 Введение в JS/Поднятие.md",
     "3. ReactCore/2.2",
     "img/Pasted image 20230320183637.png",
     "3. ReactCore/1.5 Инструменты проверки кода",
