@@ -8,30 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "892312b6d21de3d4",
+            "id": "0e0ecbc86e3cb723",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.4 Вопросы к ревью React/ReactJSX 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "f0bfdbfe0683cb02",
+            "id": "73d61c35d79e715e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. ReactCore/1.4 Состояния и события/1.4.19 Теория JSX - синтаксис . Передача контента.md",
+                "file": "Настройки.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,14 +94,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.4 Вопросы к ревью React/ReactJSX 1.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Настройки.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.4 Вопросы к ревью React/ReactJSX 1.md",
+                "file": "Настройки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.4 Вопросы к ревью React/ReactJSX 1.md"
+                "file": "Настройки.md"
               }
             }
           },
@@ -154,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 598.5
+    "width": 604.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,46 +164,48 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "892312b6d21de3d4",
+  "active": "73d61c35d79e715e",
   "lastOpenFiles": [
-    "3. ReactCore/1.4 Состояния и события/1.4.19 Теория JSX - синтаксис . Передача контента.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.13 Контролируемые компоненты.md",
-    "0.4 Вопросы к ревью React/ReactJSX 1.md",
-    "3. ReactCore/1.3 Базовые концепции/1.3.3 Рендеринг элементов.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.4 Как работает setState.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.10 Данные в React-приложении.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.11 setState - обновление элемента.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.12 Работа с формами.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.16 propTypes.md",
-    "3. ReactCore/1.4 Состояния и события/1.4.15 defaultProps.md",
-    "2. JSCore/3 Обработка ошибок и Асинхронность/Управление памятью. JS101. Сильные и слабые ссылки, FinalizationRegistry.md",
-    "2. JSCore/3 Обработка ошибок и Асинхронность/Всё о Promise и об асинхронности.md",
-    "2. JSCore/3 Обработка ошибок и Асинхронность/Promises A+.md",
-    "2. JSCore/3 Обработка ошибок и Асинхронность/2 Работа с асинхронным кодом/1.3.1 Promise.md",
-    "Pasted image 20230328100031.png",
-    "Pasted image 20230328095934.png",
-    "Pasted image 20230328095902.png",
-    "Pasted image 20230328094449.png",
-    "Pasted image 20230328094207.png",
-    "0.3 Вопросы к ревью jsCore/JavaScript4. Browser API + HTTP.md",
-    "3. ReactCore/2.2/Обработка ошибок в Fetch API.md",
-    "3. ReactCore/2.2/Как работает Fetch API.md",
-    "3. ReactCore/2.2/Выбор HTTP API для браузера.md",
-    "3. ReactCore/2.2/Без названия.md",
-    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.6 Строки.md",
-    "2. JSCore/1 Основные концепции/1 Примитивные типы данных/1.4.2 Подробнее про преобразование типов.md",
+    "3. ReactCore/3.4 Redux/3.4.14 mapDispatchToProps в виде обьекта.md",
+    "img/Pasted image 20230424234746.png",
+    "3. ReactCore/3.4 Redux/3.4.13 mapDispatchToProps().md",
+    "3. ReactCore/3.4 Redux/3.4.12 React-Redux и функция connect().md",
+    "0.4 Вопросы к ревью React/ReactJSX 3.md",
+    "2. JSCore/Область видимости.md",
     "РАЗБОР СОДЕРЖИМОГО/Практика. Рекурсия.md",
-    "РАЗБОР СОДЕРЖИМОГО/202303151706.md",
-    "РАЗБОР СОДЕРЖИМОГО/202303231406.md",
-    "РАЗБОР СОДЕРЖИМОГО/Замыкания.md",
-    "3. ReactCore/1.5 Инструменты проверки кода/1.5.1 Держи свой код чистым с помощью ESLint.md",
-    "3. ReactCore/2.2",
+    "Настройки.md",
+    "РАЗБОР СОДЕРЖИМОГО/Вопросы итогового собеседования.md",
+    "РАЗБОР СОДЕРЖИМОГО/Настройка eslint & prettier.md",
+    "9. Настройка окружения/Введение в NPM скрипты.md",
+    "9. Настройка окружения/Git.md",
+    "3. ReactCore/3.4 Redux/3.4.11 Использование React и Redux.md",
+    "3. ReactCore/3.4 Redux/3.4.10 bindActionCreators().md",
+    "3. ReactCore/3.4 Redux/3.4.18 Redux DevTools.md",
+    "3. ReactCore/3.4 Redux/3.4.17 Асинхронное изменение state.md",
+    "3. ReactCore/3.4 Redux/3.4.16 Как работает Middleware.md",
+    "РАЗБОР СОДЕРЖИМОГО/202304242313.md",
+    "3. ReactCore/3.4 Redux/3.4.9 Структура проекта.md",
+    "3. ReactCore/3.4 Redux/3.4.8 Action Creator.md",
+    "3. ReactCore/3.4 Redux/3.4.7 Действия с параметрами.md",
+    "3. ReactCore/3.4 Redux/3.4.6 UI для Redux.md",
+    "3. ReactCore/3.4 Redux/3.4.5 Чистые функции.md",
+    "3. ReactCore/3.4 Redux/3.4.4 Redux Store.md",
+    "img/Pasted image 20230424221739.png",
+    "3. ReactCore/3.4 Redux/3.4.3 Reducer & Actions.md",
+    "3. ReactCore/3.4 Redux/Без названия.md",
+    "img/Pasted image 20230424203458.png",
+    "3. ReactCore/3.4 Redux",
+    "3. ReactCore/3.3 Стилизация",
+    "3. ReactCore/3.2 React-хуки",
+    "img/Pasted image 20230328100031.png",
+    "img/Pasted image 20230328095934.png",
+    "img/Pasted image 20230328095902.png",
+    "img/Pasted image 20230328094449.png",
+    "img/Pasted image 20230328094207.png",
+    "3. ReactCore/2.2 Работа с API",
     "img/Pasted image 20230320183637.png",
     "3. ReactCore/1.5 Инструменты проверки кода",
     "img/Pasted image 20230315180217.png",
-    "img/Pasted image 20230315180202.png",
-    "img/Pasted image 20230315175147.png",
-    "img/Pasted image 20230315174936.png",
     "РАЗБОР СОДЕРЖИМОГО/Область видимости.canvas",
     "3. ReactCore/1.2 Вступление",
     "3. ReactCore/1.3 Базовые концепции",
