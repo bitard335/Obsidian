@@ -11,24 +11,23 @@
             "id": "0e0ecbc86e3cb723",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "73d61c35d79e715e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Настройки.md",
+                "file": "0.4 Вопросы к ревью React/ReactJSX 3.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b3c9798c56fac8b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "tag:#redux-actions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Настройки.md",
+                "file": "0.4 Вопросы к ревью React/ReactJSX 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Настройки.md",
+                "file": "0.4 Вопросы к ревью React/ReactJSX 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Настройки.md"
+                "file": "0.4 Вопросы к ревью React/ReactJSX 3.md"
               }
             }
           },
@@ -164,35 +163,38 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "73d61c35d79e715e",
+  "active": "0e0ecbc86e3cb723",
   "lastOpenFiles": [
-    "3. ReactCore/3.4 Redux/3.4.14 mapDispatchToProps в виде обьекта.md",
-    "img/Pasted image 20230424234746.png",
-    "3. ReactCore/3.4 Redux/3.4.13 mapDispatchToProps().md",
-    "3. ReactCore/3.4 Redux/3.4.12 React-Redux и функция connect().md",
-    "0.4 Вопросы к ревью React/ReactJSX 3.md",
-    "2. JSCore/Область видимости.md",
-    "РАЗБОР СОДЕРЖИМОГО/Практика. Рекурсия.md",
-    "Настройки.md",
-    "РАЗБОР СОДЕРЖИМОГО/Вопросы итогового собеседования.md",
-    "РАЗБОР СОДЕРЖИМОГО/Настройка eslint & prettier.md",
-    "9. Настройка окружения/Введение в NPM скрипты.md",
-    "9. Настройка окружения/Git.md",
-    "3. ReactCore/3.4 Redux/3.4.11 Использование React и Redux.md",
-    "3. ReactCore/3.4 Redux/3.4.10 bindActionCreators().md",
-    "3. ReactCore/3.4 Redux/3.4.18 Redux DevTools.md",
     "3. ReactCore/3.4 Redux/3.4.17 Асинхронное изменение state.md",
     "3. ReactCore/3.4 Redux/3.4.16 Как работает Middleware.md",
-    "РАЗБОР СОДЕРЖИМОГО/202304242313.md",
-    "3. ReactCore/3.4 Redux/3.4.9 Структура проекта.md",
-    "3. ReactCore/3.4 Redux/3.4.8 Action Creator.md",
+    "3. ReactCore/3.4 Redux/3.4.14 mapDispatchToProps в виде обьекта.md",
+    "3. ReactCore/3.4 Redux/3.4.13 mapDispatchToProps().md",
+    "3. ReactCore/3.4 Redux/3.4.12 React-Redux и функция connect().md",
+    "3. ReactCore/3.4 Redux/3.4.10 bindActionCreators().md",
+    "3. ReactCore/3.4 Redux/3.4.5 Чистые функции.md",
+    "0.4 Вопросы к ревью React/ReactJSX 3.md",
     "3. ReactCore/3.4 Redux/3.4.7 Действия с параметрами.md",
     "3. ReactCore/3.4 Redux/3.4.6 UI для Redux.md",
-    "3. ReactCore/3.4 Redux/3.4.5 Чистые функции.md",
+    "3. ReactCore/3.4 Redux/3.4.18 Redux DevTools.md",
+    "3. ReactCore/3.4 Redux/3.4.11 Использование React и Redux.md",
+    "3. ReactCore/3.4 Redux/3.4.9 Структура проекта.md",
+    "3. ReactCore/3.4 Redux/3.4.8 Action Creator.md",
     "3. ReactCore/3.4 Redux/3.4.4 Redux Store.md",
-    "img/Pasted image 20230424221739.png",
     "3. ReactCore/3.4 Redux/3.4.3 Reducer & Actions.md",
-    "3. ReactCore/3.4 Redux/Без названия.md",
+    "3. ReactCore/3.4 Redux/3.4.1 Введение в Redux.md",
+    "3. ReactCore/3.2 React-хуки/Все хуки и концепты React.md",
+    "3. ReactCore/3.2 React-хуки/3.2.1 React Hooks.md",
+    "3. ReactCore/3.3 Стилизация/Компоненты высшего порядка.md",
+    "0.4 Вопросы к ревью React/Преимущества и недостатки HOC.canvas",
+    "Без названия (2).canvas",
+    "3. ReactCore/3.3 Стилизация/Стилизация и CSS.md",
+    "3. ReactCore/3.2 React-хуки/3.2.10 Правила и ограничения хуков.md",
+    "3. ReactCore/3.2 React-хуки/3.2.9 useCallback() и useMemo().md",
+    "3. ReactCore/3.2 React-хуки/3.2.8 Создание собственных хуков.md",
+    "3. ReactCore/3.2 React-хуки/3.2.7 Использование useEffect() для загрузки данных.md",
+    "3. ReactCore/3.2 React-хуки/3.2.6 useEffect() - упражнения.md",
+    "img/Pasted image 20230424234746.png",
+    "img/Pasted image 20230424221739.png",
     "img/Pasted image 20230424203458.png",
     "3. ReactCore/3.4 Redux",
     "3. ReactCore/3.3 Стилизация",
