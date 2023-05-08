@@ -8,7 +8,7 @@ youtube:
 1. 
 
 keywords:
-
+git checkout -b branchName
 _____
 
 ## Первоначальная настройка Git
