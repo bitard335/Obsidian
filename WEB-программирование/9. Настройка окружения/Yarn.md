@@ -2,7 +2,7 @@ ____
 
 tags: #
 
-links: 
+links: [[]]
 
 youtube: 
 1. 
@@ -10,4 +10,7 @@ youtube:
 keywords:
 
 _____
+~~~
+npm install --global yarn
+~~~
 

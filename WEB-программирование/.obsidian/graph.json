@@ -11,7 +11,7 @@
       "query": "tag: JS",
       "color": {
         "a": 1,
-        "rgb": 15842308
+        "rgb": 16764447
       }
     },
     {
@@ -32,7 +32,7 @@
       "query": "file: JavaScript",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 16777215
       }
     },
     {
@@ -46,14 +46,21 @@
       "query": "tag: React",
       "color": {
         "a": 1,
-        "rgb": 458420
+        "rgb": 16711680
       }
     },
     {
       "query": "file: ReactJSX",
       "color": {
         "a": 1,
-        "rgb": 28415
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag: TS",
+      "color": {
+        "a": 1,
+        "rgb": 4628194
       }
     }
   ],
@@ -67,6 +74,6 @@
   "repelStrength": 13.4895833333333,
   "linkStrength": 1,
   "linkDistance": 114,
-  "scale": 0.367076139366671,
+  "scale": 0.10316013234583643,
   "close": false
 }
