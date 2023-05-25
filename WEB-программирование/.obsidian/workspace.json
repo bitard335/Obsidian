@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "9ae9f99820807025",
+        "id": "4250cf47426da037",
         "type": "tabs",
         "children": [
           {
-            "id": "32acf892e750b935",
+            "id": "be8ed93278b41025",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. TypeScript/0. Вопросы к собеседованию/6. Типы в TypeScript.md",
+                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c998c22f719ca9f",
+            "id": "3f30a9ec08240ad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Настройка окружения/Yarn.md",
-                "mode": "source",
+                "file": "4. ReactCore/1.3 Базовые концепции/1.3.1 React-элементы.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,21 +60,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#компиляция-TS",
+                "query": "tag:#CSS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "8b6ad852038aec51",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -90,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 449.5
   },
   "right": {
     "id": "58407df49daf5547",
@@ -106,13 +97,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Настройка окружения/Yarn.md",
+                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -123,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Настройка окружения/Yarn.md",
+                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Настройка окружения/Yarn.md"
+                "file": "0. Подготовка к собеседованию/5. TypeScript.md"
               }
             }
           },
@@ -167,8 +158,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Начать/остановить запись": false,
       "graph:Граф": false,
-      "canvas:Создать новый холст": false,
       "switcher:Меню быстрого перехода": false,
       "templates:Вставить шаблон": false,
       "daily-notes:Сегодняшняя заметка": false,
@@ -176,56 +167,57 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "1c998c22f719ca9f",
+  "active": "2b9eca97f11fd816",
   "lastOpenFiles": [
-    "4. TypeScript/0. Вопросы к собеседованию/6. Типы в TypeScript.md",
-    "ВХОДЯЩИЕ/202305221458.md",
+    "0. Подготовка к собеседованию/4. React + Redux.md",
+    "0. Подготовка к собеседованию/5. TypeScript.md",
+    "InBOX/202305221458.md",
+    "InBOX/202305251832.md",
+    "Настройки.md",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zyte.svg",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zwave.svg",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zulip.svg",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zotero.svg",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zorin.svg",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zoom.svg",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zomato.svg",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zoiper.svg",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zoho.svg",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zingat.svg",
+    "5. TypeScript/2.1 Описание типов данных.md",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/icon-brew",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons",
+    "0. Подготовка к собеседованию/3. JSCore.md",
+    "9. Контроль версий и deploy проекта/Gitlab/Как клонировать репозиторий с GitLab.md",
+    "5. TypeScript/1. Внутреннее устройство TS.md",
+    "Video",
+    "7. Скрипты/NPM/Введение в NPM скрипты.md",
+    "0. Подготовка к собеседованию/6. Node.js.md",
+    "4. ReactCore/1.3 Базовые концепции/1.3.1 React-элементы.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Основные компоненты TypeScript.md",
+    "0. Подготовка к собеседованию/2. CSS.md",
+    "0. Подготовка к собеседованию/1. HTML.md",
+    "Nesting Structure Comparison 1.js",
+    "Nesting Structure Comparison.js",
+    "app.ts",
+    "5. TypeScript/0. Вопросы к собеседованию/Для чего в TypeScript используется `NoImplicitAny`.md",
+    "2.1 О модуле.mp4",
+    "5. TypeScript/0. Вопросы к собеседованию/Разница между типами `void`, `never` и `unknown`.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Как вы отлавливаете ошибки в TypeScript коде.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Для чего в TypeScript используют ключевое слово `declare`.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Можно ли использовать TypeScript в серверной разработке.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Что такое `.map` файл, как и зачем его использовать.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Какие области видимости доступны в TypeScript.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Что такое общие типы (`generic`) в TypeScript.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Разница между типами “Объединение” и “Пересечение”.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Что такое перечисление (`enum`).md",
+    "5. TypeScript/0. Вопросы к собеседованию/Как TypeScript поддерживает необязательные и дефолтные параметры в функции.md",
+    "0. Подготовка к собеседованию/other themes",
+    "0. Подготовка к собеседованию/0. Browser",
+    "0. Подготовка к собеседованию",
     "Без названия.canvas",
-    "img/Pasted image 20230522162858.png",
-    "img/Pasted image 20230522162251.png",
-    "0. Веб/Коротко о SSH.md",
-    "0. Веб",
-    "9. Настройка окружения/Как клонировать репозиторий с gitlab.md",
-    "img/Pasted image 20230522162151.png",
-    "Шаблоны/Стандартный.md",
-    "9. Настройка окружения/Yarn.md",
-    "4. TypeScript/2.1 Описание типов данных.md",
-    "4. TypeScript/1. Внутреннее устройство TS.md",
-    "4. TypeScript/0. Вопросы к собеседованию/1. Что такое TypeScript. Как настроить проект.md",
-    "4. TypeScript/0. Вопросы к собеседованию/5. Минусы использования TypeScript.md",
-    "4. TypeScript/0. Вопросы к собеседованию/4. Плюсы использования TypeScript.md",
-    "4. TypeScript/0. Вопросы к собеседованию/28. Как вы отлавливаете ошибки в TypeScript коде.md",
-    "4. TypeScript/0. Вопросы к собеседованию/3. Особенности TypeScript.md",
-    "4. TypeScript/0. Вопросы к собеседованию/2. Основные компоненты TypeScript.md",
-    "4. TypeScript/0. Вопросы к собеседованию/Дополнительные библиотеки для работы с TS-проектом.md",
-    "4. TypeScript/0. Вопросы к собеседованию/27. Разница между типами `void`, `never` и `unknown`.md",
-    "4. TypeScript/0. Вопросы к собеседованию/26. Для чего в TypeScript используют ключевое слово `declare`.md",
-    "4. TypeScript/0. Вопросы к собеседованию/25. Можно ли использовать TypeScript в серверной разработке.md",
-    "4. TypeScript/0. Вопросы к собеседованию/24. Что такое `.map` файл, как и зачем его использовать.md",
-    "4. TypeScript/0. Вопросы к собеседованию/23. Какие области видимости доступны в TypeScript.md",
-    "4. TypeScript/0. Вопросы к собеседованию/22. Что такое общие типы (`generic`) в TypeScript.md",
-    "4. TypeScript/0. Вопросы к собеседованию/21. Разница между типами “Объединение” и “Пересечение”.md",
-    "4. TypeScript/0. Вопросы к собеседованию/20. Для чего в TypeScript используется `NoImplicitAny`.md",
-    "4. TypeScript/0. Вопросы к собеседованию/19. Что такое перечисление (`enum`).md",
-    "4. TypeScript/0. Вопросы к собеседованию/18. Как TypeScript поддерживает необязательные и дефолтные параметры в функции.md",
-    "4. TypeScript/0. Вопросы к собеседованию",
-    "2. JSCore/1 Основные концепции/Регулярные выражения",
-    "img/Pasted image 20230315180217.png",
-    "4. TypeScript/2. Типы данных/2.3 Работа с чужими типами данных",
-    "4. TypeScript/2. Типы данных/2.2 Использование своих типов данных",
-    "4. TypeScript/2.1 Описание типов данных",
-    "4. TypeScript/2. Типы данных",
-    "4. TypeScript/1. Внутреннее устройство TS",
-    "4. TypeScript",
-    "3. ReactCore/4 React-routing",
     "0.4 Вопросы к ревью React/Преимущества и недостатки HOC.canvas",
     "Без названия (2).canvas",
-    "img/Pasted image 20230424234746.png",
-    "img/Pasted image 20230424221739.png",
-    "img/Pasted image 20230424203458.png",
-    "img/Pasted image 20230328100031.png",
-    "img/Pasted image 20230328095934.png",
-    "img/Pasted image 20230328095902.png",
     "РАЗБОР СОДЕРЖИМОГО/Область видимости.canvas"
   ]
 }

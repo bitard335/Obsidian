@@ -1,6 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#fbbc04",
   "baseFontSize": 15,
-  "cssTheme": "Abecedarium",
-  "theme": "obsidian"
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "translucency": true,
+  "nativeMenus": false
 }

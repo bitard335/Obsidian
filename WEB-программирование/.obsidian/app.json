@@ -1,6 +1,19 @@
 {
-  "showLineNumber": true,
+  "showLineNumber": false,
   "legacyEditor": false,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "rightToLeft": false,
+  "spellcheck": false,
+  "trashOption": "local",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Obsidian/",
+    "sidian/"
+  ]
 }

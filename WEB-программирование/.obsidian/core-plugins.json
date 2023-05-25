@@ -4,7 +4,6 @@
   "switcher",
   "graph",
   "backlink",
-  "canvas",
   "outgoing-link",
   "tag-pane",
   "page-preview",
@@ -17,5 +16,7 @@
   "zk-prefixer",
   "outline",
   "word-count",
+  "slides",
+  "audio-recorder",
   "file-recovery"
 ]

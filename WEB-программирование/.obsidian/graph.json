@@ -1,79 +1,93 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag: JS",
+      "query": "path:\"0. Browser\"",
       "color": {
         "a": 1,
-        "rgb": 16764447
+        "rgb": 14701138
       }
     },
     {
-      "query": "tag: HTML",
+      "query": "path:\"1. HTML\"",
       "color": {
         "a": 1,
         "rgb": 16739072
       }
     },
     {
-      "query": "tag: CSS",
+      "query": "path:\"2. CSS\"",
       "color": {
         "a": 1,
-        "rgb": 3613579
+        "rgb": 1022146
       }
     },
     {
-      "query": "file: JavaScript",
+      "query": "path:\"3. JSCore\"",
+      "color": {
+        "a": 1,
+        "rgb": 16245290
+      }
+    },
+    {
+      "query": "path:\"4. ReactCore\"",
+      "color": {
+        "a": 1,
+        "rgb": 8867271
+      }
+    },
+    {
+      "query": "path:\"5. TypeScript\"",
+      "color": {
+        "a": 1,
+        "rgb": 7776898
+      }
+    },
+    {
+      "query": "path:\"6. Node.js\"",
+      "color": {
+        "a": 1,
+        "rgb": 6202446
+      }
+    },
+    {
+      "query": "path:\"7. Скрипты\"",
       "color": {
         "a": 1,
         "rgb": 16777215
       }
     },
     {
-      "query": "file: WebCore",
+      "query": "path:\"8. Настройка окружения\"",
       "color": {
         "a": 1,
-        "rgb": 16727673
+        "rgb": 16777215
       }
     },
     {
-      "query": "tag: React",
+      "query": "path:\"9. Контроль версий и deploy проекта\"",
       "color": {
         "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "file: ReactJSX",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag: TS",
-      "color": {
-        "a": 1,
-        "rgb": 4628194
+        "rgb": 16777215
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -1.8,
-  "nodeSizeMultiplier": 1.00598958333333,
-  "lineSizeMultiplier": 0.495572916666667,
-  "collapse-forces": false,
-  "centerStrength": 0.6015625,
-  "repelStrength": 13.4895833333333,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 0.852864583333333,
+  "lineSizeMultiplier": 0.59765625,
+  "collapse-forces": true,
+  "centerStrength": 0.596354166666667,
+  "repelStrength": 12.4479166666667,
   "linkStrength": 1,
-  "linkDistance": 114,
-  "scale": 0.10316013234583643,
+  "linkDistance": 300,
+  "scale": 0.2028112325777101,
   "close": false
 }
