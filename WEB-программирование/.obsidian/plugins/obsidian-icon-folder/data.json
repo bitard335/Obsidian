@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiPuppeteer",
+      "SiJest",
+      "SiSpeedtest",
       "SiVite",
-      "SiNodedotjsWhite",
-      "SiReact",
-      "SiJavascript",
-      "SiCss3"
+      "SiNodedotjsWhite"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,14 +48,6 @@
   "7. Скрипты/Git": "SiGit",
   "7. Скрипты": "SiPurescript",
   "8. Настройка окружения/VSC": "SiVisualstudiocode",
-  "9. Контроль версий и deploy проекта/Github": "SiGithub",
-  "9. Контроль версий и deploy проекта/Gitlab": "SiGitlab",
-  "9. Контроль версий и deploy проекта/Vercel": "SiVercel",
-  "9. Контроль версий и deploy проекта/Gitlab/Как клонировать репозиторий с GitLab.md": {
-    "iconName": null,
-    "inheritanceIcon": "SiAngular-white"
-  },
-  "9. Контроль версий и deploy проекта": "IbDownload",
   "0. Browser/Web API": "SiGraphql",
   "0. Browser": "IbInternetBrowser",
   "1. HTML/0. Вопросы к ревью webcore": "IbQuestionMarkWithCircle",
@@ -74,5 +66,17 @@
   "Templates": "IbStatement",
   "InBOX": "IbInboxTray",
   "0. Подготовка к собеседованию/4. React + Redux.md": "SiReact",
-  "8. Настройка окружения/ViteJS": "SiVite"
+  "8. Настройка окружения/ViteJS": "SiVite",
+  "10. Контроль версий и deploy проекта": "IbDownload",
+  "10. Контроль версий и deploy проекта/Github": "SiGithub",
+  "10. Контроль версий и deploy проекта/Gitlab": "SiGitlab",
+  "10. Контроль версий и deploy проекта/Vercel": "SiVercel",
+  "10. Контроль версий и deploy проекта/Gitlab/Как клонировать репозиторий с GitLab.md": {
+    "iconName": null,
+    "inheritanceIcon": "SiAngular-white"
+  },
+  "9. Тестирование": "SiSpeedtest",
+  "9. Тестирование/Jest": "SiJest",
+  "9. Тестирование/Puppeteer": "SiPuppeteer",
+  "0. Подготовка к собеседованию/9. Тестирование.md": "SiSpeedtest"
 }
