@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiVite",
       "SiNodedotjsWhite",
       "SiReact",
       "SiJavascript",
-      "SiCss3",
-      "SiTypescriptWhite"
+      "SiCss3"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,5 +73,6 @@
   "Video": "IbDocumentVideo",
   "Templates": "IbStatement",
   "InBOX": "IbInboxTray",
-  "0. Подготовка к собеседованию/4. React + Redux.md": "SiReact"
+  "0. Подготовка к собеседованию/4. React + Redux.md": "SiReact",
+  "8. Настройка окружения/ViteJS": "SiVite"
 }

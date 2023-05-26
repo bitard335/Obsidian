@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
+                "file": "8. Настройка окружения/ViteJS/Обзор ViteJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CSS",
+                "query": "tag:#webpack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
+                "file": "8. Настройка окружения/ViteJS/Обзор ViteJS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
+                "file": "8. Настройка окружения/ViteJS/Обзор ViteJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Подготовка к собеседованию/5. TypeScript.md"
+                "file": "8. Настройка окружения/ViteJS/Обзор ViteJS.md"
               }
             }
           },
@@ -167,11 +167,16 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "2b9eca97f11fd816",
+  "active": "be8ed93278b41025",
   "lastOpenFiles": [
-    "0. Подготовка к собеседованию/4. React + Redux.md",
-    "0. Подготовка к собеседованию/5. TypeScript.md",
     "InBOX/202305221458.md",
+    "8. Настройка окружения/ViteJS/Обзор ViteJS.md",
+    "img/Pasted image 20230526111719.png",
+    "img/Pasted image 20230526111605.png",
+    "0. Подготовка к собеседованию/5. TypeScript.md",
+    "8. Настройка окружения/ViteJS/Без названия.md",
+    "8. Настройка окружения/ViteJS",
+    "0. Подготовка к собеседованию/4. React + Redux.md",
     "InBOX/202305251832.md",
     "Настройки.md",
     "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zyte.svg",
@@ -182,8 +187,6 @@
     "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zoom.svg",
     "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zomato.svg",
     "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zoiper.svg",
-    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zoho.svg",
-    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Zingat.svg",
     "5. TypeScript/2.1 Описание типов данных.md",
     "sidian/plugi.obns/obsidian-icon-folder/icons/icon-brew",
     "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons",
@@ -209,12 +212,8 @@
     "5. TypeScript/0. Вопросы к собеседованию/Что такое `.map` файл, как и зачем его использовать.md",
     "5. TypeScript/0. Вопросы к собеседованию/Какие области видимости доступны в TypeScript.md",
     "5. TypeScript/0. Вопросы к собеседованию/Что такое общие типы (`generic`) в TypeScript.md",
-    "5. TypeScript/0. Вопросы к собеседованию/Разница между типами “Объединение” и “Пересечение”.md",
-    "5. TypeScript/0. Вопросы к собеседованию/Что такое перечисление (`enum`).md",
-    "5. TypeScript/0. Вопросы к собеседованию/Как TypeScript поддерживает необязательные и дефолтные параметры в функции.md",
     "0. Подготовка к собеседованию/other themes",
     "0. Подготовка к собеседованию/0. Browser",
-    "0. Подготовка к собеседованию",
     "Без названия.canvas",
     "0.4 Вопросы к ревью React/Преимущества и недостатки HOC.canvas",
     "Без названия (2).canvas",
