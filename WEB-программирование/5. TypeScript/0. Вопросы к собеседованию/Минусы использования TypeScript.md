@@ -1,8 +1,9 @@
 ____
 
-tags: #TS
+tags: #TypeScript 
 
-youtube: 
+[[5. TypeScript |На главную]]
+
 ![Минусы использования TypeScript?](https://youtu.be/TOn-1RrowKE?t=613)
 
 keywords:

@@ -1,8 +1,8 @@
 ____
 
-tags: #TS
+tags: #TypeScript 
 
-links: [[]]
+[[5. TypeScript |На главную]]
 
 youtube: 
 ![Что такое декораторы в TypeScript?](https://youtu.be/VYQl2GhbCUs?t=29)

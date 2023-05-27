@@ -1,10 +1,9 @@
 ____
 
-tags: #TS
+tags: #TypeScript 
 
-links: [[]]
+[[5. TypeScript |На главную]]
 
-youtube: 
 ![Как вы отлавливаете ошибки в TypeScript коде?](https://youtu.be/DQ0BLu6rZYc?t=802)
 
 [Здесь вы можете прочитать мою короткую статью, в которой я показываю, как TypeScript может предотвращать раздражающие баги.](https://www.doabledanny.com/why-typescript-over-javascript)

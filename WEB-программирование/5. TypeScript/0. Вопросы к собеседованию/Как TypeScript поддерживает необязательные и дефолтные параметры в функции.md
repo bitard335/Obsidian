@@ -1,10 +1,9 @@
 ____
 
-tags: #TS
+tags: #TypeScript 
 
-links: [[]]
+[[5. TypeScript |На главную]]
 
-youtube: 
 ![Как TypeScript поддерживает необязательные и дефолтные параметры в функции?](https://youtu.be/VYQl2GhbCUs?t=102)
 
 keywords:

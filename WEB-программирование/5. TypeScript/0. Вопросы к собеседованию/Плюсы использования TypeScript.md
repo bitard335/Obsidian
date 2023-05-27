@@ -1,10 +1,12 @@
 ____
 
-tags: #TS
+tags: #TypeScript 
+
+[[5. TypeScript |На главную]]
 
 links: [Здесь вы можете прочитать мою короткую статью, в которой я показываю, как TypeScript может предотвращать раздражающие баги.](https://www.doabledanny.com/why-typescript-over-javascript)
 
-youtube: 
+
 ![Плюсы использования TypeScript?](https://youtu.be/TOn-1RrowKE?t=529) 
 
 keywords:

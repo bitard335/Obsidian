@@ -1,10 +1,9 @@
 ____
 
-tags: #TS
+tags: #TypeScript #public #private #protected 
 
-links: [[]]
+[[5. TypeScript |На главную]]
 
-youtube: 
 ![Модификаторы доступа в TypeScript?](https://youtu.be/TOn-1RrowKE?t=749)
 
 keywords:

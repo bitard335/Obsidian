@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
@@ -46,7 +46,7 @@
       "query": "path:\"5. TypeScript\"",
       "color": {
         "a": 1,
-        "rgb": 7776898
+        "rgb": 7778178
       }
     },
     {
@@ -96,5 +96,5 @@
   "linkStrength": 1,
   "linkDistance": 300,
   "scale": 0.2028112325777101,
-  "close": true
+  "close": false
 }

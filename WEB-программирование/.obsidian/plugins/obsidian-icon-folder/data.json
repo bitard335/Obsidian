@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiPuppeteer",
-      "SiJest",
-      "SiSpeedtest",
-      "SiVite",
-      "SiNodedotjsWhite"
+      "SiTailwindcss",
+      "SiAxios",
+      "SiVitest",
+      "SiKubernetes",
+      "SiHtml5"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,10 +36,8 @@
   "8. Настройка окружения/Prettier": "SiPrettier",
   "8. Настройка окружения/Babel": "SiBabel",
   "8. Настройка окружения/json": "SiJson",
-  "8. Настройка окружения/Docker": "SiDocker",
   "8. Настройка окружения/webpack": "SiWebpack",
   "8. Настройка окружения/Babel/Что делает Babel.md": "SiBabel",
-  "8. Настройка окружения/Docker/Docker.md": "SiDocker",
   "8. Настройка окружения/json/Разница между файлами package.json и package-lock.json.md": "SiJson",
   "7. Скрипты/Yarn": "SiYarn",
   "7. Скрипты/Yarn/Yarn.md": "SiYarn",
@@ -54,7 +52,7 @@
   "3. JSCore/0. Вопросы к ревью JSCore": "IbQuestionMarkWithCircle",
   "4. ReactCore/0. Вопросы к ревью React-Redux": "IbQuestionMarkWithCircle",
   "0. Подготовка к собеседованию": "IbDatabse",
-  "0. Подготовка к собеседованию/1. HTML.md": "SiTypescriptWhite",
+  "0. Подготовка к собеседованию/1. HTML.md": "SiHtml5",
   "0. Подготовка к собеседованию/2. CSS.md": "SiCss3",
   "0. Подготовка к собеседованию/3. JSCore.md": "SiJavascript",
   "0. Подготовка к собеседованию/6. Node.js.md": "SiNodedotjsWhite",
@@ -78,5 +76,10 @@
   "9. Тестирование": "SiSpeedtest",
   "9. Тестирование/Jest": "SiJest",
   "9. Тестирование/Puppeteer": "SiPuppeteer",
-  "0. Подготовка к собеседованию/9. Тестирование.md": "SiSpeedtest"
+  "0. Подготовка к собеседованию/9. Тестирование.md": "SiSpeedtest",
+  "0. Browser/API/Docker": "SiDocker",
+  "0. Browser/API/Kubernetes": "SiKubernetes",
+  "9. Тестирование/Vitest": "SiVitest",
+  "0. Browser/API/Axios.md": "SiAxios",
+  "2. CSS/Фреймворк/TailwindCSS.md": "SiTailwindcss"
 }

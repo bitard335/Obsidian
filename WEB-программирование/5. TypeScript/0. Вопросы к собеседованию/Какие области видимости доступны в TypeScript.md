@@ -1,10 +1,9 @@
 ____
 
-tags: #TS
+tags: #TypeScript 
 
-links: [[]]
+[[5. TypeScript |На главную]]
 
-youtube: 
 ![Какие области видимости доступны в TypeScript?](https://youtu.be/OMQzqLyINnI?t=101)
 
 keywords:
