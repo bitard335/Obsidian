@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
-                "mode": "preview",
+                "file": "InBOX/Вопросы итогового собеседования.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
+                "file": "InBOX/Вопросы итогового собеседования.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
+                "file": "InBOX/Вопросы итогового собеседования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Подготовка к собеседованию/5. TypeScript.md"
+                "file": "InBOX/Вопросы итогового собеседования.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "378f4810b1f87df2",
   "lastOpenFiles": [
-    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/2. Сиинтаксис и основы языка/Как преобразовать строку в число с помощью TypeScript.md",
     "0. Подготовка к собеседованию/5. TypeScript.md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/2. Сиинтаксис и основы языка/Как преобразовать строку в число с помощью TypeScript.md",
     "5. TypeScript/0. Вопросы к собеседованию/Основные особенности TypeScript.md",
     "5. TypeScript/0. Вопросы к собеседованию/Можно ли использовать TypeScript в серверной разработке.md",
     "5. TypeScript/0. Вопросы к собеседованию/Как настроить окружение TypeScript - проекта.md",
