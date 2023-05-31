@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag: JS",
+      "color": {
+        "a": 1,
+        "rgb": 15842308
+      }
+    },
+    {
+      "query": "tag: HTML",
+      "color": {
+        "a": 1,
+        "rgb": 16739072
+      }
+    },
+    {
+      "query": "tag: CSS",
+      "color": {
+        "a": 1,
+        "rgb": 3613579
+      }
+    },
+    {
+      "query": "file: JavaScript",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "file: WebCore",
+      "color": {
+        "a": 1,
+        "rgb": 16727673
+      }
+    },
+    {
+      "query": "tag: React",
+      "color": {
+        "a": 1,
+        "rgb": 458420
+      }
+    },
+    {
+      "query": "file: React",
+      "color": {
+        "a": 1,
+        "rgb": 28415
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 1.00598958333333,
+  "lineSizeMultiplier": 0.495572916666667,
+  "collapse-forces": false,
+  "centerStrength": 0.6015625,
+  "repelStrength": 13.4895833333333,
+  "linkStrength": 1,
+  "linkDistance": 114,
+  "scale": 0.6750439832277947,
+  "close": false
+}

@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "c69f26328fde546a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a81d0d9ab43b0f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "378f4810b1f87df2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00a7acbbe976ff76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. TypeScript/0. Вопросы к собеседованию/Разница между внутренним (Internal Module) и внешним модулями (External Module).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c7c9be532992e4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3a85997b8765760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b9eca97f11fd816",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "727a8f297f16c7a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "namespace",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "717e92aee162492d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.5
+  },
+  "right": {
+    "id": "58407df49daf5547",
+    "type": "split",
+    "children": [
+      {
+        "id": "013f564fc2672fbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc30b558a85817c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fb45945aec97379b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9f6e7a60b6c080c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "74670d5ff67feb55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. Подготовка к собеседованию/5. TypeScript.md"
+              }
+            }
+          },
+          {
+            "id": "d75c6efea73e5c1f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Начать/остановить запись": false,
+      "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
+      "templates:Вставить шаблон": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "command-palette:Открыть палитру команд": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false
+    }
+  },
+  "active": "378f4810b1f87df2",
+  "lastOpenFiles": [
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/2. Сиинтаксис и основы языка/Как преобразовать строку в число с помощью TypeScript.md",
+    "0. Подготовка к собеседованию/5. TypeScript.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Основные особенности TypeScript.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Можно ли использовать TypeScript в серверной разработке.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Как настроить окружение TypeScript - проекта.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Для чего в TypeScript используют ключевое слово `declare`.md",
+    "5. TypeScript/Собеседование по TypeScript. 20 Вопросов и ответов/18 (5). Расскажите о том, когда в TypeScript используют ключевое слово declare.md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/5. Дополнительные вопросы по знанию языка/Когда нужно использовать ключевое слово declare.md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/2. Сиинтаксис и основы языка/Что такое файл .map. Зачем и как его можно использовать.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Что такое `.map` файл, как и зачем его использовать.md",
+    "5. TypeScript/Собеседование по TypeScript. 20 Вопросов и ответов/6 (2). Что представляют собой .map-файлы в TypeScript.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Для чего в TypeScript используется `NoImplicitAny`.md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/5. Дополнительные вопросы по знанию языка/Что такое пространство имен и как его использовать.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Что такое внешние объявления переменных (ambient declaration).md",
+    "5. TypeScript/Собеседование по TypeScript. 20 Вопросов и ответов/Что такое внешние объявления переменных в TypeScript и когда их нужно использовать.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Разница между внутренним (Internal Module) и внешним модулями (External Module).md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/2. Сиинтаксис и основы языка/Как сделать так, чтобы классы, определенные в модуле, были доступны вне модуля.md",
+    "5. TypeScript/Собеседование по TypeScript. 20 Вопросов и ответов/13 (3). Как сделать так, чтобы классы, объявленные в модуле, были бы доступны и за пределами этого модуля.md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/5. Дополнительные вопросы по знанию языка/В чем разница между внутренними и внешними модулями TypeScript.md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/1. Основы/Что такое модуль в TypeScript.md",
+    "5. TypeScript/Собеседование по TypeScript. 20 Вопросов и ответов/Можно ли в TypeScript использовать строго типизированные функции в качестве параметров.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Что такое декораторы.md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/4. Продвинутые знания TypeScript/Что такое декораторы и к чему их можно применить.md",
+    "5. TypeScript/Собеседование по TypeScript. 20 Вопросов и ответов/11 (3). Расскажите об использовании декораторов свойств в TypeScript.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Разница между абстрактным классом (abstract class) и интерфейсом (interface).md",
+    "5. TypeScript/Собеседование по TypeScript. 20 Вопросов и ответов/Можно ли автоматически генерировать файлы объявлений TypeScript из JS-библиотек.md",
+    "img/Pasted image 20230529222050.png",
+    "img/Pasted image 20230529234116.png",
+    "img/Pasted image 20230530003321.png",
+    "img/Pasted image 20230530014353.png",
+    "img/Pasted image 20230529003402.png",
+    "img/Pasted image 20230530013004.png",
+    "img/Pasted image 20230530001548.png",
+    "img/Pasted image 20230529222544.png",
+    "img/Pasted image 20230530014216.png",
+    "img/Pasted image 20230530012602.png",
+    "levotarayan98/phobos/-/wikis/uploads/98781b720ff0613ef3332c53c58cac95",
+    "levotarayan98/phobos/-/wikis/uploads/ed82366a03a76fb6b0331c4c8046e0d9",
+    "levotarayan98/phobos/-/wikis/uploads",
+    "levotarayan98/phobos/-/wikis",
+    "levotarayan98/phobos/-",
+    "levotarayan98/phobos",
+    "levotarayan98",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/5. Дополнительные вопросы по знанию языка",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/4. Продвинутые знания TypeScript",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/3. TypeScript и JavaScript",
+    "Без названия.canvas",
+    "0.4 Вопросы к ревью React/Преимущества и недостатки HOC.canvas",
+    "Без названия (2).canvas",
+    "РАЗБОР СОДЕРЖИМОГО/Область видимости.canvas"
+  ]
+}
