@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "7826b064bdb85024",
+    "type": "split",
+    "children": [
+      {
+        "id": "731dcc51b7d3b4e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55966c9c2a48d87f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мой дневник/1. Мой дневник/2023-05-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "504cdb95e3e21f1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a3e6b6e608be0d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a85e9a92dd05275d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4aa41cc90742c773",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bee950329938aab0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "990829e083a0ac0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "499488b70f50cbb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c26752ab57f0aa85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Мой дневник/1. Мой дневник/2023-05-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40bcec857246c9a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Мой дневник/1. Мой дневник/2023-05-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2b792a05c52b115",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd5ed1f6b5231582",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Мой дневник/1. Мой дневник/2023-05-21.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "55966c9c2a48d87f",
+  "lastOpenFiles": [
+    "Мой дневник/Если скажет про бюджет в негативе.md",
+    "Мой дневник/Калушко В.А. 26.03.1997.md"
+  ]
+}
