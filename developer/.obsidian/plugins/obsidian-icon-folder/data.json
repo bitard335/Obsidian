@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSwagger",
       "SiGit",
       "SiTailwindcss",
       "SiAxios",
-      "SiVitest",
-      "SiKubernetes"
+      "SiVitest"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -83,5 +83,6 @@
   "0. Browser/API/Axios.md": "SiAxios",
   "2. CSS/Фреймворк/TailwindCSS.md": "SiTailwindcss",
   "10. Контроль версий и deploy проекта/Git. Инструмент управления версиями.md": "SiGit",
-  "10. Контроль версий и deploy проекта/Ежедневная работа с Git.md": "SiGit"
+  "10. Контроль версий и deploy проекта/Ежедневная работа с Git.md": "SiGit",
+  "0. Browser/Web API/Swagger.md": "SiSwagger"
 }
