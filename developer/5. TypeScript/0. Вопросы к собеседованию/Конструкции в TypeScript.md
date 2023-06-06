@@ -2,8 +2,6 @@ ____
 
 tags: #TypeScript 
 
-links: 
-
 [[5. TypeScript |На главную]]
 
 ![Основные компоненты TypeScript?](https://youtu.be/R76_xPjzUd8?t=730)

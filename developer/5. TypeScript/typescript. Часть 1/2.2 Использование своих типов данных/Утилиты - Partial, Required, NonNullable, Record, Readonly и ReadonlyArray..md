@@ -2,6 +2,8 @@ ____
 
 tags: #TypeScript #partial #required #nonnullable #record #readonly #readonlyArray
 
+[[5. TypeScript |На главную]]
+
 ![](https://www.youtube.com/watch?v=BTB3VDkWiOQ)
 
 keywords:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. JSCore/1 Основные концепции/1 Примитивные типы данных/Регулярные выражения. Основы.md",
+                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#property",
+                "query": "tag:#type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. JSCore/1 Основные концепции/1 Примитивные типы данных/Регулярные выражения. Основы.md",
+                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. JSCore/1 Основные концепции/1 Примитивные типы данных/Регулярные выражения. Основы.md",
+                "file": "0. Подготовка к собеседованию/5. TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. JSCore/1 Основные концепции/1 Примитивные типы данных/Регулярные выражения. Основы.md"
+                "file": "0. Подготовка к собеседованию/5. TypeScript.md"
               }
             }
           },
@@ -155,44 +155,44 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "2b9eca97f11fd816",
+  "active": "ecbb5141df17ede4",
   "lastOpenFiles": [
-    "3. JSCore/1 Основные концепции/4 Функции перебора массивов и стрелочные функции/4.2 Функции высшего порядка.  Перебирающие методы массивов.md",
-    "3. JSCore/1 Основные концепции/4 Функции перебора массивов и стрелочные функции/4.1 Стрелочные функции.md",
-    "3. JSCore/1 Основные концепции/3 Продвинутая работа с функциями/Подробнее про рекурсию.md",
-    "3. JSCore/1 Основные концепции/3 Продвинутая работа с функциями/3.4 Метод объекта this.md",
-    "3. JSCore/1 Основные концепции/3 Продвинутая работа с функциями/3.3 Замыкания и области видимости.md",
-    "3. JSCore/1 Основные концепции/3 Продвинутая работа с функциями/3.2 Функции высшего порядка.md",
-    "3. JSCore/1 Основные концепции/3 Продвинутая работа с функциями/3.1 Рекурсия.md",
-    "3. JSCore/0. Вопросы к ревью JSCore/JavaScript1. Основные концепции.md",
-    "3. JSCore/0. Вопросы к ревью JSCore/JavaScript в браузере (1).md",
-    "3. JSCore/0. Вопросы к ревью JSCore/Методы JavaScript.md",
-    "5. TypeScript/0. Вопросы к собеседованию/Что такое внешние объявления переменных (ambient declaration).md",
-    "1. HTML/0. Вопросы к ревью webcore/JavaScript в браузере.md",
-    "1. HTML/0. Вопросы к ревью webcore/WebCore4.md",
+    "5. TypeScript/typescript. Часть 2/Карманная книга по TS. Часть 1. Основы.md",
+    "5. TypeScript/typescript. Часть 2/Карманная книга по TS. Часть 2. Типы на каждый день.md",
+    "5. TypeScript/typescript. Часть 1/1. Внутреннее устройство typescript/Базовая работа с типами typescript.md",
+    "5. TypeScript/typescript. Часть 1/2.1 Описание типов данных/Основные типы данных.md",
+    "5. TypeScript/typescript. Часть 1/2.1 Описание типов данных/2.1 Описание типов данных.md",
+    "0. Подготовка к собеседованию/5. TypeScript.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Что такое JSX в TypeScript. Какие режимы JSX поддерживает TypeScript.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Разница между внутренним (Internal Module) и внешним модулями (External Module).md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/2. Сиинтаксис и основы языка/Объясните как использовать миксины в TypeScript.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Разница между абстрактным классом (abstract class) и интерфейсом (interface).md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/2. Сиинтаксис и основы языка/Что такое классы в TypeScript.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Модификаторы доступа в TypeScript.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Какие элементы ООП поддерживаются в TypeScript.md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/4. Продвинутые знания TypeScript/Что делает тип Omit.md",
+    "5. TypeScript/typescript. Часть 1/2.2 Использование своих типов данных/Утилиты - Pick, Extract, Exclude и Omit..md",
+    "5. TypeScript/typescript. Часть 1/2.2 Использование своих типов данных/Утилиты - Partial, Required, NonNullable, Record, Readonly и ReadonlyArray..md",
+    "5. TypeScript/typescript. Часть 1/2.2 Использование своих типов данных/Утилиты - Parameters, ConstructorParameters, ReturnType и InstanceType.md",
+    "5. TypeScript/typescript. Часть 1/2.2 Использование своих типов данных/Generics, Index Access Types, Keyof на простом примере.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Что такое общие типы (`generic`) в TypeScript.md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/4. Продвинутые знания TypeScript/Объясните Rest параметры и правила объявления таких параметров.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Как TypeScript поддерживает необязательные и дефолтные параметры в функции.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Что такое директивы с тремя наклонными чертами (Triple-Slash Directives), их типы.md",
+    "5. TypeScript/0. Вопросы к собеседованию/Поддерживает ли TypeScript перегрузку функций.md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/1. Основы/Что такое утверждение типа (type assertion) в TypeScript.md",
+    "5. TypeScript/typescript. Часть 1/2.2 Использование своих типов данных/Union и TypeGuards, пользовательские проверки типов.md",
+    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/4. Продвинутые знания TypeScript/Как сделать все свойства (`interface`) необязательными.md",
     "1. HTML/0. Вопросы к ревью webcore/Не подтверждено 279193.~",
-    "1. HTML/0. Вопросы к ревью webcore/WebCore3.md",
     "1. HTML/0. Вопросы к ревью webcore/Не подтверждено 106629.~",
-    "1. HTML/0. Вопросы к ревью webcore/WebCore2.md",
     "1. HTML/0. Вопросы к ревью webcore/Не подтверждено 98978.~",
-    "1. HTML/0. Вопросы к ревью webcore/WebCore1 Основы HTML & CSS.md",
     "1. HTML/0. Вопросы к ревью webcore/Не подтверждено 802696.~",
     "3. JSCore/0. Вопросы к ревью JSCore/Не подтверждено 690846.~",
     "1. HTML/0. Вопросы к ревью webcore/Не подтверждено 728785.~",
-    "3. JSCore/0. Вопросы к ревью JSCore/JavaScript4. Browser API + HTTP.md",
     "3. JSCore/0. Вопросы к ревью JSCore/Не подтверждено 268900.~",
-    "3. JSCore/0. Вопросы к ревью JSCore/JavaScript3. Обработка ошибок и асинхронность.md",
     "3. JSCore/0. Вопросы к ревью JSCore/Не подтверждено 108323.~",
-    "3. JSCore/0. Вопросы к ревью JSCore/JavaScript2. Прототипы и классы.md",
     "3. JSCore/0. Вопросы к ревью JSCore/Не подтверждено 211555.~",
     "3. JSCore/0. Вопросы к ревью JSCore/Не подтверждено 242824.~",
-    "0. Подготовка к собеседованию/5. TypeScript.md",
-    "9. Тестирование/Vitest/Тестирование на примере реального проекта.md",
-    "3. JSCore/1 Основные концепции/2 Ссылочные типы данных/2.6 Методы массивов.md",
-    "3. JSCore/3 Обработка ошибок и Асинхронность/2 Работа с асинхронным кодом/1.1.2 Планирование setTimeout и setInterval.md",
-    "3. JSCore/3 Обработка ошибок и Асинхронность/2 Работа с асинхронным кодом/1.1.1 Событийный цикл. Микрозадачи и макрозадачи.md",
-    "3. JSCore/3 Обработка ошибок и Асинхронность/2 Работа с асинхронным кодом/1.2 CallBack функции.md",
-    "3. JSCore/3 Обработка ошибок и Асинхронность/2 Работа с асинхронным кодом/1.3.1 Promise.md",
     "img/Pasted image 20230529222050.png",
     "img/Pasted image 20230529234116.png",
     "img/Pasted image 20230530003321.png",

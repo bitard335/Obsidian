@@ -1,15 +1,8 @@
 ____
 
-tags: #
+tags: #TypeScript #interface #partial 
 
 [[5. TypeScript |На главную]]
-
-links: 
-
-youtube: 
-1. 
-
-keywords:
 
 _____
 
