@@ -2,9 +2,6 @@ ____
 
 tags: #SSH #Windows #Linux #macOS #security #шифрованиие
 
-youtube: 
-1. 
-
 keywords:
 
 _____

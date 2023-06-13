@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Browser/Web API/Swagger.md",
+                "file": "10. Контроль версий и deploy проекта/Автоматически генерировать и публиковать журнал изменений с помощью Node.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#RESTful",
+                "query": "tag:#Conventional-commit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Browser/Web API/Swagger.md",
+                "file": "10. Контроль версий и deploy проекта/Автоматически генерировать и публиковать журнал изменений с помощью Node.js.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Browser/Web API/Swagger.md",
+                "file": "10. Контроль версий и deploy проекта/Автоматически генерировать и публиковать журнал изменений с помощью Node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Browser/Web API/Swagger.md"
+                "file": "10. Контроль версий и deploy проекта/Автоматически генерировать и публиковать журнал изменений с помощью Node.js.md"
               }
             }
           },
@@ -166,32 +166,34 @@
   },
   "active": "2b9eca97f11fd816",
   "lastOpenFiles": [
+    "InBOX/202306021719.md",
+    "10. Контроль версий и deploy проекта/Автоматически генерировать и публиковать журнал изменений с помощью Node.js.md",
+    "InBOX/202306131037.md",
+    "InBOX/Без названия.md",
+    "InBOX/Вопросы итогового собеседования.md",
+    "InBOX/Strings.pdf",
+    "10. Контроль версий и deploy проекта/Gitlab/GIT. Как создать ветку и как правильно писать коммиты (с примерами).md",
+    "10. Контроль версий и deploy проекта/Gitlab/Как создать Merge Request.md",
+    "10. Контроль версий и deploy проекта/Gitlab/Git Rebase.md",
+    "10. Контроль версий и deploy проекта/Версионность веб-приложений.md",
+    "10. Контроль версий и deploy проекта/Автоматическое создание журнала изменений для Вашего проекта.md",
+    "10. Контроль версий и deploy проекта/Git. Инструмент управления версиями.md",
+    "0. Подготовка к собеседованию/9. Тестирование.md",
+    "Назад.md",
+    "0. Подготовка к собеседованию/other themes/0. Browser.md",
+    "0. Browser/Что такое CDN и как это работает.md",
+    "0. Browser/Коротко о SSH.md",
+    "0. Browser/API/Swagger.md",
+    "0. Browser/API/Axios.md",
+    "0. Browser/API/Docker/Главное о Docker.md",
+    "0. Browser/Web API/XSS.md",
+    "0. Browser/Web API/GraphQL.md",
     "img/Pasted image 20230613000633.png",
     "5. TypeScript/Делаем пагинацию в React приложении.md",
     "5. TypeScript/Учимся писать сложные Typescript типы на примере роутинга в React.md",
     "5. TypeScript/React + TypeScript.md",
     "5. TypeScript/typescript. Часть 1/2.2 Использование своих типов данных/Union и TypeGuards, пользовательские проверки типов.md",
     "0. Подготовка к собеседованию/5. TypeScript.md",
-    "5. TypeScript/0. Вопросы к собеседованию/Что такое перечисление (`enum`).md",
-    "5. TypeScript/typescript. Часть 1/2.1 Описание типов данных/Enums. Обзор и когда не надо использовать.md",
-    "5. TypeScript/0. Вопросы к собеседованию/Разница между типом (`type`) и интерфейсом (`interface`).md",
-    "5. TypeScript/typescript. Часть 2/Карманная книга по TS. Часть 1. Основы.md",
-    "5. TypeScript/typescript. Часть 2/Карманная книга по TS. Часть 2. Типы на каждый день.md",
-    "5. TypeScript/typescript. Часть 1/1. Внутреннее устройство typescript/Базовая работа с типами typescript.md",
-    "5. TypeScript/typescript. Часть 1/2.1 Описание типов данных/Основные типы данных.md",
-    "5. TypeScript/typescript. Часть 1/2.1 Описание типов данных/2.1 Описание типов данных.md",
-    "5. TypeScript/0. Вопросы к собеседованию/Что такое JSX в TypeScript. Какие режимы JSX поддерживает TypeScript.md",
-    "5. TypeScript/0. Вопросы к собеседованию/Разница между внутренним (Internal Module) и внешним модулями (External Module).md",
-    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/2. Сиинтаксис и основы языка/Объясните как использовать миксины в TypeScript.md",
-    "5. TypeScript/0. Вопросы к собеседованию/Разница между абстрактным классом (abstract class) и интерфейсом (interface).md",
-    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/2. Сиинтаксис и основы языка/Что такое классы в TypeScript.md",
-    "5. TypeScript/0. Вопросы к собеседованию/Модификаторы доступа в TypeScript.md",
-    "5. TypeScript/0. Вопросы к собеседованию/Какие элементы ООП поддерживаются в TypeScript.md",
-    "5. TypeScript/Собеседование по TypeScript. 42 Вопроса и ответа/4. Продвинутые знания TypeScript/Что делает тип Omit.md",
-    "5. TypeScript/typescript. Часть 1/2.2 Использование своих типов данных/Утилиты - Pick, Extract, Exclude и Omit..md",
-    "5. TypeScript/typescript. Часть 1/2.2 Использование своих типов данных/Утилиты - Partial, Required, NonNullable, Record, Readonly и ReadonlyArray..md",
-    "5. TypeScript/typescript. Часть 1/2.2 Использование своих типов данных/Утилиты - Parameters, ConstructorParameters, ReturnType и InstanceType.md",
-    "5. TypeScript/typescript. Часть 1/2.2 Использование своих типов данных/Generics, Index Access Types, Keyof на простом примере.md",
     "1. HTML/0. Вопросы к ревью webcore/Не подтверждено 279193.~",
     "1. HTML/0. Вопросы к ревью webcore/Не подтверждено 106629.~",
     "1. HTML/0. Вопросы к ревью webcore/Не подтверждено 98978.~",
@@ -201,7 +203,6 @@
     "3. JSCore/0. Вопросы к ревью JSCore/Не подтверждено 268900.~",
     "3. JSCore/0. Вопросы к ревью JSCore/Не подтверждено 108323.~",
     "3. JSCore/0. Вопросы к ревью JSCore/Не подтверждено 211555.~",
-    "3. JSCore/0. Вопросы к ревью JSCore/Не подтверждено 242824.~",
     "img/Pasted image 20230529222050.png",
     "img/Pasted image 20230529234116.png",
     "img/Pasted image 20230530003321.png",
@@ -211,7 +212,6 @@
     "img/Pasted image 20230530001548.png",
     "img/Pasted image 20230529222544.png",
     "img/Pasted image 20230530014216.png",
-    "img/Pasted image 20230530012602.png",
     "Без названия.canvas",
     "0.4 Вопросы к ревью React/Преимущества и недостатки HOC.canvas",
     "Без названия (2).canvas",

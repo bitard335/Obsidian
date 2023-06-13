@@ -46,7 +46,6 @@
   "7. Скрипты/Git": "SiGit",
   "7. Скрипты": "SiPurescript",
   "8. Настройка окружения/VSC": "SiVisualstudiocode",
-  "0. Browser/Web API": "SiGraphql",
   "0. Browser": "IbInternetBrowser",
   "1. HTML/0. Вопросы к ревью webcore": "IbQuestionMarkWithCircle",
   "3. JSCore/0. Вопросы к ревью JSCore": "IbQuestionMarkWithCircle",
@@ -84,5 +83,5 @@
   "2. CSS/Фреймворк/TailwindCSS.md": "SiTailwindcss",
   "10. Контроль версий и deploy проекта/Git. Инструмент управления версиями.md": "SiGit",
   "10. Контроль версий и deploy проекта/Ежедневная работа с Git.md": "SiGit",
-  "0. Browser/Web API/Swagger.md": "SiSwagger"
+  "0. Browser/API/Swagger.md": "SiSwagger"
 }
