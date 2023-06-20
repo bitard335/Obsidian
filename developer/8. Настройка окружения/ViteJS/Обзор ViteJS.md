@@ -93,7 +93,8 @@ export default () => {
 
 Далее необходимо извлечь файл index.html в корень проекта:
 ~~~
-./public/index.html   ./index.html
+./public/index.html   
+./index.html
 ~~~
 
 Редактируем index.html , важно удалить везде слово PUBLIC

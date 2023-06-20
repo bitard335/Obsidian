@@ -1,6 +1,6 @@
 ____
 
-tags: #Jest #Babel #introscope #unit-тест 
+tags: #Jest #Babel #introscope #unit-test
 
 links: [Introscope](https://github.com/peter-leonov/introscope)
 
