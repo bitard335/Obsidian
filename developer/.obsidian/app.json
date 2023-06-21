@@ -15,5 +15,6 @@
   "userIgnoreFilters": [
     "Obsidian/",
     "sidian/"
-  ]
+  ],
+  "tabSize": 4
 }

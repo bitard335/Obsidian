@@ -4,9 +4,6 @@ tags: #Jest #Babel #introscope #unit-test
 
 links: [Introscope](https://github.com/peter-leonov/introscope)
 
-youtube: 
-1. 
-
 keywords:
 
 _____
