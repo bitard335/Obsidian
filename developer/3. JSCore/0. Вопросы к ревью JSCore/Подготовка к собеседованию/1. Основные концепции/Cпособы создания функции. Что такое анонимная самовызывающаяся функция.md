@@ -1,0 +1,42 @@
+Подробнее: [Функции](https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Functions)
+
+Функции - ключевая концепция в JavaScript. 
+Важнейшей особенностью языка является [первоклассная поддержка функций](https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0 "первоклассная поддержка функций")​ _(functions as first-class citizen)_. Любая **функция это объект,** и следовательно ею можно манипулировать как объектом, в частности:
+-   передавать как аргумент и возвращать в качестве результата при вызове других функций ([функций высшего порядка](https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F_%D0%B2%D1%8B%D1%81%D1%88%D0%B5%D0%B3%D0%BE_%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B0 "функций высшего порядка"));
+- создавать анонимно и присваивать в качестве значений переменных или свойств объектов.
+
+1. Функцию можно обьявить (именная функция)
+```
+function declaration statement
+
+function square(number) {
+  return number * number;
+}
+```
+
+2. Вызов анонимной функции
+Функция вида "function declaration statement" по синтаксису является инструкцией 
+(_statement_), ещё функция может быть вида "function definition expression". Такая функция может быть **анонимной** (она не имеет имени). Например, функция `square` может быть вызвана так:
+
+```
+function declaration statement
+
+var square = function(number) { return number * number; };
+var x = square(4); // x получает значение 16
+```
+
+Однако, имя может быть и присвоено для вызова самой себя внутри самой функции и для отладчика (_debugger_) для идентифицированные функции в стек-треках (_stack traces_; "trace" — "след" / "отпечаток").
+
+```
+var factorial = function fac(n) { return n < 2 ? 1 : n * fac(n - 1); };
+
+console.log(factorial(3));
+```
+
+Функции вида "function definition expression" удобны, когда функция передаётся аргументом другой функции.
+
+```
+nameFunc()
+```
+
+## [[3. JSCore|Назад]]
