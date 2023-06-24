@@ -42,9 +42,9 @@ Obsidian.md также поддерживает синхронизацию за�
 Используй официальную <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">документацию.</a>
 
 2. Открой **Базу знаний** используя функционал Obsidian (см. рис. 1)
-![image](https://github.com/kalushko26/Obsidian/assets/116939084/2fba2d1b-34e5-41a4-9a2a-83eb252ae4ba)
-
+![image](https://github.com/kalushko26/Obsidian/assets/116939084/2151c4f6-d252-4da9-8929-d43837978674)
 
 3. Используй Базу знаний в своих целях!
+![image](https://github.com/kalushko26/Obsidian/assets/116939084/9a8974b0-9871-4a28-9873-8ad6d192f74a)
 
 #### author: <a href="https://t.me/kalushko26"></a>kalushko_26</a>
