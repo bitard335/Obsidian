@@ -1,84 +1,84 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"0. Browser\"",
+      "query": "path:\"000 Browser\"",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"1. HTML\"",
+      "query": "path:\"001 HTML\"",
       "color": {
         "a": 1,
         "rgb": 16739072
       }
     },
     {
-      "query": "path:\"2. CSS\"",
+      "query": "path:\"002 CSS\"",
       "color": {
         "a": 1,
         "rgb": 1022146
       }
     },
     {
-      "query": "path:\"3. JSCore\"",
+      "query": "path:\"003 JSCore\"",
       "color": {
         "a": 1,
         "rgb": 16245290
       }
     },
     {
-      "query": "path:\"4. ReactCore\"",
+      "query": "path:\"004 ReactCore\"",
       "color": {
         "a": 1,
         "rgb": 8867271
       }
     },
     {
-      "query": "path:\"5. TypeScript\"",
+      "query": "path:\"005 TypeScript\"",
       "color": {
         "a": 1,
         "rgb": 7778178
       }
     },
     {
-      "query": "path:\"6. Node.js\"",
+      "query": "path:\"006 Node.js\"",
       "color": {
         "a": 1,
         "rgb": 6202446
       }
     },
     {
-      "query": "path:\"7. Скрипты\"",
+      "query": "path:\"007 Скрипты\"",
       "color": {
         "a": 1,
         "rgb": 16777215
       }
     },
     {
-      "query": "path:\"8. Настройка окружения\"",
+      "query": "path:\"008 Настройка окружения\"",
       "color": {
         "a": 1,
         "rgb": 16777215
       }
     },
     {
-      "query": "path:\"10. Контроль версий и deploy проекта\"",
+      "query": "path:\"010 Контроль версий и deploy проекта\"",
       "color": {
         "a": 1,
         "rgb": 16777215
       }
     },
     {
-      "query": "path:\"9. Тестирование\"",
+      "query": "path:\"009 Тестирование\"",
       "color": {
         "a": 1,
         "rgb": 16711680

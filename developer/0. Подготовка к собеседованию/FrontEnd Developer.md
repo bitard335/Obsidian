@@ -6,13 +6,13 @@ ___
 
 ### Технические знания
 
-1. [[1. HTML|HTML]]
-2. [[2. CSS|CSS & SCSS]]
-3. [[3. JSCore|JavaScript]]
-4. [[4. React + Redux|React & Redux]]
-5. [[5. TypeScript|TypeScript]]
-6. [[6. Node.js|Node.js]]
-7. [[9. Тестирование|Тестирование]]
+1. [[001 HTML|HTML]]
+2. [[002 CSS|CSS & SCSS]]
+3. [[003 JSCore|JavaScript]]
+4. [[004 React + Redux|React & Redux]]
+5. [[005 TypeScript|TypeScript]]
+6. [[006 Node.js|Node.js]]
+7. [[009 Тестирование|Тестирование]]
 
 ### SoftSkills
 
