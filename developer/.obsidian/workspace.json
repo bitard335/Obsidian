@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
+                "file": "Настройки.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
+                "file": "Настройки.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
+                "file": "Настройки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md"
+                "file": "Настройки.md"
               }
             }
           },
@@ -159,13 +159,13 @@
   },
   "active": "b46b46d2e1294437",
   "lastOpenFiles": [
+    "0. Подготовка к собеседованию/004 React + Redux.md",
     "002 CSS/Подготовка к собеседованиям/024 Какие CSS-свойства могут быть обработаны непосредственно через GPU.md",
     "0. Подготовка к собеседованию/002 CSS.md",
     "InBOX/202306211532.md",
     "0. Подготовка к собеседованию/000. Browser.md",
     "0. Подготовка к собеседованию/other themes/Подготовка к собеседованиям/36. Абсолютные и относительные адресса.md",
     "0. Подготовка к собеседованию/001 HTML.md",
-    "0. Подготовка к собеседованию/004 React + Redux.md",
     "005 TypeScript/0. Вопросы к собеседованию/Типы в TypeScript.md",
     "0. Подготовка к собеседованию/005 TypeScript.md",
     "0. Подготовка к собеседованию/003 JSCore.md",
