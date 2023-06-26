@@ -1,0 +1,1 @@
+- [Что такое OSI модель?](https://youtu.be/-mWa7erZu64?t=461)

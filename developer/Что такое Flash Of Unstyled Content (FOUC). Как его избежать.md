@@ -1,0 +1,1 @@
+- [Что такое Flash Of Unstyled Content (FOUC)? Как его избежать?](https://youtu.be/yvOXvZ8aEFo?t=164)

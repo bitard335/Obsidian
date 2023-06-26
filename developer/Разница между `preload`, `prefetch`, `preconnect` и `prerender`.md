@@ -1,0 +1,1 @@
+[Разница между `preload`, `prefetch`, `preconnect` и `prerender`?](https://youtu.be/DQ0BLu6rZYc?t=410)

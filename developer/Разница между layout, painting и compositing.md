@@ -1,0 +1,1 @@
+- [Разница между layout, painting и compositing?](https://youtu.be/yvOXvZ8aEFo?t=209)

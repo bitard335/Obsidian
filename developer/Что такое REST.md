@@ -1,0 +1,1 @@
+- [Что такое REST?](https://youtu.be/ovV8GhIkzBE?t=352)

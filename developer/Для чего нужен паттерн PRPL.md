@@ -1,0 +1,1 @@
+- [Для чего нужен паттерн PRPL?](https://youtu.be/DQ0BLu6rZYc?t=519)

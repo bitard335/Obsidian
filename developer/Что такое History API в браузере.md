@@ -1,0 +1,1 @@
+- [Что такое History API в браузере?](https://youtu.be/XtQPrt8G0n8?t=352)

@@ -1,0 +1,1 @@
+- [Что такое веб-хранилище (web storage)?](https://youtu.be/XtQPrt8G0n8?t=406)

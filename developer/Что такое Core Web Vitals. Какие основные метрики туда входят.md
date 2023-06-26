@@ -1,0 +1,1 @@
+- [Что такое Core Web Vitals? Какие основные метрики туда входят?](https://youtu.be/DQ0BLu6rZYc?t=214)
