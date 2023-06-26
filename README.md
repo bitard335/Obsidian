@@ -4,14 +4,14 @@
 
 ## Какая информация хранится в Базе знаний?
 
-1. <a href="https://vk.cc/cp02UM">Общие вопросы по web-разработке</a>
-2. <a href="https://vk.cc/cp02Wv">HTML</a>
-3. <a href="https://vk.cc/cp02Xs">CSS & SCSS</a>
-4. <a href="https://vk.cc/cp02Yx">JavaScript</a>
-5. <a href="https://vk.cc/cp02Zb">TypeScript</a>
-6. <a href="https://vk.cc/cp02ZF">React-Redux</a>
-7. <a href="https://vk.cc/cp030q">Тестирование web-приложений</a>
-8. <a href="">Node.js</a>
+1. <a href="https://vk.cc/cp2VkZ">Общие вопросы по web-разработке</a>
+2. <a href="https://vk.cc/cp2Vqw">HTML</a>
+3. <a href="https://vk.cc/cp2VrW">CSS & SCSS</a>
+4. <a href="https://vk.cc/cp2Vug">JavaScript</a>
+5. <a href="https://vk.cc/cp2VxP">TypeScript</a>
+6. <a href="https://vk.cc/cp2Vw3">React-Redux</a>
+7. <a href="https://vk.cc/cp2VDd">Тестирование web-приложений</a>
+8. <a href="https://vk.cc/cp2VBo">Node.js</a>
 9. <a href="">git, npm & yarn</a>
 10. <a href="">Система контроля версий web-приложений</a>
 
