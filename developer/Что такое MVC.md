@@ -1,1 +1,0 @@
-- [Что такое MVC?](https://youtu.be/xZLxdts7ZW4?t=181)

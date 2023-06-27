@@ -1,1 +1,0 @@
-- [Недостатки паттерна MVW?](https://youtu.be/xZLxdts7ZW4?t=282)

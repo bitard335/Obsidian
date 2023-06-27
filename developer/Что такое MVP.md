@@ -1,1 +1,0 @@
-- [Что такое MVP?](https://youtu.be/ovV8GhIkzBE?t=581)

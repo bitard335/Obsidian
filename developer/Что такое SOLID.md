@@ -1,1 +1,0 @@
-- [Что такое SOLID?](https://youtu.be/w-vUj0gHGgg?t=603)
