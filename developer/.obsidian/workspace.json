@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Что такое Веб-компоненты и какие технологии в них используются.md",
+                "file": "Что такое REST.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Подготовка к собеседованию/001 HTML.md",
+                "file": "001 HTML/0. Подготовка к собеседованиям/047 Типы списков в HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "отзывчив",
+                "query": "REST",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Что такое Веб-компоненты и какие технологии в них используются.md",
+                "file": "Что такое REST.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Что такое Веб-компоненты и какие технологии в них используются.md",
+                "file": "Что такое REST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Что такое Веб-компоненты и какие технологии в них используются.md"
+                "file": "Что такое REST.md"
               }
             }
           },
@@ -173,8 +173,15 @@
   "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
     "0. Подготовка к собеседованию/000 Browser.md",
-    "Разница между Progressive Enhancement и Graceful Degradation.md",
+    "Что такое REST.md",
+    "001 HTML/0. Подготовка к собеседованиям/047 Типы списков в HTML.md",
     "0. Подготовка к собеседованию/001 HTML.md",
+    "003 JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/5.1 REST API.md",
+    "001 HTML/0. Подготовка к собеседованиям/020 На что необходимо обратить внимание при разработке мультиязычных сайтов.md",
+    "001 HTML/0. Подготовка к собеседованиям/076 Что такое Secure (безопасные) и HttpOnly cookies.md",
+    "Особенности разработки мультиязычных сайтов.md",
+    "Что такое Веб-компоненты и какие технологии в них используются.md",
+    "Разница между Progressive Enhancement и Graceful Degradation.md",
     "001 HTML/0. Подготовка к собеседованиям/060 Можете ли вы описать разницу между прогрессивным улучшением (progressive enhancement) и изящной деградацией (graceful degradation).md",
     "001 HTML/0. Подготовка к собеседованиям/075 Что такое HTTP cookie.md",
     "002 CSS/Подготовка к собеседованиям/063 Можете ли вы объяснить разницу между отзывчивым (responsive) сайтом и сайтом, сделанным по принципу mobile-first.md",
@@ -191,13 +198,6 @@
     "0. Подготовка к собеседованию/other themes/Подготовка к собеседованиям/19. Что такое прогрессивная отрисовка.md",
     "001 HTML/0. Подготовка к собеседованиям/077 Объясните разницу между cookies, sessionStorage и localStorage.md",
     "Что такое кроссбраузерность.md",
-    "Разница между `cookie`, `sessionStorage` и `localStorage`.md",
-    "0. Подготовка к собеседованию/000 OOP & FP.md",
-    "0. Подготовка к собеседованию/000 API.md",
-    "Для чего нужен паттерн PRPL.md",
-    "Разница между `preload`, `prefetch`, `preconnect` и `prerender`.md",
-    "Расскажите о метриках Core Web Vitals.md",
-    "Что такое Core Web Vitals. Какие основные метрики туда входят.md",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",
     "001 HTML/0. Подготовка к собеседованиям",
