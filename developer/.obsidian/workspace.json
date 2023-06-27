@@ -6,7 +6,7 @@
       {
         "id": "937b9585441b5734",
         "type": "tabs",
-        "dimension": 50.589005235602095,
+        "dimension": 50.5890052356021,
         "children": [
           {
             "id": "a2c12b1a14cf1590",
@@ -26,7 +26,7 @@
       {
         "id": "4dca450b333b1544",
         "type": "tabs",
-        "dimension": 49.410994764397905,
+        "dimension": 49.4109947643979,
         "children": [
           {
             "id": "235aaa2bd57f20eb",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Подготовка к собеседованию/000 Browser.md",
+                "file": "028 Что такое микросервисы.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Подготовка к собеседованию/000 Browser.md",
+                "file": "028 Что такое микросервисы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Подготовка к собеседованию/000 Browser.md"
+                "file": "028 Что такое микросервисы.md"
               }
             }
           },
@@ -177,10 +177,10 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "a2c12b1a14cf1590",
+  "active": "235aaa2bd57f20eb",
   "lastOpenFiles": [
-    "Используете вы Perfect Pixel или что-то аналогичное.md",
     "0. Подготовка к собеседованию/000 Browser.md",
+    "Используете вы Perfect Pixel или что-то аналогичное.md",
     "Что такое Веб-компоненты и какие технологии в них используются.md",
     "028 Что такое микросервисы.md",
     "0. Подготовка к собеседованию/001 HTML.md",
