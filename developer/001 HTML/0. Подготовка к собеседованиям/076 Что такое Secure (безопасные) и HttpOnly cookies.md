@@ -1,3 +1,5 @@
+![Что такое безопасные (Secure) и HttpOnly cookies?](https://youtu.be/ovV8GhIkzBE?t=158)
+
 #### Ответ
 
 Подробней: [https://developer.mozilla.org/ru/docs/Web/HTTP/Куки](https://developer.mozilla.org/ru/docs/Web/HTTP/%D0%9A%D1%83%D0%BA%D0%B8)
