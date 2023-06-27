@@ -1,1 +1,1 @@
-- [Что такое REST и RESTful api?](https://youtu.be/__neFkxAO9s?t=334)
+![Что такое REST и RESTful api?](https://youtu.be/__neFkxAO9s?t=334)

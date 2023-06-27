@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Что такое REST.md",
+                "file": "Что такое feature inference (предположение возможностей) и анализ строки user-agent.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 HTML/0. Подготовка к собеседованиям/047 Типы списков в HTML.md",
+                "file": "001 HTML/0. Подготовка к собеседованиям/018 Что такое прогрессивный рендеринг.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "REST",
+                "query": "feature detection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Что такое REST.md",
+                "file": "Что такое feature inference (предположение возможностей) и анализ строки user-agent.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Что такое REST.md",
+                "file": "Что такое feature inference (предположение возможностей) и анализ строки user-agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Что такое REST.md"
+                "file": "Что такое feature inference (предположение возможностей) и анализ строки user-agent.md"
               }
             }
           },
@@ -173,31 +173,31 @@
   "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
     "0. Подготовка к собеседованию/000 Browser.md",
-    "Что такое REST.md",
-    "001 HTML/0. Подготовка к собеседованиям/047 Типы списков в HTML.md",
-    "0. Подготовка к собеседованию/001 HTML.md",
-    "003 JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/5.1 REST API.md",
-    "001 HTML/0. Подготовка к собеседованиям/020 На что необходимо обратить внимание при разработке мультиязычных сайтов.md",
-    "001 HTML/0. Подготовка к собеседованиям/076 Что такое Secure (безопасные) и HttpOnly cookies.md",
-    "Особенности разработки мультиязычных сайтов.md",
-    "Что такое Веб-компоненты и какие технологии в них используются.md",
-    "Разница между Progressive Enhancement и Graceful Degradation.md",
-    "001 HTML/0. Подготовка к собеседованиям/060 Можете ли вы описать разницу между прогрессивным улучшением (progressive enhancement) и изящной деградацией (graceful degradation).md",
-    "001 HTML/0. Подготовка к собеседованиям/075 Что такое HTTP cookie.md",
-    "002 CSS/Подготовка к собеседованиям/063 Можете ли вы объяснить разницу между отзывчивым (responsive) сайтом и сайтом, сделанным по принципу mobile-first.md",
-    "0. Подготовка к собеседованию/002 CSS.md",
-    "Что такое OSI модель.md",
-    "Разница между адаптивным (adaptive) и отзывчивым (responsive) дизайнами.md",
-    "Что такое поток документа.md",
-    "Что такое Progressive Web Application (PWA).md",
-    "Что такое прогрессивный SSR.md",
-    "001 HTML/2 Семантическая разметка SEO. Доступность/Особенности кроссбраузерной вёрстки.md",
-    "004 ReactCore/Подготовка к собеседованиям/53 Что такое Server Side Rendering.md",
-    "Что такое прогрессивный рендеринг.md",
+    "Что такое feature inference (предположение возможностей) и анализ строки user-agent.md",
+    "003 JSCore/Подготовка к собеседованиям/14. В чем разница между feature detection (определение возможностей браузера), feature inference (предположение возможностей) и анализом строки user-agent.md",
+    "Что такое feature detection.md",
+    "Используете вы Perfect Pixel или что-то аналогичное.md",
+    "Что такое мутабельность и иммутабельность.md",
+    "Что такое микросервисы.md",
+    "Что такое protobuf и messagepack.md",
+    "Для чего нужен паттерн PRPL.md",
+    "Разница между `preload`, `prefetch`, `preconnect` и `prerender`.md",
+    "Расскажите о метриках Core Web Vitals.md",
+    "Что такое Core Web Vitals. Какие основные метрики туда входят.md",
     "001 HTML/0. Подготовка к собеседованиям/018 Что такое прогрессивный рендеринг.md",
-    "0. Подготовка к собеседованию/other themes/Подготовка к собеседованиям/19. Что такое прогрессивная отрисовка.md",
-    "001 HTML/0. Подготовка к собеседованиям/077 Объясните разницу между cookies, sessionStorage и localStorage.md",
-    "Что такое кроссбраузерность.md",
+    "Способы уменьшения времени загрузки веб-страницы.md",
+    "Разница между `cookie`, `sessionStorage` и `localStorage`.md",
+    "Что такое веб-хранилище (web storage).md",
+    "0. Подготовка к собеседованию/001 HTML.md",
+    "InBOX/202306211532.md",
+    "Что такое History API в браузере.md",
+    "003 JSCore/Подготовка к собеседованиям/31. Расскажите, что такое одностраничное приложение, и как сделать его SEO-оптимизированным.md",
+    "Что такое Flash Of Unstyled Content (FOUC). Как его избежать.md",
+    "0. Подготовка к собеседованию/other themes/Подготовка к собеседованиям/32. Что такое FOUC (Flash Of Unstyled Content) Как его избежать.md",
+    "Разница между layout, painting и compositing.md",
+    "Назовите критические этапы рендеринга.md",
+    "001 HTML/0. Подготовка к собеседованиям/047 Типы списков в HTML.md",
+    "Что такое модель зрелости Ричардсона.md",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",
     "001 HTML/0. Подготовка к собеседованиям",
