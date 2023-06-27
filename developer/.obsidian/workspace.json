@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Подготовка к собеседованию/000 Browser.md",
+                "file": "Что такое Веб-компоненты и какие технологии в них используются.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Подготовка к собеседованию/000 API.md",
+                "file": "0. Подготовка к собеседованию/001 HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -62,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "graceful degradatio",
+                "query": "отзывчив",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Подготовка к собеседованию/000 API.md",
+                "file": "Что такое Веб-компоненты и какие технологии в них используются.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Подготовка к собеседованию/000 API.md",
+                "file": "Что такое Веб-компоненты и какие технологии в них используются.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Подготовка к собеседованию/000 API.md"
+                "file": "Что такое Веб-компоненты и какие технологии в них используются.md"
               }
             }
           },
@@ -170,34 +170,34 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "522b808f9d8b8716",
+  "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
     "0. Подготовка к собеседованию/000 Browser.md",
+    "Разница между Progressive Enhancement и Graceful Degradation.md",
+    "0. Подготовка к собеседованию/001 HTML.md",
+    "001 HTML/0. Подготовка к собеседованиям/060 Можете ли вы описать разницу между прогрессивным улучшением (progressive enhancement) и изящной деградацией (graceful degradation).md",
+    "001 HTML/0. Подготовка к собеседованиям/075 Что такое HTTP cookie.md",
+    "002 CSS/Подготовка к собеседованиям/063 Можете ли вы объяснить разницу между отзывчивым (responsive) сайтом и сайтом, сделанным по принципу mobile-first.md",
+    "0. Подготовка к собеседованию/002 CSS.md",
+    "Что такое OSI модель.md",
+    "Разница между адаптивным (adaptive) и отзывчивым (responsive) дизайнами.md",
+    "Что такое поток документа.md",
+    "Что такое Progressive Web Application (PWA).md",
+    "Что такое прогрессивный SSR.md",
+    "001 HTML/2 Семантическая разметка SEO. Доступность/Особенности кроссбраузерной вёрстки.md",
+    "004 ReactCore/Подготовка к собеседованиям/53 Что такое Server Side Rendering.md",
+    "Что такое прогрессивный рендеринг.md",
+    "001 HTML/0. Подготовка к собеседованиям/018 Что такое прогрессивный рендеринг.md",
+    "0. Подготовка к собеседованию/other themes/Подготовка к собеседованиям/19. Что такое прогрессивная отрисовка.md",
+    "001 HTML/0. Подготовка к собеседованиям/077 Объясните разницу между cookies, sessionStorage и localStorage.md",
+    "Что такое кроссбраузерность.md",
+    "Разница между `cookie`, `sessionStorage` и `localStorage`.md",
     "0. Подготовка к собеседованию/000 OOP & FP.md",
     "0. Подготовка к собеседованию/000 API.md",
     "Для чего нужен паттерн PRPL.md",
     "Разница между `preload`, `prefetch`, `preconnect` и `prerender`.md",
     "Расскажите о метриках Core Web Vitals.md",
     "Что такое Core Web Vitals. Какие основные метрики туда входят.md",
-    "Способы уменьшения времени загрузки веб-страницы.md",
-    "Разница между `cookie`, `sessionStorage` и `localStorage`.md",
-    "Что такое веб-хранилище (web storage).md",
-    "Что такое History API в браузере.md",
-    "Что такое Flash Of Unstyled Content (FOUC). Как его избежать.md",
-    "Разница между layout, painting и compositing.md",
-    "Назовите критические этапы рендеринга.md",
-    "Основные уровни модели зрелости Ричардсона.md",
-    "Что такое модель зрелости Ричардсона.md",
-    "Принципы REST-архитектуры.md",
-    "Что такое REST и RESTful api.md",
-    "Особенности разработки мультиязычных сайтов.md",
-    "Что такое REST.md",
-    "Что такое Веб-компоненты и какие технологии в них используются.md",
-    "Разница между Progressive Enhancement и Graceful Degradation.md",
-    "Разница между адаптивным (adaptive) и отзывчивым (responsive) дизайнами.md",
-    "Что такое поток документа.md",
-    "Что такое OSI модель.md",
-    "Что такое кроссбраузерность.md",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",
     "001 HTML/0. Подготовка к собеседованиям",

@@ -1,1 +1,0 @@
-- [Разница между Progressive Enhancement и Graceful Degradation?](https://youtu.be/rlWgI7AvV18?t=286)

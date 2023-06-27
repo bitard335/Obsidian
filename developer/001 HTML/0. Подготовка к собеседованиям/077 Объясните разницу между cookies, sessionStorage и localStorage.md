@@ -1,3 +1,5 @@
+![Разница между `cookie`, `sessionStorage` и `localStorage`?](https://youtu.be/nvktMVFM0_M?t=604)
+
 #### Ответ
 
 - **LocalStorage**  
