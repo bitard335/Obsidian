@@ -1,0 +1,1 @@
+- [Что такое `HTTP` cookie? Для чего они используются?](https://youtu.be/G4iYlbilozM?t=488)

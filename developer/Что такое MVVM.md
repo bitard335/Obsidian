@@ -1,0 +1,1 @@
+- [Что такое MVVM?](https://youtu.be/ovV8GhIkzBE?t=489)

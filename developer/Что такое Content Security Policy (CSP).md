@@ -1,0 +1,1 @@
+- [Что такое Content Security Policy (CSP)?](https://youtu.be/ovV8GhIkzBE?t=231)

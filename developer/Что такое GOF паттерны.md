@@ -1,0 +1,1 @@
+- [Что такое GOF паттерны?](https://youtu.be/J6CgOSKFOlw?t=426)

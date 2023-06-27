@@ -1,0 +1,1 @@
+- [Что такое GRASP паттерны?](https://youtu.be/J6CgOSKFOlw?t=511)

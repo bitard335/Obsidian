@@ -1,0 +1,1 @@
+- [Что такое OWASP Top 10?](https://youtu.be/DZjIcc6KdjE?t=419)

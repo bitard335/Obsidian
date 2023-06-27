@@ -1,0 +1,1 @@
+- [Что такое CORS?](https://youtu.be/w-vUj0gHGgg?t=360)

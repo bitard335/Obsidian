@@ -1,0 +1,1 @@
+- [Какие методы может иметь `HTTP`-запрос?](https://youtu.be/G4iYlbilozM?t=419)

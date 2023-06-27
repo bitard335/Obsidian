@@ -1,0 +1,1 @@
+- [Что такое каррирование (Currying)?](https://youtu.be/ovV8GhIkzBE?t=681)

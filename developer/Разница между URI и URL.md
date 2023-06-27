@@ -1,0 +1,1 @@
+- [Разница между URI и URL?](https://youtu.be/70VnuTXi4Wk?t=844)

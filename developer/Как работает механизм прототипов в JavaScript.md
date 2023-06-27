@@ -1,0 +1,1 @@
+- [Как работает механизм прототипов в JavaScript?](https://youtu.be/Sw4BlFLj2dg?t=85)
