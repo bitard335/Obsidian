@@ -40,8 +40,16 @@ ___
 ## React JSX #3
 
 * [[Что такое React хуки (Hooks)|Что такое React хуки (Hooks)?]]
-* 2
-* 3
+* [[Преимущества хуков]]
+* [[Недостатки хуков]]
+* [[Правила (ограничения) использования хуков]]
+
+
+- [Недостатки хуков?](https://youtu.be/__neFkxAO9s?t=793)
+- [Правила (ограничения) использования хуков?](https://youtu.be/xZLxdts7ZW4?t=873)
+* [[Что такое CSS-modules|Что такое CSS-modules?]]
+* [[Что такое Компонент высшего порядка (Higher-Order Component)|Что такое Компонент высшего порядка (Higher-Order Component)?]]
+* 
 
 ## React JSX #4
 
@@ -55,8 +63,8 @@ ___
 
 
 
-[[Что такое CSS-modules|Что такое CSS-modules?]]
-[[HOC Компонент высшего порядка]]
+
+
 [[4.  redux ( store, action, dispatch, reducer, combine)]]
 [[5.  redux-actions]]
 [[6.  Middleware]]
@@ -102,9 +110,7 @@ ___
 - [Как в React реализовать двустороннее связывание данных?](https://youtu.be/HBSAjY-xh3k?t=355)
 
 - [Разница между `useEffect()` и `componentDidMount()`?](https://youtu.be/xZLxdts7ZW4?t=754)
-- [Преимущества хуков?](https://youtu.be/xZLxdts7ZW4?t=819)
-- [Недостатки хуков?](https://youtu.be/__neFkxAO9s?t=793)
-- [Правила (ограничения) использования хуков?](https://youtu.be/xZLxdts7ZW4?t=873)
+
 - [Что такое поднятие состояния вверх (Lifting State Up)?](https://youtu.be/ngyOYuTrUk8?t=700)
 - [Что делает метод `shouldComponentUpdate`?](https://youtu.be/ngyOYuTrUk8?t=748)
 - [Разница между `createElement()` и `cloneElement()`?](https://youtu.be/ngyOYuTrUk8?t=816)
