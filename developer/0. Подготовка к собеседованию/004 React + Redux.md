@@ -26,6 +26,7 @@ ___
 * [[Как выполнить действие с новым состоянием стейта после setState|Как выполнить действие с новым состоянием стейта после setState?]]
 * [[Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами|Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?]]
 * 
+* [[Зачем нужны eslint и prettier|Зачем нужны eslint и prettier?]]
 
 ## React JSX #2
 
@@ -48,6 +49,7 @@ ___
 * [[Разница между `useEffect()` и `componentDidMount()`|Разница между `useEffect()` и `componentDidMount()`?]]
 * [[Что такое `useReducer()`|Что такое `useReducer()`?]]
 * [[Расскажите о хуках `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`|Расскажите о хуках `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`?]]
+* [[Разница между `memo` и `useMemo`]]
 * [[Что такое CSS-modules|Что такое CSS-modules?]]
 * [[Что такое Компонент высшего порядка (Higher-Order Component)|Что такое Компонент высшего порядка (Higher-Order Component)?]]
 * [[Что такое Redux|Что такое Redux?]]
@@ -56,13 +58,14 @@ ___
 * [[Что такое Redux-thunk|Что такое Redux-thunk?]]
 * [[Чистая функция в Redux|Чистая функция в Redux?]]
 
+
 ## React JSX #4
 
 * 1
 * 2
 * 3
 
-[[12. Зачем нужны eslint и prettier]]
+
 [[13. Как работать с формами в react]]
 [[Когда происходит ререндер состояния]]
 
