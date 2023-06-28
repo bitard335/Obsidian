@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "028 Что такое микросервисы.md",
+                "file": "008 Настройка окружения/Eslint/0. Настройка eslint & prettier.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "028 Что такое микросервисы.md",
+                "file": "008 Настройка окружения/Eslint/0. Настройка eslint & prettier.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "028 Что такое микросервисы.md",
+                "file": "008 Настройка окружения/Eslint/0. Настройка eslint & prettier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "028 Что такое микросервисы.md"
+                "file": "008 Настройка окружения/Eslint/0. Настройка eslint & prettier.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "235aaa2bd57f20eb",
   "lastOpenFiles": [
-    "0. Подготовка к собеседованию/000 Browser.md",
+    "008 Настройка окружения/Eslint/Руководство Eslint + Prettier.md",
     "028 Что такое микросервисы.md",
+    "0. Подготовка к собеседованию/000 Browser.md",
     "Что такое CORS.md",
     "Что такое Web Workers.md",
     "Используете вы Perfect Pixel или что-то аналогичное.md",
@@ -204,7 +205,6 @@
     "Что такое Lazy Loading и как оно может помочь при оптимизации производительности.md",
     "Что такое Critical Rendering Path. Как его оптимизировать.md",
     "Что такое критический путь рендеринга веб-страниц.md",
-    "Какие инструменты используются для оптимизации производительности веб-приложений.md",
     "Pasted image 20230627171341.png",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",
