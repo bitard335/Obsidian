@@ -1,4 +1,7 @@
-#### 8. Что такое #children в #props?  
+![Что такое `сhildren`?](https://youtu.be/HBSAjY-xh3k?t=191)
+
+#### Ответ
+
 Подробнее: [краткое введение в props.children в React](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)
 
 Кратко:

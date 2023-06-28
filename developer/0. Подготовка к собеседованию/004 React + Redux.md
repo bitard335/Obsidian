@@ -12,19 +12,16 @@ ___
 * [[JSX, условный рендеринг, работа с коллекциями|JSX, условный рендеринг, работа с коллекциями?]]
 * [[Для чего нужен атрибут `key` при рендере списков|Для чего нужен атрибут `key` при рендере списков?]]
 * [[Разница между классовым и функциональным компонентами|Разница между классовым и функциональным компонентами?]]
+* [[Что такое `children` в props|Что такое `children` в props?]]
+* [[Что делает setState|Что делает setState?]]
+* [[Как выполнить действие с новым состоянием стейта после setState|Как выполнить действие с новым состоянием стейта после setState?]]
+* 
 
 
 
 
 
-
-[[8. Что такое children в props]]
-
-[[9. Что делает setState Функция setState первым аргументом может принять объект, а может функцию. Зачем нужна функция]]
-
-[[10. Как выполнить действие с новым состоянием стейта после setState]]
-
-[[11. Что такое контроллируемый компонент]]
+[[Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами]]
 
 [[12. Зачем нужны eslint и prettier]]
 [[13. Как работать с формами в react]]
@@ -53,7 +50,6 @@ ___
 
 - [Что такое `PureComponent`?](https://youtu.be/yvOXvZ8aEFo?t=581)
 - [Что такое Компонент высшего порядка (Higher-Order Component/HOC)?](https://youtu.be/yvOXvZ8aEFo?t=637)
-- [Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?](https://youtu.be/yvOXvZ8aEFo?t=684)
 - [Методы жизненного цикла компонента в React?](https://youtu.be/RpcB5jnJvcI?t=35)
 - [Стадии жизненного цикла компонента в React?](https://youtu.be/RpcB5jnJvcI?t=173)
 - [Что такое React Reconciliation?](https://youtu.be/RpcB5jnJvcI?t=271)
@@ -81,7 +77,7 @@ ___
 - [Что такое предохранители (Error Boundaries)?](https://youtu.be/HBSAjY-xh3k?t=36)
 - [Что такое «ленивая» (Lazy) функция?](https://youtu.be/HBSAjY-xh3k?t=103)
 - [Разница между рендерингом и монтированием?](https://youtu.be/HBSAjY-xh3k?t=149)
-- [Что такое `сhildren`?](https://youtu.be/HBSAjY-xh3k?t=191)
+
 - [Что такое события указателя (Pointer Events)?](https://youtu.be/HBSAjY-xh3k?t=239)
 - [Что такое инверсия наследования (Inheritance Inversion)?](https://youtu.be/HBSAjY-xh3k?t=301)
 - [Как в React реализовать двустороннее связывание данных?](https://youtu.be/HBSAjY-xh3k?t=355)
@@ -98,7 +94,7 @@ ___
 - [Что такое распределенный компонент?](https://youtu.be/GZUy2i6QN7o?t=386)
 - [Расскажите о хуках `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`?](https://youtu.be/GZUy2i6QN7o?t=449)
 - [Как отрендерить HTML код в React-компоненте?](https://youtu.be/GZUy2i6QN7o?t=572)
-- [Зачем в `setState()` нужно передавать функцию?](https://youtu.be/GZUy2i6QN7o?t=627)
+
 - [Для чего предназначен метод `registerServiceWorker()` в React?](https://youtu.be/GZUy2i6QN7o?t=665)
 - [Чем React Router отличается от обычной маршрутизации?](https://youtu.be/GZUy2i6QN7o?t=710)
 - [Какие хуки были добавлены в React Router версии 5?](https://youtu.be/GZUy2i6QN7o?t=765)
