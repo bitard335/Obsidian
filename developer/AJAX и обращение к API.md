@@ -1,4 +1,4 @@
-#### 2. #AJAX и обращение к #API
+#### Ответ
 
 Вы можете использовать встроенный в браузер метод [window.fetch](https://learn.javascript.ru/fetch) 
 
