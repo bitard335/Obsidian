@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004 ReactCore/Подготовка к собеседованиям/53 Что такое React Reconciliation и как он работает.md",
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reconcil",
+                "query": "fragment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 ReactCore/Подготовка к собеседованиям/53 Что такое React Reconciliation и как он работает.md",
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004 ReactCore/Подготовка к собеседованиям/53 Что такое React Reconciliation и как он работает.md",
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 ReactCore/Подготовка к собеседованиям/53 Что такое React Reconciliation и как он работает.md"
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md"
               }
             }
           },
@@ -170,9 +170,14 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "a2c12b1a14cf1590",
+  "active": "727a8f297f16c7a8",
   "lastOpenFiles": [
+    "004 ReactCore/Подготовка к собеседованиям/45 Что такое React Fiber.md",
     "0. Подготовка к собеседованию/004 React + Redux.md",
+    "004 ReactCore/202306180111.md",
+    "InBOX/Вопросы итогового собеседования.md",
+    "004 ReactCore/Подготовка к собеседованиям/53 Что такое порталы.md",
+    "004 ReactCore/Подготовка к собеседованиям/53 Что такое React Reconciliation и как он работает.md",
     "Оптимизация производительности. Что такое `PureComponent`.md",
     "InBOX/202306211532.md",
     "Когда происходит ререндер состояния.md",
@@ -193,11 +198,6 @@
     "Разница между `useEffect()` и `componentDidMount()`.md",
     "Разница между рендерингом и монтированием.md",
     "JSX, условный рендеринг, работа с коллекциями.md",
-    "Назовите преимущества использования React.md",
-    "Правила (ограничения) использования хуков.md",
-    "Недостатки хуков.md",
-    "Преимущества хуков.md",
-    "Что такое Компонент высшего порядка (Higher-Order Component).md",
     "Pasted image 20230627171341.png",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",

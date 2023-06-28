@@ -6,7 +6,9 @@ ___
 
 ## DOM
 
-* - 
+- [Что такое React Reconciliation?](https://youtu.be/RpcB5jnJvcI?t=271)
+- [Что такое портал (`Portal`)?](https://youtu.be/RpcB5jnJvcI?t=342)
+- [Что такое React Fiber?](https://youtu.be/RpcB5jnJvcI?t=689)
 
 ## React JSX #1
 
@@ -87,12 +89,10 @@ ___
 
 - 
 
-- [Что такое React Reconciliation?](https://youtu.be/RpcB5jnJvcI?t=271)
-- [Что такое портал (`Portal`)?](https://youtu.be/RpcB5jnJvcI?t=342)
 
 
 
-- [Что такое React Fiber?](https://youtu.be/RpcB5jnJvcI?t=689)
+
 - [Что такое фрагмент (`Fragment`)? Почему фрагмент лучше, чем `div`?](https://youtu.be/RpcB5jnJvcI?t=730)
 - [Что такое синтетические события в React?](https://youtu.be/81yRgVQ1ciM?t=34)
 
