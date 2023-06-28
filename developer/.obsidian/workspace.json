@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004 ReactCore/1.4 Состояния и события/1.4.3 Обработка событий.md",
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6971aa547a96823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Подготовка к собеседованию/003 JSCore.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -78,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 ReactCore/1.4 Состояния и события/1.4.3 Обработка событий.md",
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004 ReactCore/1.4 Состояния и события/1.4.3 Обработка событий.md",
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 ReactCore/1.4 Состояния и события/1.4.3 Обработка событий.md"
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md"
               }
             }
           },
@@ -172,7 +159,12 @@
   },
   "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
+    "003 JSCore/4 Browser API + HTTP/1 DOM/3 Изменение документа.md",
+    "003 JSCore/0 Введение в JS/Интересные вопросы js/Как создать элемент DOM-дерева в HTML странице, используя JS.md",
     "0. Подготовка к собеседованию/004 React + Redux.md",
+    "0. Подготовка к собеседованию/003 JSCore.md",
+    "Что такое синтетические события (SyntheticEvent) в React.md",
+    "004 ReactCore/1.4 Состояния и события/1.4.3 Обработка событий.md",
     "Как работать с формами в React.md",
     "Является ли React реактивным.md",
     "004 ReactCore/1.2 Вступление/1.1.1 Знакомство с React.md",
@@ -183,8 +175,6 @@
     "Что такое поднятие состояния вверх (Lifting State Up).md",
     "004 ReactCore/1.4 Состояния и события/1.4.11 setState - обновление элемента.md",
     "Что такое фрагмент (`Fragment`). Почему фрагмент лучше, чем `div`.md",
-    "003 JSCore/4 Browser API + HTTP/1 DOM/3 Изменение документа.md",
-    "003 JSCore/0 Введение в JS/Интересные вопросы js/Как создать элемент DOM-дерева в HTML странице, используя JS.md",
     "004 ReactCore/3.3 Стилизация/Компоненты высшего порядка.md",
     "004 ReactCore/Подготовка к собеседованиям/45 Что такое React Fiber.md",
     "004 ReactCore/202306180111.md",
@@ -195,9 +185,6 @@
     "Когда происходит ререндер состояния.md",
     "Зачем нужны eslint и prettier.md",
     "004 ReactCore/2.2 Работа с API/Без названия.md",
-    "Разница между `memo` и `useMemo`.md",
-    "0. Подготовка к собеседованию/003 JSCore.md",
-    "9. connect API.md",
     "Pasted image 20230627171341.png",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",

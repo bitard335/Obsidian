@@ -9,6 +9,7 @@ ___
 - [Что такое React Reconciliation?](https://youtu.be/RpcB5jnJvcI?t=271)
 - [Что такое портал (`Portal`)?](https://youtu.be/RpcB5jnJvcI?t=342)
 - [Что такое React Fiber?](https://youtu.be/RpcB5jnJvcI?t=689)
+- - [Назовите основную цель React Fiber?](https://youtu.be/DgevxmyzymQ?t=30)
 - [Разница между теневым (Shadow) и виртуальным (Virtual) DOM?](https://youtu.be/81yRgVQ1ciM?t=112)
 
 
@@ -24,6 +25,7 @@ ___
 * [[JSX, условный рендеринг, работа с коллекциями|JSX, условный рендеринг, работа с коллекциями?]]
 * [[Для чего нужен атрибут `key` при рендере списков|Для чего нужен атрибут `key` при рендере списков?]]
 * [[Разница между классовым и функциональным компонентами|Разница между классовым и функциональным компонентами?]]
+* [[Что такое синтетические события (SyntheticEvent) в React|Что такое синтетические события (SyntheticEvent) в React?]]
 * [[Разница между состоянием(`state`) и пропсами(`props`)|Разница между состоянием(`state`) и пропсами(`props`)?]]]
 * [[Что такое поднятие состояния вверх (Lifting State Up)|Что такое поднятие состояния вверх (Lifting State Up)?]]
 * [[Что такое `children` в props|Что такое `children` в props?]]
@@ -137,10 +139,10 @@ ___
 
 - [Как передавать пропсы в React Router?](https://youtu.be/GZUy2i6QN7o?t=841)
 - [Что такое Reselect и как он работает?](https://youtu.be/XtQPrt8G0n8?t=847)
-- [Назовите основную цель React Fiber?](https://youtu.be/DgevxmyzymQ?t=30)
+
 - [Какие типы данных может возвращать `render`?](https://youtu.be/DgevxmyzymQ?t=90)
 
-- [Что такое синтетические события (SyntheticEvent) в React?](https://youtu.be/DgevxmyzymQ?t=235)
+
 
 - [Техники оптимизации перфоманса React?](https://youtu.be/__neFkxAO9s?t=606)
 - [Лучшие практики безопасности в React?](https://youtu.be/__neFkxAO9s?t=694)
