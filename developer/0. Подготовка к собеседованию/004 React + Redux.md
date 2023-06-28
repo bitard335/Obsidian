@@ -46,12 +46,13 @@ ___
 * [[Недостатки хуков]]
 * [[Правила (ограничения) использования хуков]]
 * [[Разница между `useEffect()` и `componentDidMount()`|Разница между `useEffect()` и `componentDidMount()`?]]
-* [[Расскажите о хуках `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`|]]
+* [[Что такое `useReducer()`|Что такое `useReducer()`?]]
+* [[Расскажите о хуках `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`|Расскажите о хуках `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`?]]
 * [[Что такое CSS-modules|Что такое CSS-modules?]]
 * [[Что такое Компонент высшего порядка (Higher-Order Component)|Что такое Компонент высшего порядка (Higher-Order Component)?]]
-* 
+* [[Что такое Redux|Что такое Redux?]]
+* [[5.  redux-actions]]
 
-- [Расскажите о хуках `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`?](https://youtu.be/GZUy2i6QN7o?t=449)
 ## React JSX #4
 
 * 1
@@ -66,8 +67,8 @@ ___
 - [Какие хуки были добавлены в React Router версии 5?](https://youtu.be/GZUy2i6QN7o?t=765)
 
 
-[[4.  redux ( store, action, dispatch, reducer, combine)]]
-[[5.  redux-actions]]
+
+
 [[6.  Middleware]]
 [[7.  redux-thunk]]
 [[8. Чистая функция в Redux]]
@@ -116,7 +117,7 @@ ___
 - [Что такое поднятие состояния вверх (Lifting State Up)?](https://youtu.be/ngyOYuTrUk8?t=700)
 
 - [Разница между `createElement()` и `cloneElement()`?](https://youtu.be/ngyOYuTrUk8?t=816)
-- [Что такое `useReducer()`?](https://youtu.be/GZUy2i6QN7o?t=257)
+
 - [Как реализовать однократное выполнение операции при начальном рендеринге?](https://youtu.be/GZUy2i6QN7o?t=321)
 - [Что такое распределенный компонент?](https://youtu.be/GZUy2i6QN7o?t=386)
 

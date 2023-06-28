@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
+                "file": "5.  redux-actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
+                "file": "5.  redux-actions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
+                "file": "5.  redux-actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md"
+                "file": "5.  redux-actions.md"
               }
             }
           },
@@ -171,8 +171,11 @@
   },
   "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
-    "10. shouldComponentUpdate ().md",
     "0. Подготовка к собеседованию/004 React + Redux.md",
+    "Что такое Redux.md",
+    "Что такое `useReducer()`.md",
+    "Расскажите о хуках `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`.md",
+    "10. shouldComponentUpdate ().md",
     "Разница между `useEffect()` и `componentDidMount()`.md",
     "0. Подготовка к собеседованию/003 JSCore.md",
     "Разница между рендерингом и монтированием.md",
@@ -194,9 +197,6 @@
     "Что такое JSX.  Можем ли мы использовать React без JSX.md",
     "Методы жизненного цикла компонента в React.md",
     "AJAX и обращение к API.md",
-    "Что возвращает fetch. Как получить содержимое ответа. Как обрабатывать ошибки.md",
-    "Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами.md",
-    "Как выполнить действие с новым состоянием стейта после setState.md",
     "Pasted image 20230627171341.png",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",

@@ -1,4 +1,4 @@
-#### 4.  #redux ( #store, #action, #dispatch, #reducer, #combine)
+#### Ответ
 
 ##### Введение
 
