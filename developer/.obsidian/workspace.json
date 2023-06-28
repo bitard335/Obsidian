@@ -171,8 +171,9 @@
   },
   "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
-    "Чистая функция в Redux.md",
+    "9. connect API.md",
     "0. Подготовка к собеседованию/004 React + Redux.md",
+    "Чистая функция в Redux.md",
     "Что такое Redux-thunk.md",
     "Middleware.md",
     "Что такое Redux-actions.md",
@@ -196,7 +197,6 @@
     "6. Оптимизация производительности.md",
     "Что такое React-ссылка (`ref`).md",
     "004 ReactCore/3.2 React-хуки/3.2.4 useContext().md",
-    "Что такое «бурение пропсов» (Prop Drilling).md",
     "Pasted image 20230627171341.png",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",

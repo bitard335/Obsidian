@@ -54,7 +54,7 @@ ___
 * [[Что такое Redux-actions|Что такое Redux-actions?]]
 * [[Middleware]]
 * [[Что такое Redux-thunk|Что такое Redux-thunk?]]
-* [[Чистая функция в Redux]]
+* [[Чистая функция в Redux|Чистая функция в Redux?]]
 
 ## React JSX #4
 
@@ -133,7 +133,7 @@ ___
 - [Что такое Reselect и как он работает?](https://youtu.be/XtQPrt8G0n8?t=847)
 - [Назовите основную цель React Fiber?](https://youtu.be/DgevxmyzymQ?t=30)
 - [Какие типы данных может возвращать `render`?](https://youtu.be/DgevxmyzymQ?t=90)
-- [Разница между `memo` и `useMemo`?](https://youtu.be/DgevxmyzymQ?t=166)
+
 - [Что такое синтетические события (SyntheticEvent) в React?](https://youtu.be/DgevxmyzymQ?t=235)
 - [Является ли React реактивным?](https://youtu.be/DgevxmyzymQ?t=291)
 - [Техники оптимизации перфоманса React?](https://youtu.be/__neFkxAO9s?t=606)
