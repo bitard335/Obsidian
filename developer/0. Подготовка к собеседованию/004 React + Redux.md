@@ -9,6 +9,8 @@ ___
 - [Что такое React Reconciliation?](https://youtu.be/RpcB5jnJvcI?t=271)
 - [Что такое портал (`Portal`)?](https://youtu.be/RpcB5jnJvcI?t=342)
 - [Что такое React Fiber?](https://youtu.be/RpcB5jnJvcI?t=689)
+- [Разница между теневым (Shadow) и виртуальным (Virtual) DOM?](https://youtu.be/81yRgVQ1ciM?t=112)
+
 
 ## React JSX #1
 
@@ -26,8 +28,9 @@ ___
 * [[Что такое «бурение пропсов» (Prop Drilling)]]
 * [[Что делает setState|Что делает setState?]]
 * [[Как выполнить действие с новым состоянием стейта после setState|Как выполнить действие с новым состоянием стейта после setState?]]
-* [[Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами|Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?]]
 * 
+* [[Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами|Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?]]
+* [[Что такое фрагмент (`Fragment`). Почему фрагмент лучше, чем `div`|Что такое фрагмент (`Fragment`)? Почему фрагмент лучше, чем `div`?]]
 * [[Зачем нужны eslint и prettier|Зачем нужны eslint и prettier?]]
 
 ## React JSX #2
@@ -93,10 +96,9 @@ ___
 
 
 
-- [Что такое фрагмент (`Fragment`)? Почему фрагмент лучше, чем `div`?](https://youtu.be/RpcB5jnJvcI?t=730)
+
 - [Что такое синтетические события в React?](https://youtu.be/81yRgVQ1ciM?t=34)
 
-- [Разница между теневым (Shadow) и виртуальным (Virtual) DOM?](https://youtu.be/81yRgVQ1ciM?t=112)
 
 
 - [Что такое компонент-переключатель (Switching Component)?](https://youtu.be/81yRgVQ1ciM?t=265)
@@ -119,7 +121,7 @@ ___
 
 
 
-- [Что такое поднятие состояния вверх (Lifting State Up)?](https://youtu.be/ngyOYuTrUk8?t=700)
+
 
 - [Разница между `createElement()` и `cloneElement()`?](https://youtu.be/ngyOYuTrUk8?t=816)
 
