@@ -171,8 +171,9 @@
   },
   "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
-    "0. Подготовка к собеседованию/003 JSCore.md",
+    "004 ReactCore/3.2 React-хуки/3.2.4 useContext().md",
     "0. Подготовка к собеседованию/004 React + Redux.md",
+    "0. Подготовка к собеседованию/003 JSCore.md",
     "Что такое «бурение пропсов» (Prop Drilling).md",
     "Разница между состоянием(`state`) и пропсами(`props`).md",
     "Что такое JSX.  Можем ли мы использовать React без JSX.md",
@@ -196,7 +197,6 @@
     "8. Чистая функция в Redux.md",
     "7.  redux-thunk.md",
     "6.  Middleware.md",
-    "5.  redux-actions.md",
     "Pasted image 20230627171341.png",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",

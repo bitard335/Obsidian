@@ -4,6 +4,10 @@
 ___
 ___
 
+## DOM
+
+* 
+
 ## React JSX #1
 
 * [[Что такое React|Что такое React?]]
@@ -27,7 +31,7 @@ ___
 * [[Что возвращает fetch. Как получить содержимое ответа. Как обрабатывать ошибки|Что возвращает fetch? Как получить содержимое ответа? Как обрабатывать ошибки?]]
 * [[AJAX и обращение к API|AJAX и обращение к API?]]
 * [[Методы жизненного цикла компонента в React|Методы жизненного цикла компонента в React?]]
-* 
+* [[3.2.4 useContext()|Что такое контекст (`Context`)?]]
 
 ## React JSX #3
 
@@ -72,7 +76,7 @@ ___
 - [Стадии жизненного цикла компонента в React?](https://youtu.be/RpcB5jnJvcI?t=173)
 - [Что такое React Reconciliation?](https://youtu.be/RpcB5jnJvcI?t=271)
 - [Что такое портал (`Portal`)?](https://youtu.be/RpcB5jnJvcI?t=342)
-- [Что такое контекст (`Context`)?](https://youtu.be/RpcB5jnJvcI?t=390)
+
 - [Что такое React хуки (Hooks)?](https://youtu.be/RpcB5jnJvcI?t=475)
 
 
