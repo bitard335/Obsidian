@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
+                "file": "004 ReactCore/Подготовка к собеседованиям/53 Что такое React Reconciliation и как он работает.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AJAX-запрос",
+                "query": "reconcil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
+                "file": "004 ReactCore/Подготовка к собеседованиям/53 Что такое React Reconciliation и как он работает.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
+                "file": "004 ReactCore/Подготовка к собеседованиям/53 Что такое React Reconciliation и как он работает.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md"
+                "file": "004 ReactCore/Подготовка к собеседованиям/53 Что такое React Reconciliation и как он работает.md"
               }
             }
           },
@@ -171,8 +172,12 @@
   },
   "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
-    "Зачем нужны eslint и prettier.md",
     "0. Подготовка к собеседованию/004 React + Redux.md",
+    "Оптимизация производительности. Что такое `PureComponent`.md",
+    "InBOX/202306211532.md",
+    "Когда происходит ререндер состояния.md",
+    "13. Как работать с формами в react.md",
+    "Зачем нужны eslint и prettier.md",
     "004 ReactCore/2.2 Работа с API/Без названия.md",
     "Разница между `memo` и `useMemo`.md",
     "0. Подготовка к собеседованию/003 JSCore.md",
@@ -193,10 +198,6 @@
     "Недостатки хуков.md",
     "Преимущества хуков.md",
     "Что такое Компонент высшего порядка (Higher-Order Component).md",
-    "Что такое CSS-modules.md",
-    "Что такое React хуки (Hooks).md",
-    "Стадии жизненного цикла компонента в React.md",
-    "Работа с таймерами.md",
     "Pasted image 20230627171341.png",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",
