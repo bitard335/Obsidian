@@ -159,8 +159,9 @@
   },
   "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
-    "AJAX и обращение к API.md",
+    "Методы жизненного цикла компонента в React.md",
     "0. Подготовка к собеседованию/004 React + Redux.md",
+    "AJAX и обращение к API.md",
     "Что возвращает fetch. Как получить содержимое ответа. Как обрабатывать ошибки.md",
     "Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами.md",
     "Как выполнить действие с новым состоянием стейта после setState.md",
@@ -184,7 +185,6 @@
     "4.  redux ( store, action, dispatch, reducer, combine).md",
     "3.  HOC Компонент высшего порядка.md",
     "2. CSS-modules.md",
-    "1. Hooks React.md",
     "Pasted image 20230627171341.png",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",
