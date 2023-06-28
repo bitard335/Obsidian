@@ -33,6 +33,7 @@ ___
 * [[AJAX и обращение к API|AJAX и обращение к API?]]
 * [[Стадии жизненного цикла компонента в React|Стадии жизненного цикла компонента в React?]]
 * [[Методы жизненного цикла компонента в React|Методы жизненного цикла компонента в React?]]
+* [[Разница между рендерингом и монтированием|Разница между рендерингом и монтированием?]]
 * [[3.2.4 useContext()|Что такое контекст (`Context`)?]]
 * [[Что такое React-ссылка (`ref`)|Что такое React-ссылка (`ref`)?]]
 * [[6. Оптимизация производительности|Оптимизация производительности?]]
@@ -44,6 +45,7 @@ ___
 * [[Преимущества хуков]]
 * [[Недостатки хуков]]
 * [[Правила (ограничения) использования хуков]]
+* [[Разница между `useEffect()` и `componentDidMount()`|Разница между `useEffect()` и `componentDidMount()`?]]
 * [[Что такое CSS-modules|Что такое CSS-modules?]]
 * [[Что такое Компонент высшего порядка (Higher-Order Component)|Что такое Компонент высшего порядка (Higher-Order Component)?]]
 * 
@@ -88,8 +90,9 @@ ___
 
 - [Разница между теневым (Shadow) и виртуальным (Virtual) DOM?](https://youtu.be/81yRgVQ1ciM?t=112)
 
-- [Что такое условный рендеринг (Conditional Rendering)? Как его выполнить?](https://youtu.be/81yRgVQ1ciM?t=224)
+
 - [Что такое компонент-переключатель (Switching Component)?](https://youtu.be/81yRgVQ1ciM?t=265)
+- 
 - [Разница между `React` и `ReactDOM`?](https://youtu.be/81yRgVQ1ciM?t=305)
 - [Разница между компонентом и контейнером?](https://youtu.be/81yRgVQ1ciM?t=370)
 - [Как React обрабатывает, или ограничивает использование пропсов определенного типа?](https://youtu.be/81yRgVQ1ciM?t=413)
@@ -100,13 +103,13 @@ ___
 - [Что такое `ReactDOMServer`?](https://youtu.be/81yRgVQ1ciM?t=763)
 - [Что такое предохранители (Error Boundaries)?](https://youtu.be/HBSAjY-xh3k?t=36)
 - [Что такое «ленивая» (Lazy) функция?](https://youtu.be/HBSAjY-xh3k?t=103)
-- [Разница между рендерингом и монтированием?](https://youtu.be/HBSAjY-xh3k?t=149)
+
 
 - [Что такое события указателя (Pointer Events)?](https://youtu.be/HBSAjY-xh3k?t=239)
 - [Что такое инверсия наследования (Inheritance Inversion)?](https://youtu.be/HBSAjY-xh3k?t=301)
 - [Как в React реализовать двустороннее связывание данных?](https://youtu.be/HBSAjY-xh3k?t=355)
 
-- [Разница между `useEffect()` и `componentDidMount()`?](https://youtu.be/xZLxdts7ZW4?t=754)
+
 
 - [Что такое поднятие состояния вверх (Lifting State Up)?](https://youtu.be/ngyOYuTrUk8?t=700)
 - [Что делает метод `shouldComponentUpdate`?](https://youtu.be/ngyOYuTrUk8?t=748)
