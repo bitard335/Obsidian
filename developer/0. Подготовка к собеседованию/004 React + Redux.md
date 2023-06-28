@@ -67,6 +67,7 @@ ___
 * [[Middleware]]
 * [[Что такое Redux-thunk|Что такое Redux-thunk?]]
 * [[Чистая функция в Redux|Чистая функция в Redux?]]
+* [[Что такое Reselect и как он работает|Что такое Reselect и как он работает?]]
 
 
 ## React JSX #4
@@ -92,16 +93,6 @@ ___
 
 ___
 Проекты на React , React-Redux
-
-
-- 
-
-
-
-
-
-
-- [Что такое синтетические события в React?](https://youtu.be/81yRgVQ1ciM?t=34)
 
 
 
@@ -136,9 +127,9 @@ ___
 
 - [Для чего предназначен метод `registerServiceWorker()` в React?](https://youtu.be/GZUy2i6QN7o?t=665)
 - [Чем React Router отличается от обычной маршрутизации?](https://youtu.be/GZUy2i6QN7o?t=710)
-
 - [Как передавать пропсы в React Router?](https://youtu.be/GZUy2i6QN7o?t=841)
-- [Что такое Reselect и как он работает?](https://youtu.be/XtQPrt8G0n8?t=847)
+- 
+
 
 - [Какие типы данных может возвращать `render`?](https://youtu.be/DgevxmyzymQ?t=90)
 
