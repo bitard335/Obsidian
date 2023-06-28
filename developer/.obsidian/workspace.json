@@ -6,7 +6,6 @@
       {
         "id": "937b9585441b5734",
         "type": "tabs",
-        "dimension": 50.5890052356021,
         "children": [
           {
             "id": "a2c12b1a14cf1590",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Подготовка к собеседованию/000 Browser.md",
+                "file": "004 ReactCore/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,25 +21,6 @@
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "4dca450b333b1544",
-        "type": "tabs",
-        "dimension": 49.4109947643979,
-        "children": [
-          {
-            "id": "235aaa2bd57f20eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004 ReactCore/Подготовка к собеседованиям/Блог-платформа.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004 ReactCore/Подготовка к собеседованиям/Блог-платформа.md",
+                "file": "004 ReactCore/1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004 ReactCore/Подготовка к собеседованиям/Блог-платформа.md",
+                "file": "004 ReactCore/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004 ReactCore/Подготовка к собеседованиям/Блог-платформа.md"
+                "file": "004 ReactCore/1.md"
               }
             }
           },
@@ -177,8 +157,26 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "235aaa2bd57f20eb",
+  "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
+    "9. Что делает setState Функция setState первым аргументом может принять объект, а может функцию. Зачем нужна функция.md",
+    "8. Что такое children в props.md",
+    "7. Какие различия между компонентом-классом и функциональным компонентом.md",
+    "6. Зачем нужен key.md",
+    "5. JSX, условный рендеринг, работа с коллекциями.md",
+    "4. Что такое JSX  Можем ли мы использовать React без JSX.md",
+    "Как добавить React на страницу.md",
+    "Что такое 1React.md",
+    "Что такое.md",
+    "004 ReactCore/1.md",
+    "Что такое #React.md",
+    "Что такое VirtualDOM и зачем он нужен.md",
+    "004 ReactCore/0. Вопросы к ревью React-Redux/ReactJSX 1.md",
+    "004 ReactCore/3.md",
+    "004 ReactCore/0. Вопросы к ревью React-Redux/ReactJSX 3.md",
+    "004 ReactCore/2.md",
+    "004 ReactCore/0. Вопросы к ревью React-Redux/ReactJSX 2.md",
+    "0. Подготовка к собеседованию/004 React + Redux.md",
     "0. Подготовка к собеседованию/000 Browser.md",
     "004 ReactCore/Подготовка к собеседованиям/Блог-платформа.md",
     "004 ReactCore/202306180111.md",
@@ -187,24 +185,6 @@
     "008 Настройка окружения/Eslint/Руководство Eslint + Prettier.md",
     "028 Что такое микросервисы.md",
     "Что такое CORS.md",
-    "Что такое Web Workers.md",
-    "Используете вы Perfect Pixel или что-то аналогичное.md",
-    "Что такое Веб-компоненты и какие технологии в них используются.md",
-    "0. Подготовка к собеседованию/001 HTML.md",
-    "На каком уровне OSI находятся http , tcp , ping , json , витая пара.md",
-    "Что такое OSI модель.md",
-    "Что такое Progressive Web Application (PWA).md",
-    "Что такое прогрессивный SSR.md",
-    "Что такое feature inference (предположение возможностей) и анализ строки user-agent.md",
-    "Что такое feature detection.md",
-    "Назовите три способа уменьшения времени загрузки страницы (воспринимаемого или реального).md",
-    "Каково преимущество в подгрузке внешних ресурсов с нескольких доменов.md",
-    "Как можно оптимизировать загрузку внешних ресурсов на странице.md",
-    "Для чего нужен паттерн PRPL.md",
-    "Разница между `preload`, `prefetch`, `preconnect` и `prerender`.md",
-    "Что такое Core Web Vitals. Какие основные метрики туда входят.md",
-    "Способы уменьшения времени загрузки веб-страницы.md",
-    "Что такое gzip и как он используется в HTTP.md",
     "Pasted image 20230627171341.png",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",
