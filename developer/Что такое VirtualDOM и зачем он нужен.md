@@ -153,3 +153,11 @@ React может повторно рендерить всё приложение
 -   [Mithril](http://lhorie.github.io/mithril/) — Javascript-фреймворк для создания ярких приложений.
 -   [Bobril](https://github.com/Bobris/Bobril) — Компонент-ориентированный фреймворк, вдохновленный подходами Mithril и ReactJs.
 -   [cito.js](https://github.com/joelrich/citojs) — JavaScript-фреймворк для создания быстрых, масштабируемых и модульных веб-приложений.
+
+
+____
+#react
+
+____
+
+#### [[004 React + Redux|Назад]]

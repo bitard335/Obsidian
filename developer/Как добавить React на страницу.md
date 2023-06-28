@@ -25,3 +25,11 @@ const root = createRoot(document.getElementById('root'));
 ~~~
 
 createRoot - корневой DOM-узел, тк через него мы управляем React содержимым.
+
+
+____
+#react
+
+____
+
+#### [[004 React + Redux|Назад]]
