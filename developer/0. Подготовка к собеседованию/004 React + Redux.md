@@ -39,7 +39,7 @@ ___
 
 ## React JSX #3
 
-* 1
+* [[Что такое React хуки (Hooks)|Что такое React хуки (Hooks)?]]
 * 2
 * 3
 
@@ -55,9 +55,8 @@ ___
 
 
 
-[[1. Hooks React]]
-[[2. CSS-modules]]
-[[3.  HOC Компонент высшего порядка]]
+[[Что такое CSS-modules|Что такое CSS-modules?]]
+[[HOC Компонент высшего порядка]]
 [[4.  redux ( store, action, dispatch, reducer, combine)]]
 [[5.  redux-actions]]
 [[6.  Middleware]]
@@ -71,7 +70,7 @@ ___
 
 
 - [Что такое `PureComponent`?](https://youtu.be/yvOXvZ8aEFo?t=581)
-- [Что такое Компонент высшего порядка (Higher-Order Component/HOC)?](https://youtu.be/yvOXvZ8aEFo?t=637)
+- 
 
 - [Что такое React Reconciliation?](https://youtu.be/RpcB5jnJvcI?t=271)
 - [Что такое портал (`Portal`)?](https://youtu.be/RpcB5jnJvcI?t=342)
