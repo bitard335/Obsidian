@@ -30,6 +30,7 @@ ___
 
 * [[Что возвращает fetch. Как получить содержимое ответа. Как обрабатывать ошибки|Что возвращает fetch? Как получить содержимое ответа? Как обрабатывать ошибки?]]
 * [[AJAX и обращение к API|AJAX и обращение к API?]]
+* [[Стадии жизненного цикла компонента в React|Стадии жизненного цикла компонента в React?]]
 * [[Методы жизненного цикла компонента в React|Методы жизненного цикла компонента в React?]]
 * [[3.2.4 useContext()|Что такое контекст (`Context`)?]]
 * [[Что такое React-ссылка (`ref`)|Что такое React-ссылка (`ref`)?]]
@@ -72,11 +73,9 @@ ___
 - [Что такое `PureComponent`?](https://youtu.be/yvOXvZ8aEFo?t=581)
 - [Что такое Компонент высшего порядка (Higher-Order Component/HOC)?](https://youtu.be/yvOXvZ8aEFo?t=637)
 
-- [Стадии жизненного цикла компонента в React?](https://youtu.be/RpcB5jnJvcI?t=173)
 - [Что такое React Reconciliation?](https://youtu.be/RpcB5jnJvcI?t=271)
 - [Что такое портал (`Portal`)?](https://youtu.be/RpcB5jnJvcI?t=342)
 
-- [Что такое React хуки (Hooks)?](https://youtu.be/RpcB5jnJvcI?t=475)
 
 
 - [Что такое React Fiber?](https://youtu.be/RpcB5jnJvcI?t=689)
