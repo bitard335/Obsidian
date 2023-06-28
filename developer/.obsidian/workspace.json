@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Что такое VirtualDOM и зачем он нужен.md",
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Что такое VirtualDOM и зачем он нужен.md",
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Что такое VirtualDOM и зачем он нужен.md",
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Что такое VirtualDOM и зачем он нужен.md"
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md"
               }
             }
           },
@@ -159,8 +159,12 @@
   },
   "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
+    "4. Что такое JSX  Можем ли мы использовать React без JSX.md",
     "0. Подготовка к собеседованию/004 React + Redux.md",
+    "Как добавить React на страницу.md",
+    "Перечислите особенности React.md",
     "Что такое React.md",
+    "Что такое VirtualDOM и зачем он нужен.md",
     "004 ReactCore/1.2 Вступление/1.1.1 Знакомство с React.md",
     "10. shouldComponentUpdate ().md",
     "9. connect API.md",
@@ -181,10 +185,6 @@
     "1. Что возвращает fetch. Как получить содержимое ответа. Как обрабатывать ошибки.md",
     "Когда происходит ререндер состояния.md",
     "13. Как работать с формами в react.md",
-    "12. Зачем нужны eslint и prettier.md",
-    "11. Что такое контроллируемый компонент.md",
-    "10. Как выполнить действие с новым состоянием стейта после setState.md",
-    "9. Что делает setState Функция setState первым аргументом может принять объект, а может функцию. Зачем нужна функция.md",
     "Pasted image 20230627171341.png",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",
