@@ -1,4 +1,4 @@
-#### 5. JSX, условный рендеринг, работа с коллекциями
+#### Ответ
 ##### Рендеринг
 
 Для рендеринга React-элемента, сперва передайте #DOM-элемент в [`ReactDOM.createRoot()`](https://ru.reactjs.org/docs/react-dom-client.html#createroot), далее передайте #React-элемент в `root.render()`:
