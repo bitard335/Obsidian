@@ -1,4 +1,7 @@
-#### Что такое #VirtualDOM и зачем он нужен  
+![Что такое Virtual DOM? Как он работает с React?](https://youtu.be/7TvS0iKR3_c?t=740)
+
+#### Ответ
+
 Подробнее: [Что такое VirtualDOM](https://habr.com/ru/post/256965/)
 
 ##### Краткие выводы

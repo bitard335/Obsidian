@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. Что такое контроллируемый компонент.md",
+                "file": "Что такое VirtualDOM и зачем он нужен.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CORS",
+                "query": "tag:#AJAX-запрос",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11. Что такое контроллируемый компонент.md",
+                "file": "Что такое VirtualDOM и зачем он нужен.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11. Что такое контроллируемый компонент.md",
+                "file": "Что такое VirtualDOM и зачем он нужен.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11. Что такое контроллируемый компонент.md"
+                "file": "Что такое VirtualDOM и зачем он нужен.md"
               }
             }
           },
@@ -160,19 +160,8 @@
   "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
     "0. Подготовка к собеседованию/004 React + Redux.md",
-    "10. Как выполнить действие с новым состоянием стейта после setState.md",
-    "9. Что делает setState Функция setState первым аргументом может принять объект, а может функцию. Зачем нужна функция.md",
-    "8. Что такое children в props.md",
-    "7. Какие различия между компонентом-классом и функциональным компонентом.md",
-    "6. Зачем нужен key.md",
-    "5. JSX, условный рендеринг, работа с коллекциями.md",
-    "4. Что такое JSX  Можем ли мы использовать React без JSX.md",
-    "Как добавить React на страницу.md",
-    "Что такое VirtualDOM и зачем он нужен.md",
     "Что такое React.md",
-    "004 ReactCore/3.md",
-    "004 ReactCore/2.md",
-    "004 ReactCore/1.md",
+    "004 ReactCore/1.2 Вступление/1.1.1 Знакомство с React.md",
     "10. shouldComponentUpdate ().md",
     "9. connect API.md",
     "8. Чистая функция в Redux.md",
@@ -183,8 +172,19 @@
     "3.  HOC Компонент высшего порядка.md",
     "2. CSS-modules.md",
     "1. Hooks React.md",
-    "004 ReactCore/0. Вопросы к ревью React-Redux/ReactJSX 2.md",
-    "004 ReactCore/0. Вопросы к ревью React-Redux/ReactJSX 1.md",
+    "7. Работа с таймерами.md",
+    "6. Оптимизация производительности.md",
+    "5. Ref REACT.md",
+    "004 ReactCore/3.2 React-хуки/3.2.4 useContext().md",
+    "3. Функции Lifecycle (жизненный цикл компонента и методы).md",
+    "2. AJAX и обращение к API.md",
+    "1. Что возвращает fetch. Как получить содержимое ответа. Как обрабатывать ошибки.md",
+    "Когда происходит ререндер состояния.md",
+    "13. Как работать с формами в react.md",
+    "12. Зачем нужны eslint и prettier.md",
+    "11. Что такое контроллируемый компонент.md",
+    "10. Как выполнить действие с новым состоянием стейта после setState.md",
+    "9. Что делает setState Функция setState первым аргументом может принять объект, а может функцию. Зачем нужна функция.md",
     "Pasted image 20230627171341.png",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",

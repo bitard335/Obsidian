@@ -5,9 +5,7 @@ ___
 ___
 
 * [[Что такое React|Что такое React?]]
-
-
-[[Что такое VirtualDOM и зачем он нужен]]
+* [[Что такое VirtualDOM и зачем он нужен|Что такое VirtualDOM и зачем он нужен?]]
 
 
 [[Как добавить React на страницу]]
@@ -49,7 +47,7 @@ ___
 Проекты на React , React-Redux
 
 - [Перечислите особенности React?](https://youtu.be/7TvS0iKR3_c?t=671)
-- [Что такое Virtual DOM? Как он работает с React?](https://youtu.be/7TvS0iKR3_c?t=740)
+
 - [Для чего нужен атрибут `key` при рендере списков?](https://youtu.be/yvOXvZ8aEFo?t=526)
 - [Что такое `PureComponent`?](https://youtu.be/yvOXvZ8aEFo?t=581)
 - [Что такое Компонент высшего порядка (Higher-Order Component/HOC)?](https://youtu.be/yvOXvZ8aEFo?t=637)
