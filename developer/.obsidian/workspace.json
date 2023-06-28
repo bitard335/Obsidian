@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
+                "file": "Работа с таймерами.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
+                "file": "Работа с таймерами.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
+                "file": "Работа с таймерами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Подготовка к собеседованию/004 React + Redux.md"
+                "file": "Работа с таймерами.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
-    "004 ReactCore/3.2 React-хуки/3.2.4 useContext().md",
     "0. Подготовка к собеседованию/004 React + Redux.md",
+    "6. Оптимизация производительности.md",
+    "Что такое React-ссылка (`ref`).md",
+    "004 ReactCore/3.2 React-хуки/3.2.4 useContext().md",
     "0. Подготовка к собеседованию/003 JSCore.md",
     "Что такое «бурение пропсов» (Prop Drilling).md",
     "Разница между состоянием(`state`) и пропсами(`props`).md",
@@ -195,8 +197,6 @@
     "10. shouldComponentUpdate ().md",
     "9. connect API.md",
     "8. Чистая функция в Redux.md",
-    "7.  redux-thunk.md",
-    "6.  Middleware.md",
     "Pasted image 20230627171341.png",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",
