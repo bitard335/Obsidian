@@ -46,10 +46,12 @@ ___
 * [[Недостатки хуков]]
 * [[Правила (ограничения) использования хуков]]
 * [[Разница между `useEffect()` и `componentDidMount()`|Разница между `useEffect()` и `componentDidMount()`?]]
+* [[Расскажите о хуках `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`|]]
 * [[Что такое CSS-modules|Что такое CSS-modules?]]
 * [[Что такое Компонент высшего порядка (Higher-Order Component)|Что такое Компонент высшего порядка (Higher-Order Component)?]]
 * 
 
+- [Расскажите о хуках `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`?](https://youtu.be/GZUy2i6QN7o?t=449)
 ## React JSX #4
 
 * 1
@@ -61,7 +63,7 @@ ___
 [[Когда происходит ререндер состояния]]
 
 
-
+- [Какие хуки были добавлены в React Router версии 5?](https://youtu.be/GZUy2i6QN7o?t=765)
 
 
 [[4.  redux ( store, action, dispatch, reducer, combine)]]
@@ -112,17 +114,17 @@ ___
 
 
 - [Что такое поднятие состояния вверх (Lifting State Up)?](https://youtu.be/ngyOYuTrUk8?t=700)
-- [Что делает метод `shouldComponentUpdate`?](https://youtu.be/ngyOYuTrUk8?t=748)
+
 - [Разница между `createElement()` и `cloneElement()`?](https://youtu.be/ngyOYuTrUk8?t=816)
 - [Что такое `useReducer()`?](https://youtu.be/GZUy2i6QN7o?t=257)
 - [Как реализовать однократное выполнение операции при начальном рендеринге?](https://youtu.be/GZUy2i6QN7o?t=321)
 - [Что такое распределенный компонент?](https://youtu.be/GZUy2i6QN7o?t=386)
-- [Расскажите о хуках `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`?](https://youtu.be/GZUy2i6QN7o?t=449)
+
 - [Как отрендерить HTML код в React-компоненте?](https://youtu.be/GZUy2i6QN7o?t=572)
 
 - [Для чего предназначен метод `registerServiceWorker()` в React?](https://youtu.be/GZUy2i6QN7o?t=665)
 - [Чем React Router отличается от обычной маршрутизации?](https://youtu.be/GZUy2i6QN7o?t=710)
-- [Какие хуки были добавлены в React Router версии 5?](https://youtu.be/GZUy2i6QN7o?t=765)
+
 - [Как передавать пропсы в React Router?](https://youtu.be/GZUy2i6QN7o?t=841)
 - [Что такое Reselect и как он работает?](https://youtu.be/XtQPrt8G0n8?t=847)
 - [Назовите основную цель React Fiber?](https://youtu.be/DgevxmyzymQ?t=30)
