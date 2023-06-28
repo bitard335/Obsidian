@@ -51,7 +51,10 @@ ___
 * [[Что такое CSS-modules|Что такое CSS-modules?]]
 * [[Что такое Компонент высшего порядка (Higher-Order Component)|Что такое Компонент высшего порядка (Higher-Order Component)?]]
 * [[Что такое Redux|Что такое Redux?]]
-* [[5.  redux-actions]]
+* [[Что такое Redux-actions|Что такое Redux-actions?]]
+* [[Middleware]]
+* [[Что такое Redux-thunk|Что такое Redux-thunk?]]
+* [[Чистая функция в Redux]]
 
 ## React JSX #4
 
@@ -69,9 +72,9 @@ ___
 
 
 
-[[6.  Middleware]]
-[[7.  redux-thunk]]
-[[8. Чистая функция в Redux]]
+
+
+
 [[9. connect API]]
 [[10. shouldComponentUpdate ()]]
 

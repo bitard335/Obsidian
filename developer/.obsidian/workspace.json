@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.  redux-actions.md",
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.  redux-actions.md",
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.  redux-actions.md",
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.  redux-actions.md"
+                "file": "0. Подготовка к собеседованию/004 React + Redux.md"
               }
             }
           },
@@ -171,7 +171,11 @@
   },
   "active": "a2c12b1a14cf1590",
   "lastOpenFiles": [
+    "Чистая функция в Redux.md",
     "0. Подготовка к собеседованию/004 React + Redux.md",
+    "Что такое Redux-thunk.md",
+    "Middleware.md",
+    "Что такое Redux-actions.md",
     "Что такое Redux.md",
     "Что такое `useReducer()`.md",
     "Расскажите о хуках `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`.md",
@@ -193,10 +197,6 @@
     "Что такое React-ссылка (`ref`).md",
     "004 ReactCore/3.2 React-хуки/3.2.4 useContext().md",
     "Что такое «бурение пропсов» (Prop Drilling).md",
-    "Разница между состоянием(`state`) и пропсами(`props`).md",
-    "Что такое JSX.  Можем ли мы использовать React без JSX.md",
-    "Методы жизненного цикла компонента в React.md",
-    "AJAX и обращение к API.md",
     "Pasted image 20230627171341.png",
     "001 HTML/0.1 Вопросы к ревью/Check.pdf",
     "002 CSS/Подготовка к собеседованиям",
