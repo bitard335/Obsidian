@@ -2,6 +2,43 @@
 
 #### Ответ
 
+Refs являются запасным выходом, который позволяет вам получить прямой доступ к элементу DOM или состоянию компонента. Чтобы их использовать вы добавляете атрибут ref в ваш компонент, значение которого является функцией обратного вызова, которая получит базовый элемент DOM или установленный экземпляр компонента в качестве первого аргумента.
+
+```
+class UnControlledForm extends Component {  
+  handleSubmit = () => {  
+    console.log("Input Value: ", this.input.value)  
+  }  
+  render () {  
+    return (  
+      <form onSubmit={this.handleSubmit}>  
+        <input  
+          type='text'  
+          ref={(input) => this.input = input} />  
+        <button type='submit'>Submit</button>  
+      </form>  
+    )  
+  }  
+}
+```
+
+Отметим, что наше поле ввода имеет атрибут ref, значение которого является функцией. Эта функция получает реальный элемент DOM на вход, который мы затем вставим в экземпляр для того, чтобы получить доступ к нему внутри функции _handleSubmit._
+
+Часто неверно полагают, что необходимо использовать класс компонента для того, чтобы использовать refs, но refs могут быть использованы с функциональными компонентами за счет использования замыкания:
+
+function CustomForm ({handleSubmit}) {  
+  let inputElement  
+  return (  
+    <form onSubmit={() => handleSubmit(inputElement.value)}>  
+      <input  
+        type='text'  
+        ref={(input) => inputElement = input} />  
+      <button type='submit'>Submit</button>  
+    </form>  
+  )  
+}
+
+
 Сокращенно от References. Специальный атрибут, позволяющий получить доступ до конкретного DOM элемента Нужен для:
 
 ●     Вызова анимаций
