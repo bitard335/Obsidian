@@ -1,37 +1,56 @@
 #### Ответ
-Подробнее: [[1.4.12 Работа с формами]]
 
-Используем:
-#onChange() чтобы получать текущее значение;
-#onSubmit() - событие "отправки" формы;
-e.preventDefault() - чтобы страница не перезагружалась.
+Подробнее: [[1.4.12 Работа с формами|Работа с формами в React]]
 
-HTML-элемент `<textarea>` в качестве текста отображает дочерний элемент:
+Работа с формами включает в себя управление состоянием формы и обработку введенных данных. Вот простой пример, демонстрирующий как работать с формами в React:
 
 ```
-<textarea>
-  Привет! Тут просто немного текста внутри тега textarea
-</textarea>
+class MyForm extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { username: '', password: '' };
+  }
+
+  handleChange(event) {
+    const { name, value } = event.target;
+    this.setState({ [name]: value });
+  }
+
+  handleSubmit(event) {
+    event.preventDefault();
+    console.log('Username:', this.state.username);
+    console.log('Password:', this.state.password);
+    // отправка данных формы на сервер
+  }
+
+  render() {
+    return (
+      <form onSubmit={this.handleSubmit.bind(this)}>
+        <label>
+          Username:
+          <input type="text" name="username" value={this.state.username} onChange={this.handleChange.bind(this)} />
+        </label>
+        <label>
+          Password:
+          <input type="password" name="password" value={this.state.password} onChange={this.handleChange.bind(this)} />
+        </label>
+        <button type="submit">Submit</button>
+      </form>
+    );
+  }
+}
 ```
 
-В HTML `<select>` создаёт выпадающий список. HTML-код в этом примере создаёт выпадающий список
-```
-<select>
-  <option value="grapefruit">Грейпфрут</option>
-  <option value="lime">Лайм</option>
-  <option selected value="coconut">Кокос</option>
-  <option value="mango">Манго</option>
-</select>
-```
+Здесь мы создаем компонент `MyForm`, который содержит два текстовых поля для ввода имени пользователя и пароля, а также кнопку отправки формы. Когда пользователь вводит данные в текстовые поля, `handleChange()` сохраняет введенное значение в состояние компонента. Когда пользователь отправляет форму, `handleSubmit()` выводит значения из состояния компонента в консоль и отправляет данные на сервер.
 
-В HTML `<input type="file">` позволяет пользователю выбрать один или несколько файлов для загрузки с устройства на сервер или управлять им через JavaScript с помощью [File API](https://developer.mozilla.org/ru/docs/Web/API/File/Using_files_from_web_applications)
-```
-<input type="file" />
-```
+Обратите внимание, что мы используем `bind()` для привязки `this` к обработчикам событий. Это необходимо, чтобы обращаться к `this.state` и другим методам компонента внутри обработчиков событий.
 
+Также обратите внимание на использование `event.preventDefault()` в обработчике `handleSubmit()`. Это предотвращает отправку формы на сервер и обновление страницы при отправке данных формы.
+
+В итоге, работа с формами в React сводится к управлению состоянием формы и обработке введенных данных. Как и в обычном HTML, в React вы можете использовать различные типы полей ввода и обрабатывать данные с помощью обработчиков событий.
 
 ____
-#react
+#react #state #setState #bind
 
 ____
 

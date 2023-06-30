@@ -1,8 +1,8 @@
 #### Ответ
 
-A child class constructor cannot make use of `this` reference until the `super()` method has been called. The same applies to ES6 sub-classes as well. The main reason for passing props parameter to `super()` call is to access `this.props` in your child constructors.
+Конструктор дочернего класса не может использовать ссылку `this` до тех пор, пока не будет вызван метод `super()`. То же самое относится и к подклассам ES6. Основная причина передачи параметра props вызову `super()` заключается в доступе к `this.props` в ваших дочерних конструкторах.
 
-**Passing props:**
+**Пропуская props:**
 
 ```js
 class MyComponent extends React.Component {
@@ -14,7 +14,7 @@ class MyComponent extends React.Component {
 }
 ```
 
-**Not passing props:**
+**Не пропуская props:**
 
 ```js
 class MyComponent extends React.Component {
@@ -23,21 +23,21 @@ class MyComponent extends React.Component {
 
     console.log(this.props); // prints undefined
 
-    // but props parameter is still available
+    // но параметр props по-прежнему доступен
     console.log(props); // prints { name: 'John', age: 42 }
   }
 
   render() {
-    // no difference outside constructor
+    // никакой разницы вне конструктора
     console.log(this.props); // prints { name: 'John', age: 42 }
   }
 }
 ```
 
-The above code snippets reveals that `this.props` is different only within the constructor. It would be the same outside the constructor.
+Приведенные выше фрагменты кода показывают, что `this.props` отличается только внутри конструктора. Это было бы то же самое вне конструктора.
 
 ____
-#react
+#react #constructor #super #props 
 
 ____
 

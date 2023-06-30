@@ -1,8 +1,8 @@
 #### Ответ
 
-If the props on the component are changed without the component being refreshed, the new prop value will never be displayed because the constructor function will never update the current state of the component. The initialization of state from props only runs when the component is first created.
+Если реквизиты компонента изменяются без обновления компонента, новое значение реквизита никогда не будет отображено, поскольку функция конструктора никогда не обновит текущее состояние компонента. Инициализация состояния из props выполняется только при первом создании компонента.
 
-The below component won't display the updated input value:
+Приведенный ниже компонент не будет отображать обновленное входное значение:
 
 ```js
 class MyComponent extends React.Component {
@@ -21,7 +21,7 @@ class MyComponent extends React.Component {
 }
 ```
 
-Using props inside render method will update the value:
+Использование реквизита внутри метода рендеринга обновит значение:
 
 ```js
 class MyComponent extends React.Component {
@@ -41,7 +41,7 @@ class MyComponent extends React.Component {
 
 
 ____
-#react
+#react #props 
 
 ____
 

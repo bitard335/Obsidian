@@ -1,6 +1,6 @@
 #### Ответ
 
-It is possible. Below are the possible options:
+Это возможно. Ниже приведены возможные варианты:
 
 ```js
 render() {
@@ -57,7 +57,7 @@ render() {
 ```
 
 ____
-#react
+#react #render
 
 ____
 

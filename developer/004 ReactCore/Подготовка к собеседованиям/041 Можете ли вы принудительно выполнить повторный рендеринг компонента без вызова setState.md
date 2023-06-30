@@ -1,16 +1,15 @@
 #### Ответ
 
-By default, when your component's state or props change, your component will re-render. If your `render()` method depends on some other data, you can tell React that the component needs re-rendering by calling `forceUpdate()`.
+По умолчанию, когда состояние вашего компонента или реквизиты изменяются, ваш компонент будет повторно отрисован. Если ваш метод `render()` зависит от каких-либо других данных, вы можете сообщить React, что компонент нуждается в повторном рендеринге, вызвав `forceUpdate()`.
 
 ```js
 component.forceUpdate(callback);
 ```
 
-It is recommended to avoid all uses of `forceUpdate()` and only read from `this.props` and `this.state` in `render()`.
-
+Рекомендуется избегать любого использования `forceUpdate()` и читать только из `this.props` и `this.state` в `render()`.
 
 ____
-#react
+#react #render #props #state
 
 ____
 

@@ -1,8 +1,8 @@
 #### Ответ
 
-When you want to access `this.props` in `constructor()` then you should pass props to `super()` method.
+Если вы хотите получить доступ к `this.props` в `constructor()`, тогда вы должны передать props методу `super()`.
 
-**Using `super(props)`:**
+**Использование  `super(props)`:**
 
 ```js
 class MyComponent extends React.Component {
@@ -13,7 +13,7 @@ class MyComponent extends React.Component {
 }
 ```
 
-**Using `super()`:**
+**Использование `super()`:**
 
 ```js
 class MyComponent extends React.Component {
@@ -24,11 +24,10 @@ class MyComponent extends React.Component {
 }
 ```
 
-Outside `constructor()` both will display same value for `this.props`.
-
+Вне `constructor()` оба будут отображать одинаковое значение для `this.props`.
 
 ____
-#react
+#react #constructor #super #props
 
 ____
 
