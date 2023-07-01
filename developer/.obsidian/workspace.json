@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 JSCore/Подготовка к собеседованию/003 Методы поиска элементов в DOM.md",
-                "mode": "source",
+                "file": "0. Подготовка к собеседованию/003 JSCore.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 JSCore/Подготовка к собеседованию/003 Методы поиска элементов в DOM.md",
+                "file": "0. Подготовка к собеседованию/003 JSCore.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003 JSCore/Подготовка к собеседованию/003 Методы поиска элементов в DOM.md",
+                "file": "0. Подготовка к собеседованию/003 JSCore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 JSCore/Подготовка к собеседованию/003 Методы поиска элементов в DOM.md"
+                "file": "0. Подготовка к собеседованию/003 JSCore.md"
               }
             }
           },
@@ -158,11 +158,17 @@
   },
   "active": "3852f3e4f1884d8d",
   "lastOpenFiles": [
+    "0. Подготовка к собеседованию/004 React + Redux.md",
+    "004 ReactCore/Подготовка к собеседованиям/104 Как вы создаете кастомные хуки.md",
     "0. Подготовка к собеседованию/003 JSCore.md",
-    "003 JSCore/Подготовка к собеседованию/003 Методы поиска элементов в DOM.md",
-    "003 JSCore/Подготовка к собеседованию/002 Типы узлов DOM-дерева.md",
-    "Pasted image 20230701194754.png",
+    "0. Подготовка к собеседованию/002 CSS.md",
+    "0. Подготовка к собеседованию/001 HTML.md",
+    "0. Подготовка к собеседованию/000 Browser.md",
     "003 JSCore/Подготовка к собеседованию/001 Что такое DOM.md",
+    "003 JSCore/Подготовка к собеседованию/002 Типы узлов DOM-дерева.md",
+    "003 JSCore/Подготовка к собеседованию/003 Методы поиска элементов в DOM.md",
+    "Pasted image 20230701195307.png",
+    "Pasted image 20230701194754.png",
     "003 JSCore/2. Что такое объект Window , BOM и DOM.md",
     "003 JSCore/Подготовка к собеседованию/035 Каким образом можно обмениваться кодом между файлами.md",
     "003 JSCore/Подготовка к собеседованию/034 Типы всплывающих окон в JavaScript.md",
@@ -180,11 +186,6 @@
     "003 JSCore/Подготовка к собеседованию/022 Разница между `innerHTML` и `outerHTML`.md",
     "003 JSCore/Подготовка к собеседованию/021 Сколько аргументов принимает `addEventListener`.md",
     "003 JSCore/Подготовка к собеседованию/020 Разница между событиями `load` и `DOMContentLoaded`.md",
-    "003 JSCore/Подготовка к собеседованию/019 Разница между `.stopPropagation()` и `.stopImmediatePropagation()`.md",
-    "003 JSCore/Подготовка к собеседованию/018 Разница между `event.target` и `event.currentTarget`.md",
-    "003 JSCore/Подготовка к собеседованию/017 Разница между `e.preventDefault()` и `e.stopPropagation()`.md",
-    "003 JSCore/Подготовка к собеседованию/016 Разница между feature detection, feature inference и анализом строки user-agent.md",
-    "003 JSCore/Подготовка к собеседованию/015 Как динамически добавить элемент на HTML-страницу.md",
     "Как работает boxing",
     "Что такое `switch/case` Правила использования `switch",
     "Что такое `switch",
@@ -203,7 +204,6 @@
     "img/Pasted image 20230620142012.png",
     "img/Pasted image 20230620140025.png",
     "img/Pasted image 20230620132224.png",
-    "500. Литература/JSCore/async & performance/cover.jpg",
     "Без названия.canvas",
     "0.4 Вопросы к ревью React/Преимущества и недостатки HOC.canvas",
     "Без названия (2).canvas",
