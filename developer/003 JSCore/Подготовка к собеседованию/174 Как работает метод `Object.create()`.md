@@ -1,0 +1,1 @@
+![Как работает метод `Object.create()`?](https://youtu.be/V-m0sQ-hW58?t=28)

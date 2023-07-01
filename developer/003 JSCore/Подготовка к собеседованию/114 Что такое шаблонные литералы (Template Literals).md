@@ -1,0 +1,1 @@
+![Что такое шаблонные литералы (Template Literals)?](https://youtu.be/G4iYlbilozM?t=254)

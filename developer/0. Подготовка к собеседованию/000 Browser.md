@@ -153,3 +153,12 @@ ___
 
 
 
+
+
+
+
+
+[[Что такое Virtual DOM. Как он работает|Что такое Virtual DOM? Как он работает?]]
+[[Что такое Shadow DOM|Что такое Shadow DOM?]]
+[[081 Что такое shadow-root в инспекторе HTML-страницы|Что такое shadow-root в инспекторе HTML-страницы?]]
+[[Чем отличаются между собой Shadow DOM и Virtual DOM и Regular DOM|Чем отличаются между собой Shadow DOM и Virtual DOM и Regular DOM?]]

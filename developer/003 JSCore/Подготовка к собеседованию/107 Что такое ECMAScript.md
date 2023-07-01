@@ -1,0 +1,1 @@
+![Что такое ECMAScript? В чём отличие от JavaScript?](https://youtu.be/IooJ3P2VUYs?t=336)

@@ -1,0 +1,1 @@
+![Что такое прототип (Prototype) объекта?](https://youtu.be/V-m0sQ-hW58?t=290)

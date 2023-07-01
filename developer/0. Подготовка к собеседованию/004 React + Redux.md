@@ -133,7 +133,6 @@ ___
 
 ### Продвинутый DOM
 
-* [[089 Что такое React Reconciliation|Что такое React Reconciliation?]]
 * [[090 Что такое портал (`Portal`)|Что такое портал (`Portal`)?]]
 * [[091 Что такое React Fiber|Что такое React Fiber?]]
 * [[092 Назовите основную цель React Fiber|Назовите основную цель React Fiber?]]
