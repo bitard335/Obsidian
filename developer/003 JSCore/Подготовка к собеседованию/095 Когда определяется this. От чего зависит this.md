@@ -57,3 +57,12 @@ f2() === undefined; // true
 ```
 
 Для того, чтобы при вызове функции установить `this` в определённое значение, используйте [`call()`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Function/call) или [`apply()`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
+
+
+
+___
+ #JS 
+
+___
+
+### [[003 JSCore|Назад]]

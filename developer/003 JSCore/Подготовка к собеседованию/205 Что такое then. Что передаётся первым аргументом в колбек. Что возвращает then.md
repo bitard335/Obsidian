@@ -38,3 +38,10 @@ let promise = new Promise(resolve => {
 	setTimeout(() => resolve("done!"), 1000); });  _
 	promise.then(alert); // выведет "done!" спустя одну секунду_`
 ~~~
+
+___
+ #JS 
+
+___
+
+### [[003 JSCore|Назад]]

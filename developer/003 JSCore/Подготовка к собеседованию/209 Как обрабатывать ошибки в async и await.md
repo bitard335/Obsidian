@@ -61,3 +61,10 @@ let results = await Promise.all([
 
 
 
+
+___
+ #JS 
+
+___
+
+### [[003 JSCore|Назад]]

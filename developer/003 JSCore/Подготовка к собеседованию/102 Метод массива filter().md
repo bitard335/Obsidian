@@ -65,6 +65,10 @@ filter(function callbackFn(element, index, array) { ... }, thisArg)
 
 Вернётся новый массив с элементами, которые прошли проверку. Если ни один элемент не прошёл проверку, то будет возвращён пустой массив.
 
-### [Подробнее про метод filter](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
-## [[003 JSCore|Назад]]
+___
+ #JS 
+
+___
+
+### [[003 JSCore|Назад]]

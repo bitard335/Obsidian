@@ -33,3 +33,11 @@ writer.constructor === User // false
 writer.__proto__ === ContentWriter.prototype // true
 writer.__proto__ === User.prototype // false
 ```
+
+
+___
+ #JS 
+
+___
+
+### [[003 JSCore|Назад]]

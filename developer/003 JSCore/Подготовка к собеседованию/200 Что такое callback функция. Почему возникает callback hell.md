@@ -91,3 +91,10 @@ loadScript('1.js', function(error, script) {
 
 
 
+
+___
+ #JS 
+
+___
+
+### [[003 JSCore|Назад]]

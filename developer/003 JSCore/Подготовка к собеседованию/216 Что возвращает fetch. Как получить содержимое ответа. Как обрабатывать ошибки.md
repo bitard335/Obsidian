@@ -60,3 +60,10 @@ fetch(url, options)
 	.then(response => response.json())   
 	.then(result => /* обрабатываем результат */)`
 ~~~
+
+___
+ #JS 
+
+___
+
+### [[003 JSCore|Назад]]
