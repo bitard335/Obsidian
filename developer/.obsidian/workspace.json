@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Подготовка к собеседованию/FrontEnd Developer.md",
+                "file": "0. Подготовка к собеседованию/000 Browser.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Подготовка к собеседованию/FrontEnd Developer.md",
+                "file": "0. Подготовка к собеседованию/000 Browser.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Подготовка к собеседованию/FrontEnd Developer.md",
+                "file": "0. Подготовка к собеседованию/000 Browser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Подготовка к собеседованию/FrontEnd Developer.md"
+                "file": "0. Подготовка к собеседованию/000 Browser.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "3852f3e4f1884d8d",
   "lastOpenFiles": [
+    "0. Подготовка к собеседованию/001 HTML.md",
+    "0. Подготовка к собеседованию/003 JSCore.md",
+    "0. Подготовка к собеседованию/FrontEnd Developer.md",
     "003 JSCore/Область видимости.md",
     "003 JSCore/202306180123.md",
     "003 JSCore/IIFE.md",
@@ -179,14 +182,11 @@
     "0. Подготовка к собеседованию/other themes/Подготовка к собеседованиям/1. Методы оптимизациия загрузки сайтов и JS приложений.md",
     "0. Подготовка к собеседованию/000 Browser.md",
     "0. Подготовка к собеседованию/other themes/`/017 Разница между императивным и декларативным подходами программирования.md",
-    "0. Подготовка к собеседованию/001 HTML.md",
-    "0. Подготовка к собеседованию/003 JSCore.md",
     "0. Подготовка к собеседованию/005 TypeScript.md",
     "005 TypeScript/0. Вопросы к собеседованию/Как настроить окружение TypeScript - проекта.md",
     "005 TypeScript/0. Вопросы к собеседованию/Можно ли использовать TypeScript в серверной разработке.md",
     "003 JSCore/1 Основные концепции/2 Ссылочные типы данных/2.1 Объекты.md",
     "003 JSCore/4 Browser API + HTTP/3 HTTP, DNS, REST/1.1 Хостинг.md",
-    "003 JSCore/1 Основные концепции/1 Примитивные типы данных/О структуре кода.md",
     "Pasted image 20230703144453.png",
     "Pasted image 20230703141023.png",
     "Pasted image 20230703140857.png",
