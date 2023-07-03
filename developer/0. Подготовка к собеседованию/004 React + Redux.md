@@ -1,6 +1,12 @@
 ![[react-logo.png|200]]
 
 # Подготовка к собеседованию:
+
+1. [React JS](https://www.youtube.com/watch?v=2vujABNBFAY&list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4)
+2. [MobX & React: 50:15](https://www.youtube.com/watch?v=Yqz4rA85o68&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=15)
+3. [Redux-Saga. Полный курс: 1:39:53](https://www.youtube.com/watch?v=Vzt9Re9Tbjc&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=14)
+4. [GraphQL & React. Полный курс (Material-UI, Apollo, mLab): 2:08:26](https://www.youtube.com/watch?v=GMJNSBur-lM&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=16)
+
 ___
 ___
 

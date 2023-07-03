@@ -17,6 +17,9 @@
 [[Карманная книга по TS. Часть 7. Классы]]
 [[Карманная книга по TS. Часть 8. Модули]]
 
+1. [TypeScript. Полный курс: 1:20:14](https://www.youtube.com/watch?v=5QnZ9AyDW6c&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=10)
+2. [TypeScript & React. Полный курс: 1:13:09](https://www.youtube.com/watch?v=xL-a5Tox7Qw&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=11)
+
 ## [[Практические вопросы по typescript|Подготовка к собеседованию:]]
 ___
 ____

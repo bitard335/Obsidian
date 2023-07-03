@@ -1,6 +1,10 @@
 \	![[javascript-logo.webp|200]]
 
 # Подготовка к собеседованию:
+
+1. [Паттерны. Полный курс: 1:42:38](https://www.youtube.com/watch?v=bTiAfLbmsnY&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=7)
+2. [ECMAScript 2015. Полный курс (ES6): 2:08:0](https://www.youtube.com/watch?v=TvgkcaaMLcc&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=8)
+3. 
 ___
 ___
 ## 1. JavaScript в браузере
