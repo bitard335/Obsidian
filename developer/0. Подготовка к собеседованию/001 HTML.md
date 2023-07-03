@@ -3,7 +3,7 @@
 
 # Подготовка к собеседованию:
 
-HTML: [Основы HTML5. Полный курс: 1:58:29](https://www.youtube.com/watch?v=_J6hMLsscOo)
+* [Основы HTML5. Полный курс: 1:58:29](https://www.youtube.com/watch?v=_J6hMLsscOo)
 
 ___
 ___

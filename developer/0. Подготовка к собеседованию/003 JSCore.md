@@ -2,9 +2,11 @@
 
 # Подготовка к собеседованию:
 
-1. [Паттерны. Полный курс: 1:42:38](https://www.youtube.com/watch?v=bTiAfLbmsnY&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=7)
-2. [ECMAScript 2015. Полный курс (ES6): 2:08:0](https://www.youtube.com/watch?v=TvgkcaaMLcc&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=8)
-3. 
+1. [JavaScript](https://www.youtube.com/watch?v=DPfaa66OZj8&list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg)
+2. [Паттерны. Полный курс: 1:42:38](https://www.youtube.com/watch?v=bTiAfLbmsnY&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=7)
+3. [ECMAScript 2015. Полный курс (ES6): 2:08:04](https://www.youtube.com/watch?v=TvgkcaaMLcc&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=8)
+4. [ECMAScript 2016-2019. Полный курс (ES7, ES8, ES9): 49:45](https://www.youtube.com/watch?v=ssc2BMNwoU4&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=8)
+
 ___
 ___
 ## 1. JavaScript в браузере
