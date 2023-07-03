@@ -1,68 +1,49 @@
-#### 16. Что делает #bind? Что возвращает bind? Какие параметры есть у bind? 
+#### Ответ
 
-`bind() `Метод создает новую функцию, которая при вызове имеет `this` ключевое слово, равное указанному значению, с заданной последовательностью аргументов, предшествующих любому, предоставленному при вызове новой функции.
+*Метод `bind()`* является одним из методов функции в JavaScript. Он *позволяет явно установить контекст выполнения функции, т.е. значение `this` внутри функции.*
+
+Метод `bind()` создает новую функцию, которая будет иметь тот же код, что и исходная функция, но с жестко привязанным контекстом выполнения. Это означает, что при вызове новой функции `this` будет ссылаться на объект, переданный в качестве первого аргумента метода `bind()`. Если первый аргумент не передан, то `this` будет ссылаться на глобальный объект (в браузере это объект `window`).
+
+Метод `bind()` возвращает новую функцию с привязанным контекстом. Эта новая функция может быть вызвана позже с любым количеством аргументов.
+
+Вот пример использования метода `bind()`:
 
 ```
-bind(thisArg)
-bind(thisArg, arg1)
-bind(thisArg, arg1, arg2)
-bind(thisArg, arg1, arg2, /* …, */ argN)
+const person = {
+  firstName: 'John',
+  lastName: 'Doe',
+  getFullName: function() {
+    return this.firstName + ' ' + this.lastName;
+  }
+};
+
+const logFullName = function() {
+  console.log(this.getFullName());
+};
+
+const boundLogFullName = logFullName.bind(person);
+
+boundLogFullName(); // 'John Doe'
 ```
 
-##### Параметры
-`thisArg` Значение, которое будет передано в качестве `this`параметра целевой функции `func`при вызове связанной функции. Если функция не находится в [строгом режиме](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode), [`null`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/null)и [`undefined`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)будет заменен глобальным объектом, и примитивные значения будут преобразованы в объекты. Значение игнорируется, если связанная функция создается с использованием [`new`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new)оператора.
+В этом примере мы создаем объект `person`, который имеет свойства `firstName` и `lastName` и метод `getFullName()`, который возвращает полное имя. Затем мы создаем функцию `logFullName()`, которая вызывает метод `getFullName()` в контексте `this`. Мы затем используем метод `bind()` для привязки контекста функции `logFullName()` к объекту `person` и сохранения привязанной функции в переменной `boundLogFullName`. Мы вызываем `boundLogFullName()`, чтобы вывести полное имя объекта `person` в консоль.
 
-`arg1, …, argN`  Аргументы для добавления к аргументам, предоставляемым связанной функции при вызове `func`.
+Метод `bind()` может принимать несколько аргументов. Первый аргумент - это значение контекста выполнения (объект, на который будет ссылаться `this` внутри функции). Последующие аргументы передаются в вызов привязанной функции в качестве аргументов. Например:
 
-##### Возвращаемое значение
-Копия данной функции с указанным `this`значением и начальными аргументами (если они указаны).
+```
+const addNumbers = function(a, b) {
+  return a + b;
+};
 
-##### Подробнее
-Существует тонкая разница между стрелочной функцией => и обычной функцией, вызванной с `.bind(this)`:
+const addFive = addNumbers.bind(null, 5);
 
--   `.bind(this)` создаёт «связанную версию» функции.
--   Стрелка => ничего не привязывает. У функции просто нет `this`. При получении значения `this` – оно, как обычная переменная, берётся из внешнего лексического окружения.
-
-Функция [`bind`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Function/bind) возвращает **новую** _привязанную_ функцию. Значение _this_ внутри созданной функции _всегда_ то, которое передали при вызове [`bind`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Function/bind).
-
-* ***Важная особенность:** при использовании привязанной функции в качестве конструктора, значение _this_ все равно будет указывать на создаваемый объект, как описано выше.
-* **Важная особенность:** в _НЕ strict mode_ при передаче в качестве параметра _this_ значений `null` и `undefined` - этот параметр будет проигнорирован и _this_ будет установлен в глобальный объект.
-
-```javascript
-function A(){console.log(typeof this,'is window', this === window);}
-console.log('execute with null');
-A.bind(null)();
-console.log('execute with undefined');
-A.bind(undefined)();
-
-function A1(){'use strict'; console.log(typeof this, this);}
-console.log('execute with null');
-A1.bind(null)();
-console.log('execute with undefined');
-A1.bind(undefined)();
+console.log(addFive(10)); // 15
 ```
 
-* ***Важная особенность:** значение _this_ у созданной функции **нельзя** переопределить используя функции [`call`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Function/call) и [`apply`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Function/apply) описанные выше.
-
-```javascript
-function A(){console.log(this);}
-
-var B = A.bind({o:'object'});
-console.log('execute binded');
-B();
-console.log('execute with call');
-B.call({another: 'some new object'});
-
-console.log('execute as constructor');
-new B();
-```
-
-bind - возвращает функции( привязать контектс)
-call / apply - возвращает результат этой функции.
-
+В этом примере мы создаем функцию `addNumbers()`, которая принимает два аргумента и возвращает их сумму. Затем мы используем метод `bind()` для привязки контекста выполнения к `null` (глобальный объект) и установки первого аргумента функции в 5. Мы сохраняем привязанную функцию в переменной `addFive`. Когда мы вызываем `addFive(10)`, этот вызов передает 10 в качестве второго аргумента в вызов привязанной функции, и возвращает сумму 5 и 10, т.е. 15.
 
 ___
- #JS 
+ #JS #bind #this 
 
 ___
 

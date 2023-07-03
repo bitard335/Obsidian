@@ -1,58 +1,70 @@
 ![Разница между `.call()`, `.apply()` и `bind()`?](https://youtu.be/rlWgI7AvV18?t=548)
 
 #### Ответ
-Подробнее: [[2.3 Декораторы и переадресация вызова, сall и apply]]
 
-##### Метод #Call
-Метод функции [func.call(context, …args)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Function/call)  позволяет вызывать функцию, явно устанавливая `this`.
+![[Pasted image 20230703114905.png|600]]
 
-Синтаксис: `func.call(context, arg1, arg2, ...)
+Методы `call`, `apply` и `bind` являются методами функции в JavaScript и позволяют управлять контекстом выполнения функции, т.е. значением `this`.
 
-`thisArg` Значение `this`, предоставляемое для вызова функции _`fun`_. 
-Обратите внимание, что `this` может не быть реальным значением, видимым этим методом: если метод является функцией в [нестрогом режиме (en-US)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode "Currently only available in English (US)"), значения [`null`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/null) и [`undefined`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/undefined) будут заменены глобальным объектом, а примитивные значения будут упакованы в объекты.
+*Метод `call`* позволяет вызывать функцию с явно заданным контекстом выполнения и передавать аргументы в виде отдельных значений. Первый аргумент метода `call` устанавливает значение `this`, а последующие аргументы передаются в вызываемую функцию. Например:
 
-`arg1, arg2, ...` Аргументы для объекта.
-`
-Он запускает функцию `func`, используя первый аргумент как её контекст `this`, а последующие – как её аргументы.
+```
+const person = {
+  firstName: 'John',
+  lastName: 'Doe',
+  getFullName: function() {
+    return this.firstName + ' ' + this.lastName;
+  }
+};
 
-Проще говоря, эти два вызова делают почти то же самое:
-`func(1, 2, 3); func.call(obj, 1, 2, 3)`
-Они оба вызывают `func` с аргументами `1`, `2` и `3`. Единственное отличие состоит в том, что `func.call` ещё и устанавливает `this` равным `obj`.
+const person2 = {
+  firstName: 'Jane',
+  lastName: 'Doe'
+};
 
-В приведенном ниже коде, мы вызываем функцию sayHi в контексте различных обьектов.
-~~~
-`function sayHi() {   
-	alert(this.name); }  
+console.log(person.getFullName.call(person2)); // 'Jane Doe'
+```
 
-let user = { 
-	name: "John" }; 
+*Метод `apply`* работает аналогично методу `call`, но принимает аргументы в виде массива. Первый аргумент метода `apply` устанавливает значение `this`, а второй аргумент должен быть массивом аргументов, которые будут переданы в вызываемую функцию. Например:
 
-let admin = { 
-	name: "Admin" };  // используем 'call' для передачи различных объектов в качестве 'this' 
-	
-sayHi.call( user ); // John 
-sayHi.call( admin ); // Admin`
-~~~
+```
+const numbers = [1, 2, 3, 4, 5];
 
-##### Метод #Apply
-Синтаксис встроенного метода [func.apply](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Function/apply): `func.apply(context, args)`
+const sum = function() {
+  return this.reduce(function(acc, val) {
+    return acc + val;
+  }, 0);
+};
 
-Он выполняет `func`, устанавливая `this=context` и принимая в качестве списка аргументов псевдомассив `args`.
-Единственная разница в синтаксисе между `call` и `apply` состоит в том, что `call` ожидает список аргументов, в то время как `apply` принимает псевдомассив.
+console.log(sum.apply(numbers)); // 15
+```
 
-Эти два вызова почти эквивалентны:
-`func.call(context, ...args); // передаёт массив как список с оператором расширения func.apply(context, args);   // тот же эффект`
+*Метод `bind`* позволяет создать новую функцию с жестко привязанным контекстом выполнения (значением `this`). Метод `bind()` возвращает новую функцию с привязанным контекстом. Эта новая функция может быть вызвана позже с любым количеством аргументов. Например:
 
-Есть только одна небольшая разница:
--   Оператор расширения `...`  ( #spread)позволяет передавать _перебираемый_ объект `args` в виде списка в `call`.
--   А `apply` принимает только _псевдомассив_ `args`.
+```
+const person = {
+  firstName: 'John',
+  lastName: 'Doe',
+  getFullName: function() {
+    return this.firstName + ' ' + this.lastName;
+  }
+};
 
-Так что эти вызовы дополняют друг друга. 
-Для перебираемых объектов сработает `call`, а где мы ожидаем псевдомассив – `apply`.
+const logFullName = function() {
+  console.log(this.getFullName());
+};
 
+const boundLogFullName = logFullName.bind(person);
+
+boundLogFullName(); // 'John Doe'
+```
+
+Основное отличие между `call` и `apply` заключается в том, как аргументы передаются в вызываемую функцию (в виде отдельных значений или массива соответственно), а `bind` создает новую функцию с жестко привязанным контекстом, которая может быть вызвана позже. При использовании этих методов важно помнить, что `call` и `apply` вызывают функцию немедленно, в то время как `bind` создает новую функцию, которая может быть вызвана позже.
+
+Подробнее: [[2.3 Декораторы и переадресация вызова, сall и apply|Методы call & apply]]
 
 ___
- #JS 
+ #JS #bind #call #apply 
 
 ___
 
