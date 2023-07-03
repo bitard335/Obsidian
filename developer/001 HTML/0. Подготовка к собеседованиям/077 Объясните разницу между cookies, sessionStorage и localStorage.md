@@ -2,6 +2,8 @@
 
 #### Ответ
 
+![[Pasted image 20230703192140.png|600]]
+
 - **LocalStorage**  
     **Плюсы:**
     - Веб-хранилище можно рассматривать упрощенно как усовершенствование файлов cookie, обеспечивая гораздо большую емкость хранилища. Если вы посмотрите исходный код Mozilla, мы увидим, что 5120KB (5 МБ), равный 2,5 миллионам символов в Chrome), является размером хранилища по умолчанию для весь домен. Это дает вам значительно больше возможностей для работы, чем обычный cookie 4 КБ.
@@ -35,14 +37,15 @@
     - Подобно localStorage, работает в политике одинакового происхождения. Таким образом, сохраненные данные будут доступны только в том же месте.
 
 **Подробней:**
-
 - LocalStorage: [https://developer.mozilla.org/ru/docs/Web/API/Window/localStorage](https://developer.mozilla.org/ru/docs/Web/API/Window/localStorage)
 - Cookies: [https://developer.mozilla.org/ru/docs/Web/HTTP/Куки](https://developer.mozilla.org/ru/docs/Web/HTTP/%D0%9A%D1%83%D0%BA%D0%B8)
 - SessionStorage: [https://developer.mozilla.org/ru/docs/Web/API/Window/sessionStorage](https://developer.mozilla.org/ru/docs/Web/API/Window/sessionStorage)
 
+Ссылка на статью: [[6 LocalStorage, sessionStorage|LocalStorage и sessionStorage]]
 
 ___
 #HTML #Cookie #sessionStorage #localStorage 
+
 ___
 
 #### [[001 HTML|Назад]]

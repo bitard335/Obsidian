@@ -25,6 +25,7 @@ REST и *CRUD* (Create, Read, Update, Delete) - это два различных
 
 ___
 #REST #RESTful #RPC #CRUD
+
 ___
 
 #### [[000 Browser|Назад]]
