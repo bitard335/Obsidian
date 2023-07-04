@@ -1,8 +1,10 @@
-_Optimizations are a key part of every application. Knowing which tools to use can be a huge productivity boost. This is a more advanced question that an interview might ask to understand the candidate’s ability to diagnose and optimize a React application._
+React `Profiler` - это инструмент для измерения затрат на рендеринг в приложении React. Он помогает разработчикам идентифицировать части приложения, которые работают медленно и могут быть оптимизированы.
 
-React **`Profiler`** is a means to measure the cost of rendering in a React application. The purpose of this component is to help developers identify parts of the application that are slow and may benefit from further optimizations.
+Компонент `Profiler` может быть добавлен в любом месте дерева компонентов, чтобы измерить затраты на его рендеринг. Например, приведенный ниже код демонстрирует, как компонент `Profiler` используется для измерения затрат на рендеринг компонента `Navigation` и его потомков:
 
-The `Profiler` can be added anywhere in the component tree to measure its rendering cost. For example, the code below shows how the `Profiler` component is used to measure the rendering cost of the `Navigation` component and its descendants:
+dust
+
+Copy
 
 ```
 render(

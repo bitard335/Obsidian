@@ -1,6 +1,6 @@
 #### Ответ
 
-Yes, it is safe to use `setState()` inside `componentWillMount()` method. But at the same it is recommended to avoid async initialization in `componentWillMount()` lifecycle method. `componentWillMount()` is invoked immediately before mounting occurs. It is called before `render()`, therefore setting state in this method will not trigger a re-render. Avoid introducing any side-effects or subscriptions in this method. We need to make sure async calls for component initialization happened in `componentDidMount()` instead of `componentWillMount()`.
+Да, безопасно использовать метод `setState()` внутри метода `componentWillMount()`. Однако, в то же время, рекомендуется избегать асинхронной инициализации в методе жизненного цикла `componentWillMount()`. Метод `componentWillMount()` вызывается непосредственно перед монтированием компонента. Он вызывается до метода `render()`, поэтому установка состояния в этом методе не приведет к повторному рендерингу. Следует избегать введения любых побочных эффектов или подписок в этом методе. Необходимо убедиться, что асинхронные вызовы для инициализации компонента происходят в методе `componentDidMount()` вместо `componentWillMount()`.
 
 ```js
 componentDidMount() {
@@ -13,9 +13,8 @@ componentDidMount() {
 }
 ```
 
-
 ____
-#react
+#react #setState #compomemtWillInmount 
 
 ____
 

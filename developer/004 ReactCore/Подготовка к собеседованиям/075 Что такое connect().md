@@ -1,49 +1,47 @@
 #### Ответ
 
-#connect - это функция высшего порядка из библиотеки #React #Redux, которая используется для связывания компонента с Redux #Store и передачи ему необходимых данных и функций через пропсы.
+*connect()* - это функция из библиотеки react-redux, которая позволяет связать компонент React с Redux-хранилищем. Она создает новый компонент, который оборачивает исходный компонент и обеспечивает ему доступ к состоянию и действиям из хранилища.
 
-Функция connect принимает два аргумента: #mapStateToProps и #mapDispatchToProps.
+*mapDispatchToProps* и *mapStateToProps* - это функции, которые передаются в connect() в качестве аргументов и определяют, какие данные и действия передавать компоненту.
 
-#mapStateToProps - это функция, которая принимает текущее состояние Redux Store в качестве аргумента и возвращает объект, который будет передан в пропсы компонента. Эта функция позволяет компоненту получать доступ к необходимым данным из Redux Store.
+mapStateToProps - это функция, которая принимает текущее состояние (state) из хранилища Redux и возвращает объект свойств (props), которые будут переданы компоненту. Она позволяет компоненту получать доступ к состоянию приложения и использовать его для обновления интерфейса. mapStateToProps вызывается каждый раз при обновлении состояния в хранилище, что обновляет свойства компонента и вызывает перерисовку.
 
-#mapDispatchToProps - это объект, который содержит функции, которые будут переданы в пропсы компонента. Эти функции позволяют компоненту обновлять состояние Redux Store, например, с помощью действий (actions).
+Например, вот пример функции mapStateToProps, которая передает свойство count в компонент:
+
+```
+function mapStateToProps(state) {
+  return {
+    count: state.count
+  };
+}
+```
+
+mapDispatchToProps - это функция, которая принимает диспетчер (dispatcher) из хранилища Redux и возвращает объект свойств, которые представляют действия, доступные в компоненте. Она позволяет компоненту отправлять действия в хранилище Redux и обновлять состояние приложения. mapDispatchToProps вызывается только один раз при инициализации компонента.
+
+Например, вот пример функции mapDispatchToProps, которая передает свойство incrementCount, которое вызывает действие INCREMENT:
+
+```
+function mapDispatchToProps(dispatch) {
+  return {
+    incrementCount: () => dispatch({ type: 'INCREMENT' })
+  };
+}
+```
+
+После определения функций mapStateToProps и mapDispatchToProps они могут быть переданы в функцию connect() для связи компонента с Redux-хранилищем:
 
 ```
 import { connect } from 'react-redux';
-import { increment, decrement } from '../actions';
 
-function Counter({ count, increment, decrement }) {
-  return (
-    <div>
-      <h1>{count}</h1>
-      <button onClick={increment}>+</button>
-      <button onClick={decrement}>-</button>
-    </div>
-  );
-}
+...
 
-const mapStateToProps = state => ({
-  count: state.count
-});
-
-const mapDispatchToProps = {
-  increment,
-  decrement
-};
-
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps
-)(Counter);
+export default connect(mapStateToProps, mapDispatchToProps)(MyComponent);
 ```
 
-В этом примере компонент Counter связывается с Redux Store с помощью connect. Функция mapStateToProps используется для передачи свойства count из состояния Redux в пропсы компонента. Объект mapDispatchToProps используется для передачи функций increment и decrement из Redux в пропсы компонента.
-
-#Connect API позволяет компонентам React получать доступ к Redux Store и обновлять его состояние. Он обеспечивает эффективную связь между компонентами и Redux Store и упрощает создание масштабируемых приложений с управляемым состоянием.
-
+Теперь компонент MyComponent может получать доступ к данным и действиям из хранилища Redux через свойства (props), которые определены в функциях mapStateToProps и mapDispatchToProps.
 
 ____
-#react
+#react #redux #connect #mapDispatchToProps #mapStateToProps 
 
 ____
 

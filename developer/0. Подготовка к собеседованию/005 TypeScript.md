@@ -1,4 +1,4 @@
-![[png-transparent-typescript-hd-logo.png|100]]
+![[Logo-typescript.png|100]]
 
 #### Список полезных источников:
 

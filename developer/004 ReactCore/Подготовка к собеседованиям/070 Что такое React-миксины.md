@@ -1,8 +1,8 @@
 #### Ответ
 
-_Mixins_ are a way to totally separate components to have a common functionality. Mixins **should not be used** and can be replaced with _higher-order components_ or _decorators_.
+*"Миксины" (Mixins)* - это способ полностью разделить компоненты, чтобы иметь общую функциональность. "Миксины" **не должны использоваться** и могут быть заменены на "компоненты высшего порядка" (higher-order components) или "декораторы" (decorators).
 
-One of the most commonly used mixins is `PureRenderMixin`. You might be using it in some components to prevent unnecessary re-renders when the props and state are shallowly equal to the previous props and state:
+Один из наиболее распространенных "миксинов" - это `PureRenderMixin`. Вы можете использовать его в некоторых компонентах, чтобы предотвратить ненужные повторные рендеринги, когда свойства и состояние поверхностно равны предыдущим свойствам и состоянию.
 
 ```js
 const PureRenderMixin = require("react-addons-pure-render-mixin");
@@ -13,9 +13,8 @@ const Button = React.createClass({
 });
 ```
 
-
 ____
-#react
+#react #mixins #HOC
 
 ____
 

@@ -4,6 +4,8 @@
 
 Подробнее: [props.children в React](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)
 
+![[Pasted image 20230704173937.png|600]]
+
 `React.Children` предоставляет функции для работы с непрозрачной структурой данных `this.props.children`.
 
 Предположим, что у нас есть компонент `<Grid />`, который может содержать в себе компоненты `<Row />`. Мы бы написали это так:

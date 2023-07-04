@@ -2,22 +2,73 @@ ____
 
 tags: #React #Hooks #useContext
 
-youtube:
 ![Что такое контекст (`Context`)?](https://youtu.be/RpcB5jnJvcI?t=390)
 
-keywords:
-Получает значение из заданного контекста
-const a = useContext(ContextA);
-const b = useContext(ContextB);
+##### keywords:
 
-Код создания контекста и установки значения остаётся без изменений
-В useContext() передаётся именно обьект-контекст , а не Consumer
+![[Pasted image 20230704184526.png|600]]
+
+*Context API* - это механизм, который позволяет передавать данные через дерево компонентов в React-приложении, без необходимости передавать их через промежуточные компоненты.
+
+До версии React 16.3 контекст использовался для передачи глобальных данных, таких как тема оформления или язык приложения, от родительского компонента к дочерним компонентам. Однако, использование контекста было неудобным, потому что не было удобного способа для обновления контекста и реагирования на его изменения.
+
+В React 16.3 была представлена новая версия Context API, которая упростила передачу данных через дерево компонентов и добавила новые возможности для управления контекстом.
+
+В новой версии Context API введены два новых компонента - `Provider` и `Consumer`. Компонент `Provider` позволяет определить контекст и передать его значения дочерним компонентам. Компонент `Consumer` позволяет получить значения контекста из родительского компонента.
+
+Также были добавлены новые методы для обновления контекста - `createContext()` и `useContext()`. Метод `createContext()` позволяет создать контекст с начальными значениями, а метод `useContext()` позволяет получить значения контекста в функциональных компонентах.
+
+Пример использования Context API в React:
+
+```
+import React, { createContext, useState, useContext } from 'react';
+
+// Создание контекста
+const ThemeContext = createContext('light');
+
+function App() {
+  const [theme, setTheme] = useState('light');
+
+  // Обработчик изменения темы
+  const handleThemeChange = () => {
+    setTheme(theme === 'light' ? 'dark' : 'light');
+  };
+
+  // Передача значения контекста через Provider
+  return (
+    <ThemeContext.Provider value={theme}>
+      <Toolbar onThemeChange={handleThemeChange} />
+    </ThemeContext.Provider>
+  );
+}
+
+function Toolbar(props) {
+  return (
+    <div>
+      <ThemedButton onClick={props.onThemeChange} />
+    </div>
+  );
+}
+
+function ThemedButton(props) {
+  // Получение значения контекста через useContext
+  const theme = useContext(ThemeContext);
+  return (
+    <button
+      {...props}
+      style={{ backgroundColor: theme === 'light' ? '#fff' : '#000', color: theme === 'light' ? '#000' : '#fff' }}
+    />
+  );
+}
+
+export default App;
+```
+
+В данном примере мы создаем контекст `ThemeContext` и определяем начальное значение `light`. Мы передаем значение контекста через компонент `Provider` и обрабатываем изменение темы в родительском компоненте `App`. В дочерних компонентах `Toolbar` и `ThemedButton` мы получаем значение контекста через `useContext()` и используем его для определения стилей элементов. При нажатии на кнопку в компоненте `ThemedButton` вызывается функция `handleThemeChange()`, которая обновляет значение состояния и передает его через контекст.
 
 _____
 
-
-
-#### 4. React.Context
+#### React.Context
 
 ##### Кратко
 
@@ -395,11 +446,3 @@ class App extends React.Component {
   }
 }
 ```
-
-
-____
-#react
-
-____
-
-#### [[004 React + Redux|Назад]]

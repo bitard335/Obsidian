@@ -1,4 +1,4 @@
-![[react-logo.png|200]]
+![[Logo-react.png|200]]
 
 # Подготовка к собеседованию:
 
@@ -6,6 +6,7 @@
 2. [MobX & React: 50:15](https://www.youtube.com/watch?v=Yqz4rA85o68&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=15)
 3. [Redux-Saga. Полный курс: 1:39:53](https://www.youtube.com/watch?v=Vzt9Re9Tbjc&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=14)
 4. [GraphQL & React. Полный курс (Material-UI, Apollo, mLab): 2:08:26](https://www.youtube.com/watch?v=GMJNSBur-lM&list=PLNkWIWHIRwMFKmmIPVaCPpusgloMMgxN2&index=16)
+
 
 ___
 ___
@@ -115,8 +116,16 @@ ___
 
 ### 03 React-Redux
 
+* [[Что такое Flux|Что такое Flux?]]
 * [[073 Что такое Redux|Что такое Redux?]]
+* [[Ключевые концепции Redux|Какие ключевые концепции Redux?]]
+* [[Разница между Redux и Flux|Разница между Redux и Flux?]]
+* [[Плюсы и минусы Redux|Плюсы и минусы Redux?]]
+* [[Что такое «единственный источник истины» (Single Source of Truth)|Что такое «единственный источник истины» (Single Source of Truth)?]]
 * [[074 Что такое Redux-actions|Что такое Redux-actions?]]
+* [[Что такое редьюсер (Reducer)|Что такое редьюсер (Reducer)?]]
+* [[Разница между React State и Redux State|Разница между React State и Redux State?]]
+* [[Как выглядит поток данных в Redux-приложении|Как выглядит поток данных в Redux-приложении?]]
 * [[075 Что такое connect()|Что такое connect()? Что делает mapDispatchToProps и mapStateToProps?]]
 * [[076 Middleware|Middleware?]]
 * [[077 Что такое Redux-thunk|Что такое Redux-thunk?]]
@@ -124,6 +133,7 @@ ___
 * [[079 Что такое Reselect и как он работает|Что такое Reselect и как он работает?]]
 * [[080 На чём построена redux-saga и для чего она нужна|На чём построена redux-saga и для чего она нужна?]]
 * [[081 Что такое сайд-эффекты|Что такое сайд-эффекты?]]
+* [[Что такое Redux Toolkit]]
 
 ## React JSX #4 // Routing
 
@@ -170,7 +180,6 @@ ___
 
 #### Softskills
 
-* [[108 Что такое Flux-архитектура и в чём её отличия с реализацией Redux|Что такое Flux-архитектура и в чём её отличия с реализацией Redux?]]
 * [[109 С какой версии React пользуешься и какие крупные изменения за это время произошли|С какой версии React пользуешься и какие крупные изменения за это время произошли?]]
 * [[110 Какие ломающие изменения произошли в 16 версии|Какие ломающие изменения произошли в 16 версии?]]
 * [[111 Как вы укажите React работать в режиме Productionи как это сделать|Как вы укажите React работать в режиме Production и как это сделать?]]
@@ -206,7 +215,6 @@ ___
 
 ___
 
-[[Что такое Virtual DOM. Как он работает|Что такое Virtual DOM? Как он работает?]]
-[[Что такое Shadow DOM|Что такое Shadow DOM?]]
 [[081 Что такое shadow-root в инспекторе HTML-страницы|Что такое shadow-root в инспекторе HTML-страницы?]]
-[[Чем отличаются между собой Shadow DOM и Virtual DOM и Regular DOM|Чем отличаются между собой Shadow DOM и Virtual DOM и Regular DOM?]]
+
+
