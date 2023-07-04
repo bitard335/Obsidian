@@ -1,1 +1,0 @@
-- [Принципы REST-архитектуры?](https://youtu.be/-mWa7erZu64?t=159)
