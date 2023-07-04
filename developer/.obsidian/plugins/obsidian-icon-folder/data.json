@@ -73,11 +73,9 @@
   "009 Тестирование/Puppeteer": "SiPuppeteer",
   "009 Тестирование/Vitest": "SiVitest",
   "010 Контроль версий и deploy проекта": "IbDownload",
-  "010 Контроль версий и deploy проекта/Git. Инструмент управления версиями.md": "SiGit",
   "010 Контроль версий и deploy проекта/Github": "SiGithub",
   "010 Контроль версий и deploy проекта/Gitlab": "SiGitlab",
   "010 Контроль версий и deploy проекта/Vercel": "SiVercel",
-  "010 Контроль версий и deploy проекта/Ежедневная работа с Git.md": "SiGit",
   "010 Контроль версий и deploy проекта/Gitlab/Как клонировать репозиторий с GitLab.md": {
     "iconName": null,
     "inheritanceIcon": "SiAngular-white"
@@ -90,7 +88,11 @@
   "002 CSS/Фреймворк/TailwindCSS.md": "SiTailwindcss",
   "0. Подготовка к собеседованию/000 Browser.md": "IbInternetBrowser",
   "0. Подготовка к собеседованию/007 Скрипты.md": "SiPurescript",
-  "010 Контроль версий и deploy проекта/Какие проблемы могут возникнуть при работе с Git.md": "SiGit",
-  "010 Контроль версий и deploy проекта/Что такое Git CLI.md": "SiGit",
-  "010 Контроль версий и deploy проекта/Что такое Git Flow.md": "SiGit"
+  "007 Скрипты/Git/Ежедневная работа с Git.md": "SiGit",
+  "007 Скрипты/Git/Что такое Git CLI.md": "SiGit",
+  "007 Скрипты/Git/Что такое Git Flow.md": "SiGit",
+  "007 Скрипты/Git/Git. Инструмент управления версиями.md": "SiGit",
+  "007 Скрипты/Git/Какие проблемы могут возникнуть при работе с Git.md": "SiGit",
+  "007 Скрипты/Git/Интересные консольные команды git.md": "SiGit",
+  "007 Скрипты/Git/Git.md": "SiGit"
 }
