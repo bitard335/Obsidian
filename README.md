@@ -4,7 +4,7 @@
 
 ## Какая информация хранится в Базе знаний?
 
-1. <a href="https://vk.cc/cp2VkZ">Общие вопросы по web-разработке</a>
+1. <a href="https://vk.cc/cpeqiP">Общие вопросы по web-разработке</a>
 2. <a href="https://vk.cc/cp2Vqw">HTML</a>
 3. <a href="https://vk.cc/cp2VrW">CSS & SCSS</a>
 4. <a href="https://vk.cc/cp2Vug">JavaScript</a>
