@@ -10,10 +10,9 @@
 4. <a href="https://vk.cc/cp2Vug">JavaScript</a>
 5. <a href="https://vk.cc/cp2VxP">TypeScript</a>
 6. <a href="https://vk.cc/cp2Vw3">React-Redux</a>
-7. <a href="https://vk.cc/cp2VDd">Тестирование web-приложений</a>
+7. <a href="https://vk.cc/cp2VDd">Тестирование</a>
 8. <a href="https://vk.cc/cp2VBo">Node.js</a>
-9. <a href="">git, npm & yarn</a>
-10. <a href="">Система контроля версий web-приложений</a>
+9. <a href="https://vk.cc/cpeqkE">Скрипты и инструменты</a>
 
 ## Что такое Obsidian.md ?
 
