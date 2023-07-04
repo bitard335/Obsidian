@@ -2,11 +2,6 @@ ____
 
 tags:  #JS #ESLint #Prettier #NPM 
 
-links: [[]]
-
-youtube: 
-1. 
-
 _____
 
 ## Введение

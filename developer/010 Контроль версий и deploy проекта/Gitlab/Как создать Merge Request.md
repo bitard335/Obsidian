@@ -1,13 +1,6 @@
 ____
 
-tags: #gitlab #git #commit #
-
-links: 
-
-youtube: 
-1. 
-
-keywords:
+tags: #gitlab #git #commit #git-merge 
 
 _____
 

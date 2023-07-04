@@ -1,8 +1,7 @@
 ____
 
-tags: #gitlab 
+tags: #gitlab #git
 
-keywords:
 
 _____
 

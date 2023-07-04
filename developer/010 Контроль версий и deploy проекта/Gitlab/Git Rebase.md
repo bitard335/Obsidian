@@ -1,13 +1,6 @@
 ____
 
-tags: #gitlab #git #rebase #merge 
-
-links: 
-
-youtube: 
-1. 
-
-keywords:
+tags: #gitlab #git #git-rebase #git-merge 
 
 _____
 
