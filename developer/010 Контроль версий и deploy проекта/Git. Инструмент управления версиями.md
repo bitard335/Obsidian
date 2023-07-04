@@ -2,7 +2,6 @@ ____
 
 tags: #git
 
-youtube: 
 ![](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb&index=1)
 
 keywords:

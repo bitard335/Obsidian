@@ -4,7 +4,6 @@ tags: #viteJS #React #JS #Vue
 
 links: [https://www.sitepoint.com/vitejs-front-end-build-tool-introduction/](https://www.sitepoint.com/vitejs-front-end-build-tool-introduction/)
 
-youtube: 
 ![](https://www.youtube.com/watch?v=ndKgZRM7yjk)
 
 keywords:

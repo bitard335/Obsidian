@@ -2,7 +2,6 @@ ____
 
 tags: #Docker
 
-youtube: 
 ![](https://www.youtube.com/watch?v=_uZQtRyF6Eg)
 
 _____

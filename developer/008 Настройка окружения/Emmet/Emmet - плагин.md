@@ -1,11 +1,6 @@
 ____
 
-tags: #
-
-links: [[]]
-
-youtube: 
-1. 
+tags: #emmet
 
 keywords:
 
