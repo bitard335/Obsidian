@@ -37,7 +37,7 @@ console.log(doubledNumbers.length); // 5
 В этом примере мы создаем новый массив `doubledNumbers`, который содержит все элементы исходного массива `numbers`, умноженные на 2. Размер нового массива `doubledNumbers` равен 5, так как каждый элемент исходного массива был изменен при выполнении функции обратного вызова.
 
 ___
- #JS #array #high-order-function #filter #map
+ #JavaScript #array #high-order-function #filter #map
 
 ___
 

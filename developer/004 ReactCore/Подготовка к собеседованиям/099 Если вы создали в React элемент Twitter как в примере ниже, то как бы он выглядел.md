@@ -50,7 +50,7 @@ import fetchUser from 'twitter'class Twitter extends Component {
 
 
 ____
-#react
+#React
 
 ____
 

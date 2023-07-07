@@ -39,7 +39,7 @@ async function getData() {
 Таким образом, для обработки ошибок в `async/await` можно использовать конструкцию `try-catch`, а также метод `finally` для выполнения каких-либо действий после завершения операции.
 
 ___
- #JS #асинхронность #async #await #try-catch 
+ #JavaScript #асинхронность #async #await #try-catch 
 
 ___
 

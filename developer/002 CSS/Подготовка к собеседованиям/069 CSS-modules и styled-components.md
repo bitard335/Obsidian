@@ -90,7 +90,7 @@ ___
 
 
 ___
-#CSS #React #CSS-modules #Styled-components
+#CSS #React #CSS-modules #style
 
 ___
 

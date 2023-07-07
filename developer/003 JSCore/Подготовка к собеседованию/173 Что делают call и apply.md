@@ -64,7 +64,7 @@ boundLogFullName(); // 'John Doe'
 Подробнее: [[2.3 Декораторы и переадресация вызова, сall и apply|Методы call & apply]]
 
 ___
- #JS #bind #call #apply 
+ #JavaScript #bind #call #apply 
 
 ___
 

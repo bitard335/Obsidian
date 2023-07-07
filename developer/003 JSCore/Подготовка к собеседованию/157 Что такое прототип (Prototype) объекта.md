@@ -15,7 +15,7 @@
 Подробнее: [[2.1 Прототипы, наследования|Прототипы (Prototype)]]
 
 ___
- #JS #object #prototype 
+ #JavaScript #object #prototype 
 
 ___
 

@@ -1,6 +1,6 @@
 ____
 
-tags: #TypeScript #tuple #string #number #boolean #any #unions #aliases #interface #type #type-assertion #literal-types #null #underfined #enums #BigInt #symbol
+tags: #TypeScript #tuple #string #number #boolean #any #unions #aliases #interface #type #type-assertion #literal-types #null #undefined #enums #BigInt #symbol
 
 links: [Карманная книга по TS. Часть 2. Типы на каждый день](https://habr.com/ru/companies/macloud/articles/559976/)
 

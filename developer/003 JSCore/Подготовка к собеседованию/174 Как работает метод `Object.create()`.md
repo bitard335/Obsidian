@@ -44,7 +44,7 @@ console.log(person2.getFullName()); // 'Jane Doe'
 Также важно отметить, что в отличие от конструкторов и классов, метод `Object.create()` не создает новую функцию и не выполняет какой-либо код, кроме создания и возвращения нового объекта.
 
 ___
- #JS #object #create #proto 
+ #JavaScript #object #create #proto 
 
 ___
 

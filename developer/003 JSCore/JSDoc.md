@@ -1,6 +1,6 @@
 ____
 
-tags: #JS #JSDoc 
+tags: #JavaScript #JSDoc 
 
 _____
 

@@ -37,7 +37,7 @@ person.walk(); // 'Walking...'
 Подробнее: [[2.1 Прототипы, наследования|Прототипы и наследование]]
 
 ___
-#JS #Proto #prototype 
+#JavaScript #Proto #prototype 
 
 ___
 

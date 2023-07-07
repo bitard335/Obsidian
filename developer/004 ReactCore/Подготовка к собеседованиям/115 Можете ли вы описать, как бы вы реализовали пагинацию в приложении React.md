@@ -13,7 +13,7 @@
 https://habr.com/ru/articles/734980/
 
 ____
-#react
+#React
 
 ____
 

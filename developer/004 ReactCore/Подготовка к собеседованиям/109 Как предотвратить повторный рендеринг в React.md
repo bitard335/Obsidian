@@ -60,7 +60,7 @@ export default MyComponent;
 [Задача №1](https://codesandbox.io/s/react-senior-rerender-nfdgns)
 
 ____
-#react
+#React
 
 ____
 

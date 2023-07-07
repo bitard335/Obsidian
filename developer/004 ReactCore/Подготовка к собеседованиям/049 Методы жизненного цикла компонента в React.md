@@ -32,7 +32,7 @@
 Жизненный цикл компонента в React предоставляет возможность управлять поведением компонента на различных этапах его жизненного цикла и выполнения различных действий в зависимости от изменений состояния или свойств компонента.
 
 ____
-#react #Lifecycle #componentDidMount #shouldComponentUpdate #componentDidUpdate #componentWillUnmount #componentDidCatch 
+#React #Lifecycle #componentDidMount #shouldComponentUpdate #componentDidUpdate #componentWillUnmount #componentDidCatch 
 
 ____
 

@@ -61,7 +61,7 @@ function MyComponent() {
 Подробнее об асинхронности можно прочитать в статье [Полное руководство по асинхронному JavaScript](https://it-dev-journal.ru/articles/polnoe-rukovodstvo-po-asinhronnomu-java-script)
 
 ____
-#react
+#React
 
 ____
 

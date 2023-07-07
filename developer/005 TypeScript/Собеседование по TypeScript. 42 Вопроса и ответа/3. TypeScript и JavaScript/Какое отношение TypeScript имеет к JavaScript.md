@@ -1,6 +1,6 @@
 ____
 
-tags: #TypeScript #JS 
+tags: #TypeScript #JavaScript 
 
 [[005 TypeScript|На главную]]
 

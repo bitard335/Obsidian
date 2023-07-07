@@ -1,4 +1,4 @@
-\	![[Logo-javascript.webp|200]]
+![[Logo-javascript.webp|200]]
 
 # Подготовка к собеседованию:
 

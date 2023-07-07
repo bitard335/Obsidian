@@ -78,7 +78,7 @@ function App() {
 В этом примере мы добавляем проп `anotherProp` в компонент `MyComponent`, а также передаем все пропсы маршрутизации через метод расширения объекта (`...routeProps`).
 
 ____
-#react #react-router #props
+#React #React-router #props
 
 ____
 

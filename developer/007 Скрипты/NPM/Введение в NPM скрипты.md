@@ -143,7 +143,7 @@ npm install --save-dev stylelint
 
 ## Linting JavaScript
 
-Также есть **linting** для #JS который поможет сделать то же самое при помощи: [eslint](https://github.com/eslint/eslint).
+Также есть **linting** для #JavaScript который поможет сделать то же самое при помощи: [eslint](https://github.com/eslint/eslint).
 
 Установим пакет, только на этот раз, используем ярлык:
 

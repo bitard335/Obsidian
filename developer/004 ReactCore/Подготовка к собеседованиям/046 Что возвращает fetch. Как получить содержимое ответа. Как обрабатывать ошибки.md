@@ -30,7 +30,7 @@ fetch('https://example.com/data.json')
 ##### Подробнее: [[1.4 FETCH|Методы fetch()]]
 
 ____
-#react
+#React
 
 ____
 

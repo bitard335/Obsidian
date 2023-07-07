@@ -51,7 +51,7 @@ console.log(copiedObj); // { a: 1, b: { c: 2 } }
 * [[Как поверхностно скопировать объект|Как поверхностно скопировать объект?]]
 
 ___
- #JS #object #assign 
+ #JavaScript #object #assign 
 
 ___
 

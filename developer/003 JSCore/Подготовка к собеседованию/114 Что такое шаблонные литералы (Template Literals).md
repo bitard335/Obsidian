@@ -47,7 +47,7 @@ console.log(message);
 Подробнее: [[1.7 Template string|Шаблонные литералы]]
 
 ___
- #JS #template-literals
+ #JavaScript #template-literals
 
 ___
 

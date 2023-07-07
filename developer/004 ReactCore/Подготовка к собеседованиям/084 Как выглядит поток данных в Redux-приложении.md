@@ -22,7 +22,7 @@
 Таким образом, поток данных в Redux-приложении является однонаправленным и предсказуемым, что облегчает отладку и сопровождение приложений.
 
 ____
-#react #redux #action #dispatcher #reducer #store #subscriber #component 
+#React #redux #action #dispatcher #reducer #store #subscriber #component 
 
 ____
 

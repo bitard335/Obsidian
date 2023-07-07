@@ -27,7 +27,7 @@ loadDataFromServer(function(data) {
 Подробнее: [[1.2 CallBack функции|CallBack функции]]
 
 ___
- #JS #callback #CallbackHell 
+ #JavaScript #callback #CallbackHell 
 
 ___
 

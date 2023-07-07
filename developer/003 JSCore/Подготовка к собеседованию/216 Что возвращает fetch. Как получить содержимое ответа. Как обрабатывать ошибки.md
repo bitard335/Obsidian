@@ -60,7 +60,7 @@ fetch(url, options)
 Подробнее: [[1.4 FETCH|Подробнее о fetch]]
 
 ___
- #JS #fetch #Response 
+ #JavaScript #fetch #response 
 
 ___
 

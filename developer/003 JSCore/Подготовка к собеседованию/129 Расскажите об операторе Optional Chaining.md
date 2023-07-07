@@ -61,7 +61,7 @@ console.log(city); // Вывод: undefined
 Оператор Optional Chaining - это удобный и безопасный способ обращения к свойствам и методам объектов в JavaScript, который позволяет избежать ошибок при обращении к неопределенным значениям. Он доступен в современных версиях JavaScript.
 
 ___
- #JS #optionalChaining
+ #JavaScript #optionalChaining
 
 ___
 

@@ -63,7 +63,7 @@ console.log(trimmedEndStr); // Вывод: "   hello world"
 Таким образом, для удаления пробельных символов в начале и в конце строки в JavaScript можно использовать методы `.trim()`, `.trimStart()` и `.trimEnd()`.
 
 ___
- #JS #string #trim #trimStart #trimEnd
+ #JavaScript #string #trim #trimStart #trimEnd
 
 ___
 

@@ -37,7 +37,7 @@ class MyComponent extends React.Component {
 Приведенные выше фрагменты кода показывают, что `this.props` отличается только внутри конструктора. Это было бы то же самое вне конструктора.
 
 ____
-#react #constructor #super #props 
+#React #constructor #super #props 
 
 ____
 

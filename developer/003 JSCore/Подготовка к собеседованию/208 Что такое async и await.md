@@ -33,7 +33,7 @@ async function getData() {
 Подробнее: [[1.4 ASync. await|async & await]]
 
 ___
- #JS #асинхронность #promise #async #await #try-catch 
+ #JavaScript #асинхронность #promise #async #await #try-catch 
 
 ___
 

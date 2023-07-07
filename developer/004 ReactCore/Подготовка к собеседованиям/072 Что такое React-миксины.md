@@ -14,7 +14,7 @@ const Button = React.createClass({
 ```
 
 ____
-#react #mixins #HOC
+#React #mixins #HOC
 
 ____
 

@@ -37,7 +37,7 @@ import { Link } from 'react-router-dom';
 ```
 
 ____
-#react
+#React
 
 ____
 

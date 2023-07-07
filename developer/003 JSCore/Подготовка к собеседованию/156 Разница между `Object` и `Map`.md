@@ -5,7 +5,7 @@
 
 
 ___
- #JS 
+ #JavaScript 
 
 ___
 

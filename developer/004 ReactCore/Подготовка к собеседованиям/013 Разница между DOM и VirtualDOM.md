@@ -34,7 +34,7 @@
 Одной из таких самых известных библиотек является React от команды разработчиков Facebook.  
 
 ____
-#react #DOM #VirtualDOM 
+#React #DOM #VirtualDOM 
 
 ____
 

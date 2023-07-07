@@ -29,7 +29,7 @@ console.log(evenNumbers); // [2, 4]
 Функция-предикат должна возвращать логическое значение `true` или `false`. Если функция-предикат возвращает `true` для текущего элемента массива, то этот элемент будет включен в новый массив, иначе он будет исключен из него.
 
 ___
- #JS #array #high-order-function #filter
+ #JavaScript #array #high-order-function #filter
 
 ___
 

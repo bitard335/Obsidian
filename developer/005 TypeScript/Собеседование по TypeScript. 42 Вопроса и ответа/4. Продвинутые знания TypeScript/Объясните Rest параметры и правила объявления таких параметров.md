@@ -1,6 +1,6 @@
 ____
 
-tags: #TypeScript #rest-оператор 
+tags: #TypeScript #rest 
 
 [[005 TypeScript|На главную]]
 

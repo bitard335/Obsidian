@@ -55,7 +55,7 @@ useLayoutEffect(() => {
 В этом примере, `useLayoutEffect()` вызывает функцию после изменений в DOM, когда зависимости изменились. Он может быть полезен для выполнения действий, которые зависят от размеров или позиций элементов в DOM, например, для выполнения анимации.
 
 ____
-#react #Hooks #useCallback #useMemo #useImperativeHandle #useLayoutEffect
+#React #Hooks #useCallback #useMemo #useImperativeHandle #useLayoutEffect
 
 ____
 

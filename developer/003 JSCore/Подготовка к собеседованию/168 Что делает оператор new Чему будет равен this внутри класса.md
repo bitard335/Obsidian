@@ -30,7 +30,7 @@ console.log(person1.age); // 25
 Подробнее: [[2.2 Конструкторы, создание объектов через new|Оператор new]]
 
 ___
- #JS #constructor #new #this
+ #JavaScript #constructor #new #this
 
 ___
 

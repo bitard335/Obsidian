@@ -98,7 +98,7 @@ alert(timerId); // тот же идентификатор (не принимае
 Подробнее: [[1.1.2 Планирование setTimeout и setInterval|Планирование setTimeout и setInterval?]]
 
 ___
- #JS #setTimeout #setInterval #
+ #JavaScript #setTimeout #setInterval #
 
 ___
 

@@ -28,7 +28,7 @@ function counterReducer(state = { count: 0 }, action) {
 Редьюсеры могут быть объединены в единый редьюсер (root reducer) с помощью функции combineReducers(), которая объединяет несколько редьюсеров в один корневой редьюсер.
 
 ____
-#react #redux #reducer
+#React #redux #reducer
 
 ____
 

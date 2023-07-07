@@ -27,39 +27,7 @@
 
 В этом примере мы добавили атрибуты `data-`, чтобы хранить информацию о продукте, такую как идентификатор, название и цена. Эти данные могут использоваться для добавления продукта в корзину, для отображения информации о продукте на странице или для выполнения других действий, связанных с продуктом.
 
-Важно отметить, что атрибуты `data-` не должны использоваться для хранения данных, которые могут быть получены с сервера или находятся в другом месте на странице. В таких случаях лучше использовать другие методы, такие как AJAX-запросы или обращение к другим элементам на странице.
-
-HTML5 спроектирован с возможностью расширения данных ассоциированных с каким-либо элементом, но в то же время не обязательно имеющих определённое значение. data-* атрибуты позволяют хранить дополнительную информацию в стандартных элементах HTML, без хаков вроде нестандартных атрибутов, лишних DOM-свойств или Node.setUserData().
-
-**Синтаксис HTML**
-
-```html
-<article
-	id="electriccars"
-	data-columns="3"
-	data-index-number="12314"
-	data-parent="cars">
-</article>
-```
-
-**Доступ в JavaScript**
-
-```js
-var article = document.getElementById('electriccars');
-article.dataset.columns // "3"
-article.dataset.indexNumber // "12314"
-article.dataset.parent // "cars"
-```
-
-**Доступ в CSS**
-
-```css
-article::before {
-	content: attr(data-parent);
-}
-```
-
-Подробнее: [https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Using_data_attributes](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Using_data_attributes)
+Подробнее: [Использование data- атрибутов](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Using_data_attributes)
 
 ___
 #HTML #data- #DOM

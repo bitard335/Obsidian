@@ -16,7 +16,7 @@ render(
 ```
 
 ____
-#react
+#React
 
 ____
 

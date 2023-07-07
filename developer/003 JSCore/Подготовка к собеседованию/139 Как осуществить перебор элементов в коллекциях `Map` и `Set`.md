@@ -79,7 +79,7 @@ for (let value of set.values()) {
 В этом примере цикл `for...of` используется для перебора элементов `Set`, и каждый элемент представлен в виде значения.
 
 ___
- #JS #map #set #for-of #forEach 
+ #JavaScript #map #set #for-of #forEach 
 
 ___
 

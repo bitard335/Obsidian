@@ -32,7 +32,7 @@ function MyComponent() {
 Здесь обработчик `handleClick` получает синтетическое событие в качестве аргумента `event` и использует его метод `preventDefault()` для предотвращения перехода по ссылке при клике на элемент `<a>`.
 
 ____
-#react #SyntheticEvent #eventDelegation #eventBubbling
+#React #SyntheticEvent #eventDelegation #eventBubbling
 
 ____
 

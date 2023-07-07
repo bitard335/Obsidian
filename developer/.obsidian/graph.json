@@ -1,10 +1,10 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -46,7 +46,7 @@
       "query": "path:\"005 TypeScript\"",
       "color": {
         "a": 1,
-        "rgb": 7778178
+        "rgb": 7776898
       }
     },
     {
@@ -71,17 +71,10 @@
       }
     },
     {
-      "query": "path:\"010 Контроль версий и deploy проекта\"",
+      "query": "path:\"009 Контроль версий и deploy проекта\"",
       "color": {
         "a": 1,
         "rgb": 16777215
-      }
-    },
-    {
-      "query": "path:\"009 Тестирование\"",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
       }
     }
   ],
@@ -95,6 +88,6 @@
   "repelStrength": 12.4479166666667,
   "linkStrength": 1,
   "linkDistance": 300,
-  "scale": 0.10964310471257854,
-  "close": true
+  "scale": 0.08703962957500552,
+  "close": false
 }

@@ -14,7 +14,7 @@ try {   // ...
 `message` Текстовое сообщение о деталях ошибки.
 
 ___
- #JS #try-catch #catch
+ #JavaScript #try-catch #catch
 
 ___
 

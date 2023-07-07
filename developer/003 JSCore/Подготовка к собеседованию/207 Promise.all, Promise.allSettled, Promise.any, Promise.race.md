@@ -59,7 +59,7 @@ Promise.race([promise1, promise2, promise3])
 В целом, методы `Promise.all()`, `Promise.allSettled()`, `Promise.any()`, и `Promise.race()` позволяют эффективно работать с несколькими промисами и обрабатывать их результаты в соответствии с определенными условиями.
 
 ___
- #JS #асинхронность #promise #promiseAll #promiseAllSettled #promiseAny #promiseRacr
+ #JavaScript #асинхронность #promise #promiseAll #promiseAllSettled #promiseAny #promiseRacr
 
 ___
 

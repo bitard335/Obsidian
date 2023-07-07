@@ -61,7 +61,7 @@ describe("Tests", () => {
 ```
 
 ___
-#JS #regularExpression
+#JavaScript #regularExpression
 
 ___
 

@@ -26,7 +26,7 @@ function counterReducer(state = 0, action) {
 Использование чистых функций в Redux - это один из ключевых принципов, который позволяет создавать предсказуемые и легко поддерживаемые приложения.
 
 ____
-#react #redux #pure-function 
+#React #redux #pure-function 
 
 ____
 

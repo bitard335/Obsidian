@@ -26,7 +26,7 @@
 Подробнее: [[1.2.2 В чём разница между var, let и const в JavaScript|В чём разница между var, let и const в JavaScript]]
 
 ___
- #JS #var #let #const
+ #JavaScript #var #let #const
 
 ___
 

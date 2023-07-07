@@ -14,7 +14,7 @@ componentDidMount() {
 ```
 
 ____
-#react #setState #compomemtWillInmount 
+#React #setState #compomemtWillInmount 
 
 ____
 

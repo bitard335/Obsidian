@@ -1,6 +1,6 @@
 ____
 
-tags: #TypeScript #null #underfined 
+tags: #TypeScript #null #undefined 
 
 [[005 TypeScript|На главную]]
 

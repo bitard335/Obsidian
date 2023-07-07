@@ -25,7 +25,7 @@
 -   Для `null` возвращается `"object"` – это ошибка в языке, на самом деле это не объект.
 
 ___
-#JS #number #BigInt #String #boolean #null #undefined #symbol #object 
+#JavaScript #number #BigInt #string #boolean #null #undefined #symbol #object 
 
 ___
 

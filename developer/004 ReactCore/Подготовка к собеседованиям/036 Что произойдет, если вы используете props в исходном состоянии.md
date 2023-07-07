@@ -41,7 +41,7 @@ class MyComponent extends React.Component {
 
 
 ____
-#react #props 
+#React #props 
 
 ____
 

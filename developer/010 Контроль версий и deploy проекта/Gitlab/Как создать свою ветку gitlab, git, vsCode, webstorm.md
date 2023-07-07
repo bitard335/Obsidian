@@ -1,6 +1,6 @@
 ____
 
-tags: #gitlab #git #IDE #VSCode #Webstrom
+tags: #gitlab #git #IDE #VSCode #webstorm
 
 _____
 

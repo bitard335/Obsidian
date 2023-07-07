@@ -1,6 +1,6 @@
 ____
 
-tags: #JS #promise 
+tags: #JavaScript #promise 
 
 links: [[]]
 

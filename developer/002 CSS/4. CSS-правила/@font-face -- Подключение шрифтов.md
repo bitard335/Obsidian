@@ -1,6 +1,6 @@
 ____
 
-tags: #HTML #CSS #CSS-правило #Шрифт #font-face 
+tags: #HTML #CSS #CSS-правило #font #font-face 
 
 links: [Google Fonts](https://fonts.google.com/) , 
 

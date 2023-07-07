@@ -1,6 +1,6 @@
 ____
 
-tags: #React #TypeScript #Router #react-router 
+tags: #React #TypeScript #Router #React-router 
 
 links: 
 - Роутинг библиотека react-router ([https://reactrouter.com/en/main](https://reactrouter.com/en/main))

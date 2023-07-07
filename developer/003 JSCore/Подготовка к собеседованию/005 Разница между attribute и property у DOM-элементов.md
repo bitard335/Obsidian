@@ -18,7 +18,7 @@
 ![[Pasted image 20230701211801.png]]
 
 ___
-#DOM #attributes #properties
+#DOM #attributes #property
 
 ___
 

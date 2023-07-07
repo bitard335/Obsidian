@@ -61,7 +61,7 @@ class MyList extends React.Component {
 [Задача №1](https://codesandbox.io/s/react-middle--pqy3ct?file=/src/App.js)
 
 ____
-#react
+#React
 
 ____
 

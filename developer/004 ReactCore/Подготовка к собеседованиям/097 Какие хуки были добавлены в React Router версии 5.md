@@ -83,7 +83,7 @@ function MyComponent() {
 Эти хуки позволяют удобно работать с маршрутизацией в React, упрощая доступ к текущему местоположению, параметрам и маршруту. Они значительно упрощают разработку маршрутизации в React-приложениях.
 
 ____
-#react #react-router #useRouteMatch #useParams #useLocation #useHistory #hooks
+#React #React-router #useRouteMatch #useParams #useLocation #useHistory #hooks
 
 ____
 

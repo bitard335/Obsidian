@@ -27,7 +27,7 @@ class MyComponent extends React.Component {
 Вне `constructor()` оба будут отображать одинаковое значение для `this.props`.
 
 ____
-#react #constructor #super #props
+#React #constructor #super #props
 
 ____
 

@@ -35,7 +35,7 @@ LocalStorage, SessionStorage и Cookies - это три различных сп�
 Подробнее: [[6 LocalStorage, sessionStorage|LocalStorage & sessionStorage]]
 
 ___
- #LocalStorage #SessionStorage #Cookies
+ #LocalStorage #SessionStorage #Cookie
 
 ___
 

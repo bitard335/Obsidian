@@ -51,7 +51,7 @@ element.innerHTML = `<div class="${buttons.red} ${padding.large}">`;
 Подробнее: [[Стилизация и CSS]]
 
 ____
-#react #CSS-modules 
+#React #CSS-modules 
 
 ____
 

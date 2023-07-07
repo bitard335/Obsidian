@@ -41,7 +41,7 @@ export default connect(mapStateToProps, mapDispatchToProps)(MyComponent);
 Теперь компонент MyComponent может получать доступ к данным и действиям из хранилища Redux через свойства (props), которые определены в функциях mapStateToProps и mapDispatchToProps.
 
 ____
-#react #redux #connect #mapDispatchToProps #mapStateToProps 
+#React #redux #connect #mapDispatchToProps #mapStateToProps 
 
 ____
 

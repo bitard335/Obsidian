@@ -27,7 +27,7 @@ const newElement = React.cloneElement(element, { className: 'new-class' });
 Основная разница между `createElement()` и `cloneElement()` заключается в том, что `createElement()` создает новый элемент, а `cloneElement()` клонирует существующий элемент. Кроме того, элементы, созданные с помощью `createElement()`, являются неизменяемыми, а элементы, клонированные с помощью `cloneElement()`, могут быть изменены.
 
 ____
-#react #createElement #cloneElement 
+#React #createElement #cloneElement 
 
 ____
 

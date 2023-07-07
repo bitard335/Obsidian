@@ -71,7 +71,7 @@ obj.greet.call(otherObj); // "Hello, my name is Jane"
 Значение `this` может быть сложным и зависит от контекста, поэтому важно понимать, как оно работает в разных ситуациях.
 
 ___
- #JS #this #call #apply #bind
+ #JavaScript #this #call #apply #bind
 
 ___
 

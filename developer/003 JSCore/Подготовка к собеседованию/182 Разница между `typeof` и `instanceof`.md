@@ -39,7 +39,7 @@ console.log(person instanceof Array); // false
 В целом, оператор `typeof` и оператор `instanceof` имеют различные применения и могут использоваться для разных целей.
 
 ___
- #JS #instanceof #typeof
+ #JavaScript #instanceof #typeof
 
 ___
 

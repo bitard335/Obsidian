@@ -74,7 +74,7 @@ try {
 Подробнее: [[1.2 Пользовательские ошибки, расширение Error|Пользовательские ошибки, расширение Error]]
 
 ___
- #JS #try-catch #error
+ #JavaScript #try-catch #error
 
 ___
 

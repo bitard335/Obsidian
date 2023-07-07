@@ -109,7 +109,7 @@ console.log(sum); // 15
 ```
 
 ___
-#JS #array #push #pop #shift #unshift #slice #splice #concat #forEach #map #filter #reduce
+#JavaScript #array #push #pop #shift #unshift #slice #splice #concat #forEach #map #filter #reduce
 
 ___
 

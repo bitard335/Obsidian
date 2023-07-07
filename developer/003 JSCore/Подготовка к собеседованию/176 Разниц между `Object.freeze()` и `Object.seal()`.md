@@ -45,7 +45,7 @@ console.log(person); // { firstName: 'Jane', lastName: 'Doe' }
 Оба метода могут быть полезными, когда мы хотим предотвратить изменение основной структуры объекта, но различия в их поведении могут быть важны в зависимости от конкретной задачи.
 
 ___
- #JS #object #Object-freeze #Object-seal
+ #JavaScript #object #Object-freeze #Object-seal
 
 ___
 

@@ -1,6 +1,6 @@
 ____
 
-tags: #CSS #CSS-свойство #Шрифт #font-size #line-height #font-weight #vertical-align #color #white-space #text-decoration #font-style #text-transform 
+tags: #CSS #CSS-свойство #font #font-size #line-height #font-weight #vertical-align #color #white-space #text-decoration #font-style #text-transform 
 
 links: [[@font-face -- Подключение шрифтов]] , 
 

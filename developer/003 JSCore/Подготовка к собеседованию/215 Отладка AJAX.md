@@ -1,6 +1,6 @@
 
 ___
- #JS 
+ #JavaScript 
 
 ___
 

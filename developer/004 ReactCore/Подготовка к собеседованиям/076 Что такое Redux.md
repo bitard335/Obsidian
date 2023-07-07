@@ -182,7 +182,7 @@ https://rajdee.gitbooks.io/redux-in-russian/content/docs/basics/DataFlow.html
 
 
 ____
-#react #redux #store #action #reducer 
+#React #redux #store #action #reducer 
 
 ____
 

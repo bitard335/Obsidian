@@ -22,7 +22,7 @@
 Хотя Flux был разработан для использования с React, его концепции могут быть применены и в других библиотеках и фреймворках для разработки веб-приложений.
 
 ____
-#react #redux #flux #actions #dispatcher #store #vie
+#React #redux #flux #actions #dispatcher #store #vie
 
 ____
 

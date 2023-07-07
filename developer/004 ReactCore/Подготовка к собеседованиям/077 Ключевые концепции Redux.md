@@ -24,7 +24,7 @@ Redux основан на нескольких ключевых концепци
 Эти концепции обеспечивают единообразное и предсказуемое управление состоянием в Redux, что делает его популярным инструментом для разработки сложных приложений.
 
 ____
-#react #redux #store #action #reducer #selector #Middleware 
+#React #redux #store #action #reducer #selector #Middleware 
 
 ____
 

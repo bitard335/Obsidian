@@ -17,7 +17,7 @@ JavaScript является реализацией языка *ECMAScript*, и �
 Подробнее: [ECMA-262](https://262.ecma-international.org/)
 
 ___
- #JS #ECMAScript 
+ #JavaScript #ECMAScript 
 
 ___
 

@@ -69,7 +69,7 @@ obj.greet.call(otherObj); // "Hello, my name is Jane"
 ```
 
 ___
- #JS #this #call #bind #apply
+ #JavaScript #this #call #bind #apply
 
 ___
 

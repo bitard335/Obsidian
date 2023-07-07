@@ -2,7 +2,7 @@ ____
 
 tags: #HTML #тег #DOCTYPE
 
-links: [[Список тэгов разметки]] , [[DOCTYPE]] , [[006 HTML, XHTML и XML и их отличия]]
+links: [[Список тэгов разметки]] , [[006 HTML, XHTML и XML и их отличия]]
 
 _____
 

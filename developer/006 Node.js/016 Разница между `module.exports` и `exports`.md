@@ -62,7 +62,7 @@ exports.sub = function(a, b) {
 Здесь мы экспортируем две функции `add` и `sub` из модуля `module.js` с помощью свойств объекта `exports`.
 
 ___
-#node-js #exports #moduleExports
+#NodeJS #exports #moduleExports
 
 ___
 

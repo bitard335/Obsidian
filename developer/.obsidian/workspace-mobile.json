@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "6c5104dfb3036e2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d80f61abf4fbfa0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc02a7a5087fbfc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 CSS/Подготовка к собеседованиям/042 Что такое плавающие элементы (floats). Как они работают.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1472b333607cf50",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f9d4f2b7a76334e3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7cd8a086b42f0a08",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#CSS",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6446a09073f80705",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "da12cd7bad2fd1e1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6305a8d0eb347dfe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d3d1e8ad4fb2d4db",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "002 CSS/Подготовка к собеседованиям/042 Что такое плавающие элементы (floats). Как они работают.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "52e7e537e20c21a9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "002 CSS/Подготовка к собеседованиям/042 Что такое плавающие элементы (floats). Как они работают.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "404e219ce143b71f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "002 CSS/Подготовка к собеседованиям/042 Что такое плавающие элементы (floats). Как они работают.md"
+          }
+        }
+      },
+      {
+        "id": "0bac0c09f81b0323",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dc02a7a5087fbfc0",
+  "lastOpenFiles": [
+    "0. Подготовка к собеседованию/002 CSS.md",
+    "0. Подготовка к собеседованию/000 Browser.md",
+    "0. Подготовка к собеседованию/001 HTML.md",
+    "002 CSS/Подготовка к собеседованиям/024 Какие CSS-свойства могут быть обработаны непосредственно через GPU.md",
+    "001 HTML/0. Подготовка к собеседованиям/027 Знаете ли вы тег dfn и за что он отвечает.md",
+    "001 HTML/0. Подготовка к собеседованиям/028 Для чего используются тэги `sub` и `sup`.md",
+    "001 HTML/0. Подготовка к собеседованиям/007 Могут ли возникнуть проблемы при подаче страниц с типом application xhtml+xml.md",
+    "001 HTML/0. Подготовка к собеседованиям/001 Что такое HTML и для чего он используется.md",
+    "0. Подготовка к собеседованию/FrontEnd Developer.md",
+    "002 CSS/Подготовка к собеседованиям/029 Расскажите о свойстве `text-rendering`.md",
+    "002 CSS/Подготовка к собеседованиям/073 Почему не стоит использовать краткую запись свойств CSS.md",
+    "002 CSS/Подготовка к собеседованиям/071 Какие CSS-препроцессоры вы знаете. Преимущества их использования.md",
+    "002 CSS/Подготовка к собеседованиям/070 Что такое CSS препроцессор.md",
+    "002 CSS/Подготовка к собеседованиям/064 Можете ли вы привести пример свойства media, отличного от screen.md",
+    "002 CSS/Подготовка к собеседованиям/063 Можете ли вы объяснить разницу между отзывчивым (responsive) сайтом и сайтом, сделанным по принципу mobile-first.md",
+    "002 CSS/Подготовка к собеседованиям/062 Приходилось ли вам использовать или реализовывать медиазапросы или вёрстку под мобильные устройства.md",
+    "002 CSS/Подготовка к собеседованиям/060 Объясните разницу между единицами измерения px, em, rem.md",
+    "002 CSS/Подготовка к собеседованиям/059 Принципы и подходы для обеспечения масштабируемости и поддерживаемости CSS-кода.md",
+    "002 CSS/Подготовка к собеседованиям/058 Как с помощью CSS определить, поддерживается ли свойство в браузере.md",
+    "002 CSS/Подготовка к собеседованиям/057 Как Вы обеспечиваете отображение страниц в старых и ограниченных браузерах.md",
+    "002 CSS/Подготовка к собеседованиям/056 Как поддерживать страницы в браузерах с ограниченными функциями.md",
+    "002 CSS/Подготовка к собеседованиям/055 Что такое вендорные префиксы. И для чего они используются.md",
+    "002 CSS/Подготовка к собеседованиям/054 Разница между Reset.css и Normalize.css.md",
+    "002 CSS/Подготовка к собеседованиям/053 Разница между блочным и строчным (инлайновым) элементами.md",
+    "002 CSS/Подготовка к собеседованиям/042 Что такое плавающие элементы (floats). Как они работают.md",
+    "002 CSS/Подготовка к собеседованиям/039 Какие фильтры есть в CSS.md",
+    "Templates/Obsidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/WordpressWhite.svg",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Kia.svg",
+    "Templates/Obsidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Task.svg",
+    "Templates/Obsidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Bmw.svg",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Codersrank.svg",
+    "Templates/Obsidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Authy.svg",
+    "Templates/Obsidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Invoiceninja.svg",
+    "Templates/Obsidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Abstract.svg",
+    "sidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Exordo.svg",
+    "Templates/Obsidian/plugi.obns/obsidian-icon-folder/icons/simple-icons/Debian.svg"
+  ]
+}

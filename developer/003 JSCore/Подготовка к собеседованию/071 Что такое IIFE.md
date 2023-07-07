@@ -59,7 +59,7 @@ console.log(counter.getCount()); // Выводит 0
 
 
 ___
-#JS #IIFE I
+#JavaScript #IIFE I
 
 ___
 

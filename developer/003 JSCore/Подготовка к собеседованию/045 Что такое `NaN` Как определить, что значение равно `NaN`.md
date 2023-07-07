@@ -31,7 +31,7 @@ console.log(Number.isNaN(NaN)); // true
 В этом примере, `Number.isNaN()` возвращает `false` для строки `"hello"`, потому что строка не является `NaN`, и `true` для `NaN`, потому что это действительно `NaN`.
 
 ___
-#JS #NaN
+#JavaScript #NaN
 
 ___
 

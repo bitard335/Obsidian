@@ -25,7 +25,7 @@
 В целом, `useEffect()` и `componentDidMount()` выполняют схожие функции, но `useEffect()` является более гибким и универсальным, т.к. он может использоваться в функциональных компонентах и позволяет выполнять эффекты после каждого рендеринга компонента.
 
 ____
-#react #hooks #componentDidMount #useEffect 
+#React #hooks #componentDidMount #useEffect 
 
 ____
 

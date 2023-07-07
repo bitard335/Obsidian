@@ -20,7 +20,7 @@ try {    // код...
 Подробнее: [[1.1 Методы try..catch|Метод try...catch]]
 
 ___
- #JS #try-catch 
+ #JavaScript #try-catch 
 
 ___
 

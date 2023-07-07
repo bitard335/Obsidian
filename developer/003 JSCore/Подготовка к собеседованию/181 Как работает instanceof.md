@@ -34,7 +34,7 @@ console.log(person instanceof Array); // false
 Оператор `instanceof` может быть полезен для определения типа объекта в условных выражениях или при проверке наследования при работе с наследованием и полиморфизмом в объектно-ориентированном программировании в JavaScript.
 
 ___
- #JS #instanceof #class
+ #JavaScript #instanceof #class
 
 ___
 

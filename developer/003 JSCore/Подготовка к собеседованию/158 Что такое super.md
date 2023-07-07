@@ -68,7 +68,7 @@ Child.prototype.sayHello = function() {
 В этом примере `Parent.call(this, name)` вызывает конструктор родительского объекта `Parent` и устанавливает его свойства, а `Parent.prototype.sayHello.call(this)` вызывает метод `sayHello()` родительского объекта `Parent`.
 
 ___
- #JS #class #constructor #super
+ #JavaScript #class #constructor #super
 
 ___
 

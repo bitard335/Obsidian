@@ -1,18 +1,18 @@
 ____
 
-tags: #viteJS #React #JS #Vue 
+tags: #viteJS #React #JavaScript #Vue 
 
 links: [https://www.sitepoint.com/vitejs-front-end-build-tool-introduction/](https://www.sitepoint.com/vitejs-front-end-build-tool-introduction/)
 
 ![](https://www.youtube.com/watch?v=ndKgZRM7yjk)
 
 keywords:
-Vite - это инструмент сборки frontend-приложения. С его помощью создаётся среда разбработки #React #JS #Vue - приложений без этапа пакетирования.
+Vite - это инструмент сборки frontend-приложения. С его помощью создаётся среда разбработки #React #JavaScript #Vue - приложений без этапа пакетирования.
 Vite  предоставляет браузеру собственные модули #ES и Шаблоны (набор стартовых файлов) для ряда фреёмворков , ванильного JS , а также реализует поддержку #TypeScript , #JSX #Sass .
 
 Обычно мы собираем наши проекты с помощью #webpack , в то время когда Vite использует технологию #esbuild . Особенность этой технологии в том, что она написана на #GO , что делает его в 10-100 раз быстрее , чем другие инструменты написанные на JS.
 
-Скорости #bundler для веб-разработки:
+Скорости #bundle для веб-разработки:
 #esbuild 0.37 s.
 #parcel 30.5 s.
 #rollup + #terser 32.07 s.

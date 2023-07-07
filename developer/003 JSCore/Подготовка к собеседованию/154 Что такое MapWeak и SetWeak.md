@@ -11,7 +11,7 @@
 Подробнее: [MapWeak и SetWeak](https://learn.javascript.ru/weakmap-weakset)
 
 ___
- #JS #WeakMap #WeakSet
+ #JavaScript #WeakMap #WeakSet
 
 ___
 

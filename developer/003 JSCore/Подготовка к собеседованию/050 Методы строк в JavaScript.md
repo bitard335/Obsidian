@@ -75,7 +75,7 @@ console.log(str.trim()); // "Hello, World!"
 Это лишь некоторые из методов, доступных для работы со строками в JavaScript. Они помогают упростить различные операции со строками и могут быть использованы во многих сценариях программирования.
 
 ___
-#JS #string #length #chartAt #toUpperCase #toLowerCase #indexOf #lastIndexOf #slice #substr #substring #replace #trim
+#JavaScript #string #length #chartAt #toUpperCase #toLowerCase #indexOf #lastIndexOf #slice #substr #substring #replace #trim
 
 ___
 

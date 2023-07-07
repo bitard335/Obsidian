@@ -45,7 +45,7 @@ export default App;
 В этом примере компонент-переключатель Switch оборачивает множество компонентов Route, которые определяют, какой компонент должен быть отображен на странице в зависимости от текущего маршрута. Компонент Route с атрибутом exact используется для определения домашней страницы, а компоненты Route с путями /about и /contact используются для определения страниц About и Contact.
 
 ____
-#react #switchingComponent #react-router 
+#React #switchingComponent #React-router 
 
 ____
 

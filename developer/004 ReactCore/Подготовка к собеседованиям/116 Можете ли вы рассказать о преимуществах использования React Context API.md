@@ -20,7 +20,7 @@ React Context API — отличная альтернатива передаче
 
 
 ____
-#react
+#React
 
 ____
 

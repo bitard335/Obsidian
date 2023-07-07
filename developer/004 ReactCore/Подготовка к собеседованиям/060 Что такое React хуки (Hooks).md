@@ -107,7 +107,7 @@ export default MyComponent;
 В данном примере мы используем хук `useReducer()` для управлением состояния `count` с помощью редуктора `reducer` в функциональном компоненте `MyComponent`. Хук `useReducer()` возвращает текущее состояние и функцию для диспетчеризации действий. Мы передаем вторым аргументом начальное состояние объекта `{ count: 0 }` и редуктор `reducer`, который обрабатывает действия `increment` и `decrement`. В методе `render()` мы используем функцию диспетчеризации `dispatch()` для вызова соответствующих действий при нажатии на кнопки.
 
 ____
-#react #Hooks #useState #useEffect #useReducer #useContext 
+#React #Hooks #useState #useEffect #useReducer #useContext 
 
 ____
 
