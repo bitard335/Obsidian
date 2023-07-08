@@ -1,6 +1,6 @@
 #### Ответ
 
-Свойство CSS flex-wrap
+Свойство CSS *flex-wrap*
 - nowrap | wrap | wrap-reverse
 
 Подробней: [Flexbox](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Flexbox)
